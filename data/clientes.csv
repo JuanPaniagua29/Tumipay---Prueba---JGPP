@@ -1,0 +1,1401 @@
+﻿cliente_id,fecha_registro,departamento,ciudad,edad,genero,estrato,nivel_educativo,ocupacion,ingreso_mensual_estimado,canal_adquisicion,score_externo,tiene_producto_ahorro,numero_dependientes,dispositivo_principal,email_hash
+CL00001,2024-03-25,Valle del Cauca,Cali,41,M,1,Técnico/Tecnólogo,Comerciante,1600000.0,Campaña digital,444.0,False,2,Android,hash_732413
+CL00002,2025-09-27,Tolima,Ibagué,35,F,3,Técnico/Tecnólogo,Pensionado,3310000.0,Referido,580.0,False,3,iOS,hash_130099
+CL00003,2024-01-19,Bogotá D.C.,Bogotá,42,F,2,Universitario,Independiente,2350000.0,Campaña digital,564.0,False,0,iOS,hash_166668
+CL00004,2025-09-11,Antioquia,Medellín,51,M,5,Posgrado,Estudiante,1450000.0,Campaña digital,631.0,True,0,Android,hash_325391
+CL00005,2025-12-12,Cundinamarca,Soacha,34,F,1,Universitario,Empleado,910000.0,Aliado comercial,515.0,False,2,Android,hash_782416
+CL00006,2024-03-12,Valle del Cauca,Cali,34,F,2,Técnico/Tecnólogo,Empleado,3440000.0,Referido,466.0,True,0,iOS,hash_308859
+CL00007,2025-03-21,Antioquia,Medellín,52,M,3,Universitario,Conductor/Repartidor,3860000.0,App orgánico,600.0,True,0,Android,hash_238286
+CL00008,2023-12-30,Cundinamarca,Soacha,44,F,4,Técnico/Tecnólogo,Desempleado,1500000.0,Campaña digital,456.0,True,0,Android,hash_305776
+CL00009,2025-08-21,Meta,Villavicencio,31,F,2,Técnico/Tecnólogo,Empleado,1550000.0,Aliado comercial,582.0,False,0,Web,hash_457246
+CL00010,2024-12-10,Cundinamarca,Soacha,41,F,3,Posgrado,Conductor/Repartidor,,Referido,576.0,True,0,Android,hash_162021
+CL00011,2025-07-30,Antioquia,Medellín,31,F,4,Técnico/Tecnólogo,Desempleado,1300000.0,Referido,573.0,False,1,Android,hash_435299
+CL00012,2024-01-24,Antioquia,Medellín,31,M,4,Universitario,Empleado,3510000.0,Campaña digital,665.0,False,0,Android,hash_925626
+CL00013,2024-10-26,Valle del Cauca,Cali,38,M,5,Técnico/Tecnólogo,Empleado,4670000.0,Aliado comercial,692.0,False,0,Android,hash_505105
+CL00014,2025-09-30,Cundinamarca,Soacha,19,F,1,Técnico/Tecnólogo,Estudiante,760000.0,App orgánico,435.0,False,3,Android,hash_335419
+CL00015,2026-01-02,Antioquia,Medellín,19,M,4,Bachiller,Empleado,2970000.0,App orgánico,506.0,False,4,iOS,hash_479270
+CL00016,2023-03-05,Atlántico,Barranquilla,30,F,2,Sin información,Empleado,2340000.0,Aliado comercial,577.0,True,1,Web,hash_503777
+CL00017,2024-11-22,Caldas,Manizales,26,F,2,Técnico/Tecnólogo,Empleado,3690000.0,App orgánico,658.0,False,1,iOS,hash_466081
+CL00018,2024-03-23,Antioquia,Medellín,39,M,5,Bachiller,Comerciante,2890000.0,Referido,651.0,False,1,Android,hash_771553
+CL00019,2024-09-27,Bogotá D.C.,Bogotá,27,M,5,Universitario,Empleado,5350000.0,Campaña digital,649.0,True,0,Android,hash_626930
+CL00020,2023-08-14,Bogotá D.C.,Bogotá,22,M,5,Universitario,Empleado,4890000.0,Referido,706.0,True,2,Android,hash_838096
+CL00021,2023-07-08,Valle del Cauca,Cali,51,M,2,Sin información,Pensionado,2440000.0,App orgánico,674.0,True,1,Android,hash_500890
+CL00022,2023-07-21,Bogotá D.C.,Bogotá,34,M,4,Universitario,Microempresario,4220000.0,Campaña digital,743.0,True,2,Android,hash_321552
+CL00023,2025-11-13,Cundinamarca,Soacha,37,F,5,Sin información,Empleado,3930000.0,Referido,669.0,False,0,Android,hash_429231
+CL00024,2025-03-08,Bogotá D.C.,Bogotá,22,M,4,Bachiller,Pensionado,2960000.0,Campaña digital,621.0,False,2,Android,hash_526674
+CL00025,2023-11-17,Risaralda,Pereira,31,M,2,Posgrado,Independiente,1770000.0,App orgánico,595.0,False,1,iOS,hash_163610
+CL00026,2025-10-21,Santander,Bucaramanga,37,F,3,Técnico/Tecnólogo,Independiente,3070000.0,Aliado comercial,618.0,False,0,Android,hash_796454
+CL00027,2023-05-23,Bogotá D.C.,Bogotá,24,F,5,Técnico/Tecnólogo,Independiente,3560000.0,Call center,616.0,True,1,iOS,hash_737787
+CL00028,2025-11-13,Santander,Bucaramanga,40,F,4,Sin información,Estudiante,1080000.0,Referido,548.0,False,0,iOS,hash_900819
+CL00029,2024-05-09,Norte de Santander,Cúcuta,30,F,2,Técnico/Tecnólogo,Microempresario,3800000.0,Call center,645.0,False,0,Android,hash_737938
+CL00030,2025-11-06,Cundinamarca,Soacha,33,M,3,Universitario,Empleado,3480000.0,Referido,636.0,False,0,Android,hash_332076
+CL00031,2024-06-03,Bolívar,Cartagena,30,M,3,Universitario,Independiente,4440000.0,Campaña digital,615.0,True,0,Android,hash_403602
+CL00032,2023-03-23,Bogotá D.C.,Bogotá,55,F,1,Bachiller,Empleado,2350000.0,Referido,506.0,True,0,Web,hash_484583
+CL00033,2025-07-30,Caldas,Manizales,36,M,4,Bachiller,Independiente,3310000.0,Referido,675.0,False,1,Android,hash_296846
+CL00034,2026-01-04,Bogotá D.C.,Bogotá,25,F,1,Técnico/Tecnólogo,Comerciante,1530000.0,Aliado comercial,476.0,True,1,Android,hash_347536
+CL00035,2024-12-01,Atlántico,Barranquilla,44,M,3,Posgrado,Microempresario,5040000.0,Campaña digital,684.0,False,2,Android,hash_732405
+CL00036,2025-02-16,Cundinamarca,Soacha,24,M,2,Técnico/Tecnólogo,Independiente,2010000.0,Campaña digital,,True,1,Android,hash_647473
+CL00037,2025-07-20,Norte de Santander,Cúcuta,38,M,1,Posgrado,Empleado,2050000.0,Campaña digital,601.0,False,1,Android,hash_976533
+CL00038,2025-06-29,Antioquia,Medellín,19,F,3,Bachiller,Desempleado,,Referido,418.0,False,2,Android,hash_209162
+CL00039,2024-03-21,Tolima,Ibagué,23,M,4,Universitario,Empleado,3130000.0,Campaña digital,670.0,True,2,Android,hash_431119
+CL00040,2025-12-08,Bolívar,Cartagena,38,M,3,Bachiller,Microempresario,4190000.0,App orgánico,610.0,False,2,iOS,hash_831862
+CL00041,2023-06-28,Atlántico,Barranquilla,43,F,4,Técnico/Tecnólogo,Independiente,3040000.0,Campaña digital,699.0,False,1,Android,hash_795532
+CL00042,2024-06-07,Bogotá D.C.,Bogotá,38,M,4,Bachiller,Independiente,1790000.0,Referido,587.0,False,4,Android,hash_212701
+CL00043,2024-03-07,Santander,Bucaramanga,35,M,5,Técnico/Tecnólogo,Empleado,2450000.0,App orgánico,690.0,False,2,Android,hash_869460
+CL00044,2024-12-25,Cundinamarca,Soacha,33,F,4,Bachiller,Microempresario,2970000.0,App orgánico,704.0,False,0,Android,hash_791319
+CL00045,2024-10-23,Cundinamarca,Soacha,21,No informa,2,Universitario,Microempresario,,Aliado comercial,497.0,True,1,Android,hash_921935
+CL00046,2025-01-21,Cundinamarca,Soacha,29,F,5,Técnico/Tecnólogo,Estudiante,,Referido,613.0,False,4,iOS,hash_348724
+CL00047,2025-08-08,Risaralda,Pereira,31,F,2,Sin información,Comerciante,1640000.0,Campaña digital,569.0,False,0,Android,hash_799746
+CL00048,2025-01-03,Tolima,Ibagué,47,M,2,Universitario,Independiente,,App orgánico,554.0,False,1,iOS,hash_892173
+CL00049,2025-08-04,Antioquia,Medellín,39,M,3,Universitario,Comerciante,1200000.0,App orgánico,474.0,False,2,Android,hash_425329
+CL00050,2023-09-17,Bogotá D.C.,Bogotá,19,M,3,Bachiller,Pensionado,2300000.0,App orgánico,523.0,False,1,Android,hash_362091
+CL00051,2024-08-07,Bogotá D.C.,Bogotá,39,M,3,Técnico/Tecnólogo,Comerciante,2730000.0,Campaña digital,530.0,False,0,Android,hash_774533
+CL00052,2024-04-01,Santander,Bucaramanga,32,F,4,Técnico/Tecnólogo,Empleado,3840000.0,App orgánico,606.0,False,3,iOS,hash_571869
+CL00053,2025-10-25,Atlántico,Barranquilla,29,M,5,Bachiller,Independiente,2280000.0,App orgánico,685.0,True,2,Android,hash_508376
+CL00054,2023-06-21,Valle del Cauca,Cali,42,M,1,Posgrado,Microempresario,2180000.0,Referido,550.0,False,2,Android,hash_741593
+CL00055,2025-01-26,Bogotá D.C.,Bogotá,46,F,2,Universitario,Independiente,1200000.0,App orgánico,518.0,True,2,Android,hash_877635
+CL00056,2025-08-08,Santander,Bucaramanga,45,M,2,Bachiller,Empleado,2370000.0,App orgánico,609.0,False,0,Android,hash_503551
+CL00057,2023-01-28,Bogotá D.C.,Bogotá,28,F,4,Técnico/Tecnólogo,Independiente,1990000.0,Aliado comercial,512.0,True,1,Android,hash_755244
+CL00058,2023-10-13,Antioquia,Medellín,33,F,6,Técnico/Tecnólogo,Independiente,2480000.0,Aliado comercial,667.0,False,0,Android,hash_805356
+CL00059,2025-06-08,Bolívar,Cartagena,39,M,3,Bachiller,Independiente,2190000.0,Campaña digital,639.0,False,1,iOS,hash_223728
+CL00060,2025-03-17,Cundinamarca,Soacha,46,F,3,Técnico/Tecnólogo,Independiente,3730000.0,Referido,648.0,False,0,Android,hash_181972
+CL00061,2023-04-06,Bogotá D.C.,Bogotá,31,M,2,Técnico/Tecnólogo,Empleado,2230000.0,Referido,607.0,False,0,Web,hash_900511
+CL00062,2025-04-09,Bogotá D.C.,Bogotá,34,F,4,Posgrado,Independiente,2410000.0,App orgánico,625.0,True,0,iOS,hash_591121
+CL00063,2023-02-04,Bogotá D.C.,Bogotá,25,F,2,Sin información,Empleado,3090000.0,Call center,487.0,False,3,iOS,hash_547244
+CL00064,2024-01-30,Valle del Cauca,Cali,24,M,4,Universitario,Independiente,2850000.0,Call center,528.0,False,2,Android,hash_457546
+CL00065,2024-02-07,Bogotá D.C.,Bogotá,44,M,2,Bachiller,Empleado,6290000.0,Campaña digital,732.0,True,3,Web,hash_359438
+CL00066,2023-06-13,Bogotá D.C.,Bogotá,50,F,3,Sin información,Empleado,2580000.0,Campaña digital,643.0,False,0,Android,hash_553222
+CL00067,2024-12-27,Bogotá D.C.,Bogotá,35,F,2,Técnico/Tecnólogo,Microempresario,3970000.0,Campaña digital,728.0,False,0,Android,hash_637970
+CL00068,2024-03-24,Antioquia,Medellín,46,M,5,Universitario,Empleado,4810000.0,App orgánico,739.0,True,2,Android,hash_328931
+CL00069,2023-05-20,Antioquia,Medellín,40,M,2,Universitario,Estudiante,2050000.0,Call center,500.0,False,1,Android,hash_835226
+CL00070,2024-10-06,Cundinamarca,Soacha,30,F,6,Sin información,Empleado,5020000.0,App orgánico,726.0,True,0,Android,hash_450679
+CL00071,2025-08-22,Antioquia,Medellín,40,M,5,Universitario,Independiente,2060000.0,App orgánico,662.0,True,0,Android,hash_377785
+CL00072,2025-07-22,Bolívar,Cartagena,51,F,2,Técnico/Tecnólogo,Microempresario,2350000.0,Campaña digital,657.0,False,2,iOS,hash_177525
+CL00073,2023-08-27,Bogotá D.C.,Bogotá,36,M,1,Técnico/Tecnólogo,Independiente,2040000.0,App orgánico,543.0,True,1,iOS,hash_992015
+CL00074,2025-09-05,Bogotá D.C.,Bogotá,52,F,3,Bachiller,Empleado,6110000.0,Aliado comercial,758.0,False,0,Android,hash_591830
+CL00075,2025-01-26,Antioquia,Medellín,19,F,3,Universitario,Empleado,3520000.0,Campaña digital,588.0,True,0,Android,hash_457820
+CL00076,2024-07-27,Bogotá D.C.,Bogotá,44,F,4,Universitario,Independiente,2370000.0,Referido,592.0,True,2,Android,hash_279689
+CL00077,2026-01-13,Antioquia,Medellín,37,F,4,Bachiller,Microempresario,1940000.0,Campaña digital,580.0,True,3,Android,hash_317516
+CL00078,2025-04-27,Cundinamarca,Soacha,33,F,2,Técnico/Tecnólogo,Empleado,3200000.0,Call center,622.0,True,3,Android,hash_435064
+CL00079,2023-12-29,Atlántico,Barranquilla,37,M,2,Técnico/Tecnólogo,Pensionado,2450000.0,Campaña digital,501.0,True,1,Android,hash_112306
+CL00080,2025-09-21,Risaralda,Pereira,19,M,3,Universitario,Empleado,2050000.0,Campaña digital,589.0,False,0,Android,hash_793023
+CL00081,2023-11-05,Bolívar,Cartagena,34,F,3,Universitario,Independiente,1850000.0,App orgánico,,False,0,iOS,hash_768958
+CL00082,2023-06-04,Bogotá D.C.,Bogotá,40,M,5,Sin información,Empleado,2960000.0,Aliado comercial,594.0,False,2,Android,hash_961641
+CL00083,2025-08-01,Antioquia,Medellín,51,M,4,Bachiller,Empleado,2390000.0,Call center,522.0,True,0,iOS,hash_927679
+CL00084,2023-03-28,Antioquia,Medellín,31,F,3,Bachiller,Empleado,3750000.0,App orgánico,614.0,True,4,Web,hash_683107
+CL00085,2025-08-24,Bogotá D.C.,Bogotá,17,M,4,Bachiller,Empleado,3300000.0,Call center,678.0,True,2,Android,hash_345984
+CL00086,2025-12-22,Antioquia,Medellín,31,M,2,Bachiller,Empleado,2610000.0,Campaña digital,425.0,False,2,iOS,hash_261081
+CL00087,2025-10-14,Antioquia,Medellín,45,F,1,Posgrado,Microempresario,2220000.0,Call center,515.0,False,0,Android,hash_663457
+CL00088,2024-09-25,Tolima,Ibagué,39,F,1,Universitario,Independiente,1880000.0,App orgánico,507.0,False,0,Android,hash_666605
+CL00089,2025-11-10,Antioquia,Medellín,31,M,3,Técnico/Tecnólogo,Desempleado,1100000.0,Campaña digital,440.0,True,1,iOS,hash_539358
+CL00090,2025-11-06,Bogotá D.C.,Bogotá,41,F,4,Bachiller,Empleado,1790000.0,Referido,567.0,False,3,iOS,hash_841570
+CL00091,2025-08-09,Valle del Cauca,Cali,37,M,3,Bachiller,Conductor/Repartidor,1830000.0,App orgánico,497.0,True,1,Android,hash_141743
+CL00092,2023-10-14,Bogotá D.C.,Bogotá,46,M,3,Técnico/Tecnólogo,Microempresario,5300000.0,Referido,676.0,True,0,Android,hash_769221
+CL00093,2023-07-20,Bogotá D.C.,Bogotá,29,M,4,Técnico/Tecnólogo,Comerciante,4660000.0,App orgánico,693.0,True,4,Android,hash_925992
+CL00094,2024-11-06,Bogotá D.C.,Bogotá,33,M,5,Universitario,Desempleado,1250000.0,Call center,602.0,False,1,Android,hash_614241
+CL00095,2023-08-18,Antioquia,Medellín,32,F,4,Universitario,Comerciante,,Campaña digital,697.0,True,1,Android,hash_893567
+CL00096,2024-08-08,Antioquia,Medellín,21,F,4,Sin información,Empleado,4410000.0,Campaña digital,630.0,False,0,Android,hash_115216
+CL00097,2023-09-29,Meta,Villavicencio,39,M,1,Universitario,Conductor/Repartidor,2100000.0,App orgánico,505.0,False,0,Android,hash_421898
+CL00098,2023-01-20,Bogotá D.C.,Bogotá,39,F,2,Bachiller,Desempleado,390000.0,App orgánico,562.0,False,0,Android,hash_653280
+CL00099,2024-08-12,Santander,Bucaramanga,36,M,3,Técnico/Tecnólogo,Conductor/Repartidor,3460000.0,Campaña digital,612.0,False,0,Android,hash_451889
+CL00100,2023-03-12,Bogotá D.C.,Bogotá,34,M,4,Universitario,Microempresario,4340000.0,Aliado comercial,665.0,False,2,Android,hash_631985
+CL00101,2024-02-11,Atlántico,Barranquilla,22,M,4,Sin información,Empleado,2710000.0,Aliado comercial,576.0,True,0,iOS,hash_881712
+CL00102,2024-05-15,Cundinamarca,Soacha,32,F,3,Bachiller,Estudiante,1120000.0,Aliado comercial,451.0,True,0,Android,hash_203533
+CL00103,2025-03-01,Bogotá D.C.,Bogotá,33,M,4,Técnico/Tecnólogo,Independiente,2980000.0,Campaña digital,646.0,False,0,Android,hash_387360
+CL00104,2025-11-28,Antioquia,Medellín,28,M,2,Sin información,Empleado,2670000.0,Campaña digital,585.0,False,0,Android,hash_597488
+CL00105,2025-07-17,Valle del Cauca,Cali,34,F,3,Técnico/Tecnólogo,Microempresario,2570000.0,Campaña digital,674.0,False,2,iOS,hash_972437
+CL00106,2025-11-30,Caldas,Manizales,40,M,4,Universitario,Empleado,5320000.0,App orgánico,756.0,True,1,Android,hash_254226
+CL00107,2024-11-08,Valle del Cauca,Cali,55,F,3,Universitario,Comerciante,,Aliado comercial,592.0,True,1,Android,hash_592461
+CL00108,2025-11-30,Atlántico,Barranquilla,38,M,2,Técnico/Tecnólogo,Comerciante,,Campaña digital,596.0,False,0,iOS,hash_392717
+CL00109,2024-05-30,Antioquia,Medellín,39,M,3,Técnico/Tecnólogo,Pensionado,2440000.0,Call center,600.0,False,3,Android,hash_572697
+CL00110,2025-01-19,Antioquia,Medellín,35,F,2,Universitario,Pensionado,2020000.0,Referido,497.0,True,0,Android,hash_251899
+CL00111,2023-06-19,Caldas,Manizales,19,F,2,Universitario,Independiente,1580000.0,Campaña digital,495.0,False,1,Android,hash_810872
+CL00112,2024-12-26,Meta,Villavicencio,36,M,5,Bachiller,Comerciante,3620000.0,Aliado comercial,595.0,True,0,Android,hash_101539
+CL00113,2024-10-21,Bolívar,Cartagena,37,F,1,Bachiller,Empleado,4830000.0,App orgánico,706.0,True,1,Android,hash_355821
+CL00114,2023-03-03,Bogotá D.C.,Bogotá,61,M,4,Bachiller,Empleado,5200000.0,Call center,759.0,False,1,iOS,hash_566589
+CL00115,2025-05-11,Antioquia,Medellín,34,M,5,Bachiller,Microempresario,2860000.0,Aliado comercial,586.0,False,0,iOS,hash_109927
+CL00116,2023-07-31,Cundinamarca,Soacha,39,M,2,Bachiller,Independiente,2630000.0,App orgánico,,False,1,Android,hash_892038
+CL00117,2025-01-22,Antioquia,Medellín,36,F,3,Universitario,Empleado,2900000.0,Aliado comercial,655.0,False,1,iOS,hash_773217
+CL00118,2025-08-30,Cundinamarca,Soacha,24,M,4,Bachiller,Comerciante,1940000.0,Referido,661.0,True,1,Android,hash_226613
+CL00119,2023-08-15,Bogotá D.C.,Bogotá,47,F,4,Técnico/Tecnólogo,Comerciante,1930000.0,App orgánico,613.0,True,0,Android,hash_636069
+CL00120,2025-09-21,Antioquia,Medellín,44,F,5,Técnico/Tecnólogo,Microempresario,,App orgánico,733.0,True,1,Android,hash_545935
+CL00121,2025-04-30,Bogotá D.C.,Bogot,44,M,1,Posgrado,Empleado,890000.0,App orgánico,596.0,True,0,Android,hash_814221
+CL00122,2024-04-03,Valle del Cauca,Cali,27,M,2,Bachiller,Empleado,3810000.0,App orgánico,491.0,True,2,Android,hash_705151
+CL00123,2024-05-25,Bogotá D.C.,Bogotá,50,M,2,Bachiller,Empleado,4620000.0,App orgánico,711.0,False,0,Android,hash_356812
+CL00124,2025-12-17,Valle del Cauca,Cali,22,F,1,Universitario,Pensionado,,Call center,408.0,False,1,Android,hash_877130
+CL00125,2024-02-22,Caldas,Manizales,42,F,4,Técnico/Tecnólogo,Empleado,5500000.0,App orgánico,678.0,True,4,iOS,hash_853790
+CL00126,2024-08-11,Antioquia,Medellín,58,M,2,Universitario,Independiente,2310000.0,Call center,603.0,True,2,Android,hash_355719
+CL00127,2023-07-17,Bogotá D.C.,Bogotá,26,M,2,Sin información,Independiente,3180000.0,Referido,523.0,True,2,Android,hash_396794
+CL00128,2023-02-12,Atlántico,Barranquilla,30,F,4,Universitario,Empleado,3530000.0,Referido,630.0,False,1,Android,hash_102159
+CL00129,2025-11-24,Bogotá D.C.,Bogotá,37,F,2,Técnico/Tecnólogo,Independiente,1580000.0,App orgánico,571.0,False,0,Android,hash_392007
+CL00130,2023-02-27,Bogotá D.C.,Bogotá,31,M,1,Bachiller,Comerciante,1530000.0,App orgánico,492.0,False,1,iOS,hash_191873
+CL00131,2023-02-20,Atlántico,Barranquilla,20,F,3,Bachiller,Microempresario,2530000.0,App orgánico,522.0,True,0,Android,hash_533797
+CL00132,2023-03-24,Atlántico,Barranquilla,37,M,4,Bachiller,Empleado,4370000.0,App orgánico,635.0,False,2,Android,hash_997214
+CL00133,2023-01-24,Cundinamarca,Soacha,25,F,2,Técnico/Tecnólogo,Empleado,2000000.0,Campaña digital,476.0,False,3,Web,hash_902121
+CL00134,2023-05-07,Bogotá D.C.,Bogotá,41,F,3,Bachiller,Empleado,2740000.0,App orgánico,605.0,False,1,Android,hash_326377
+CL00135,2025-07-26,Tolima,Ibagué,27,M,3,Bachiller,Empleado,3720000.0,App orgánico,632.0,True,0,Android,hash_622904
+CL00136,2024-06-06,Bolívar,Cartagena,51,F,2,Técnico/Tecnólogo,Comerciante,1250000.0,Campaña digital,557.0,False,0,Android,hash_644061
+CL00137,2025-07-22,Risaralda,Pereira,28,F,2,Universitario,Estudiante,1210000.0,Campaña digital,491.0,True,2,iOS,hash_449173
+CL00138,2025-08-01,Bogotá D.C.,Bogotá,33,M,2,Posgrado,Empleado,2960000.0,Aliado comercial,601.0,True,2,Web,hash_819132
+CL00139,2023-08-11,Antioquia,Medellin ,44,F,3,Universitario,Empleado,2420000.0,Aliado comercial,565.0,True,4,Android,hash_977751
+CL00140,2023-07-31,Bogotá D.C.,Bogotá,24,No informa,4,Universitario,Pensionado,3460000.0,App orgánico,577.0,False,2,Android,hash_171916
+CL00141,2023-10-01,Bogotá D.C.,Bogotá,38,M,3,Universitario,Conductor/Repartidor,2030000.0,Referido,598.0,False,0,Android,hash_504911
+CL00142,2024-12-02,Cundinamarca,Soacha,49,F,3,Técnico/Tecnólogo,Microempresario,5560000.0,App orgánico,781.0,False,0,Android,hash_594670
+CL00143,2024-07-11,Meta,Villavicencio,20,M,3,Bachiller,Comerciante,2110000.0,Call center,499.0,False,4,iOS,hash_450988
+CL00144,2024-09-06,Caldas,Manizales,38,F,2,Bachiller,Empleado,2980000.0,App orgánico,481.0,False,0,Android,hash_655393
+CL00145,2023-12-26,Bogotá D.C.,Bogotá,39,M,3,Posgrado,Comerciante,1640000.0,Aliado comercial,465.0,False,0,Android,hash_807062
+CL00146,2023-10-25,Bolívar,Cartagena,44,F,2,Bachiller,Independiente,2880000.0,Referido,589.0,True,0,iOS,hash_655839
+CL00147,2025-02-28,Antioquia,Medellín,24,M,4,Técnico/Tecnólogo,Microempresario,,App orgánico,700.0,False,1,Android,hash_372544
+CL00148,2023-03-16,Bolívar,Cartagena,23,F,1,Universitario,Empleado,2180000.0,Campaña digital,502.0,False,3,iOS,hash_963413
+CL00149,2024-06-18,Bogotá D.C.,Bogotá,41,F,3,Técnico/Tecnólogo,Microempresario,3620000.0,Call center,660.0,False,0,iOS,hash_617965
+CL00150,2025-10-30,Cundinamarca,Soacha,39,F,5,Bachiller,Empleado,4200000.0,App orgánico,634.0,False,1,Web,hash_118557
+CL00151,2024-12-19,Valle del Cauca,Cali,39,M,1,Posgrado,Empleado,1560000.0,Aliado comercial,477.0,False,0,Android,hash_126081
+CL00152,2025-07-26,Norte de Santander,Cúcuta,39,F,4,Universitario,Empleado,2710000.0,App orgánico,632.0,False,1,Android,hash_443003
+CL00153,2023-10-30,Risaralda,Pereira,29,M,4,Universitario,Pensionado,1990000.0,Referido,526.0,False,2,Android,hash_871152
+CL00154,2024-09-07,Valle del Cauca,Cali,38,F,3,Universitario,Microempresario,2560000.0,App orgánico,626.0,True,4,Android,hash_857582
+CL00155,2025-07-20,Meta,Villavicencio,39,M,1,Técnico/Tecnólogo,Empleado,1970000.0,Aliado comercial,484.0,False,2,Android,hash_665148
+CL00156,2024-05-14,Antioquia,Medellín,29,F,2,Técnico/Tecnólogo,Comerciante,3770000.0,Campaña digital,625.0,False,0,Android,hash_851331
+CL00157,2025-11-26,Valle del Cauca,Cali,55,M,2,Técnico/Tecnólogo,Empleado,2770000.0,Campaña digital,634.0,False,0,Android,hash_543833
+CL00158,2024-10-31,Bogotá D.C.,Bogotá,41,M,4,Posgrado,Empleado,5650000.0,Campaña digital,668.0,True,0,Android,hash_444407
+CL00159,2023-10-08,Bogotá D.C.,Bogotá,24,M,1,Bachiller,Empleado,1560000.0,Call center,506.0,True,2,Android,hash_964950
+CL00160,2024-07-13,Antioquia,Medellín,43,F,4,Técnico/Tecnólogo,Empleado,2590000.0,Campaña digital,689.0,False,4,iOS,hash_173591
+CL00161,2025-05-19,Atlántico,Barranquilla,26,M,2,Sin información,Empleado,1600000.0,Referido,531.0,False,4,Android,hash_249172
+CL00162,2023-10-13,Bogotá D.C.,Bogotá,44,M,3,Universitario,Estudiante,-1.0,Aliado comercial,419.0,False,2,Android,hash_568013
+CL00163,2024-10-14,Bolívar,Cartagena,48,F,4,Universitario,Microempresario,3410000.0,Referido,660.0,False,1,Android,hash_666605
+CL00164,2023-06-03,Valle del Cauca,Cali,28,M,2,Universitario,Empleado,2600000.0,Call center,659.0,False,1,iOS,hash_731339
+CL00165,2023-05-01,Valle del Cauca,Cali,46,F,3,Bachiller,Comerciante,3050000.0,Referido,738.0,False,1,Android,hash_663329
+CL00166,2025-11-04,Bogotá D.C.,Bogotá,40,M,3,Técnico/Tecnólogo,Conductor/Repartidor,3140000.0,Campaña digital,622.0,True,3,Android,hash_985259
+CL00167,2023-03-15,Cundinamarca,Soacha,44,F,2,Posgrado,Comerciante,2720000.0,App orgánico,517.0,False,3,Android,hash_833375
+CL00168,2023-10-04,Cundinamarca,Soacha,55,F,4,Técnico/Tecnólogo,Conductor/Repartidor,2770000.0,Aliado comercial,512.0,False,1,Web,hash_129709
+CL00169,2023-06-03,Santander,Bucaramanga,34,F,1,Técnico/Tecnólogo,Empleado,3580000.0,Campaña digital,601.0,False,0,Android,hash_128885
+CL00170,2023-12-09,Norte de Santander,Cúcuta,28,F,1,Universitario,Comerciante,2370000.0,Campaña digital,498.0,False,1,Android,hash_700699
+CL00171,2023-05-16,Valle del Cauca,Cali,27,M,4,Bachiller,Empleado,7030000.0,App orgánico,707.0,False,1,Android,hash_473145
+CL00172,2025-01-08,Bolívar,Cartagena,28,F,3,Universitario,Empleado,3880000.0,App orgánico,616.0,True,2,Android,hash_771813
+CL00173,2023-10-19,Atlántico,Barranquilla,35,F,3,Posgrado,Empleado,2410000.0,App orgánico,585.0,True,2,Android,hash_734649
+CL00174,2024-06-24,Valle del Cauca,Cali,39,M,2,Sin información,Microempresario,1600000.0,App orgánico,487.0,True,1,Android,hash_972882
+CL00175,2025-03-18,Atlántico,Barranquilla,39,F,2,Universitario,Comerciante,1970000.0,Call center,539.0,False,3,Android,hash_882119
+CL00176,2023-10-11,Valle del Cauca,Cali,44,F,3,Técnico/Tecnólogo,Microempresario,2630000.0,App orgánico,580.0,True,1,Android,hash_783189
+CL00177,2023-08-07,Bogotá D.C.,Bogotá,36,F,4,Sin información,Empleado,4590000.0,Referido,839.0,False,0,Android,hash_931769
+CL00178,2023-11-30,Cundinamarca,Soacha,51,M,1,Universitario,Empleado,2970000.0,Aliado comercial,638.0,False,0,Android,hash_678921
+CL00179,2024-02-11,Valle del Cauca,Cali,33,F,2,Bachiller,Comerciante,3430000.0,Campaña digital,514.0,True,0,Android,hash_139148
+CL00180,2025-05-11,Antioquia,Medellín,63,F,2,Técnico/Tecnólogo,Microempresario,2970000.0,App orgánico,665.0,True,1,iOS,hash_286720
+CL00181,2025-07-08,Bogotá D.C.,Bogotá,42,M,5,Bachiller,Independiente,4850000.0,Referido,691.0,False,2,Android,hash_862277
+CL00182,2024-03-14,Bogotá D.C.,Bogotá,27,F,3,Técnico/Tecnólogo,Empleado,3880000.0,App orgánico,594.0,True,4,iOS,hash_604655
+CL00183,2024-06-27,Bolívar,Cartagena,25,M,2,Universitario,Desempleado,610000.0,Campaña digital,526.0,False,0,Android,hash_345160
+CL00184,2023-09-10,Bogotá D.C.,Bogotá,41,F,2,Técnico/Tecnólogo,Empleado,1990000.0,App orgánico,493.0,False,3,Android,hash_751824
+CL00185,2025-06-20,Antioquia,Medellín,34,F,1,Universitario,Microempresario,3260000.0,Campaña digital,493.0,True,1,Web,hash_453330
+CL00186,2023-07-25,Valle del Cauca,Cali,43,F,3,Sin información,Microempresario,4410000.0,App orgánico,555.0,False,2,Android,hash_596753
+CL00187,2023-02-18,Cundinamarca,Soacha,41,F,1,Universitario,Independiente,850000.0,Campaña digital,578.0,True,4,Android,hash_552558
+CL00188,2024-11-27,Valle del Cauca,Cali,35,F,3,Universitario,Microempresario,2430000.0,Referido,615.0,True,0,Android,hash_139236
+CL00189,2024-03-01,Bogotá D.C.,Bogotá,28,M,2,Bachiller,Independiente,2130000.0,Call center,507.0,False,2,Android,hash_887600
+CL00190,2025-08-27,Risaralda,Pereira,21,M,3,Bachiller,Empleado,1990000.0,Aliado comercial,659.0,False,1,Android,hash_859161
+CL00191,2025-10-21,Bogotá D.C.,Bogotá,32,M,4,Sin información,Independiente,,Campaña digital,691.0,False,0,Web,hash_445876
+CL00192,2024-01-07,Atlántico,Barranquilla,45,F,2,Universitario,Empleado,2810000.0,Referido,571.0,True,0,Android,hash_325121
+CL00193,2025-07-04,Antioquia,Medellín,38,F,5,Universitario,Desempleado,1330000.0,Call center,450.0,True,0,Web,hash_901555
+CL00194,2023-10-07,Risaralda,Pereira,24,No informa,3,Bachiller,Empleado,4620000.0,Campaña digital,692.0,False,1,Android,hash_794245
+CL00195,2026-01-07,Bogotá D.C.,Bogotá,38,F,4,Bachiller,Empleado,3490000.0,Campaña digital,643.0,True,3,iOS,hash_250862
+CL00196,2023-11-18,Bogotá D.C.,Bogotá,40,F,1,Universitario,Empleado,2410000.0,App orgánico,450.0,True,1,Android,hash_331226
+CL00197,2023-05-08,Bogotá D.C.,Bogotá,27,F,3,Técnico/Tecnólogo,Empleado,4420000.0,Call center,716.0,False,1,Android,hash_245338
+CL00198,2023-03-30,Antioquia,Medellín,38,M,2,Técnico/Tecnólogo,Microempresario,2400000.0,Aliado comercial,511.0,True,0,Android,hash_727503
+CL00199,2025-09-03,Bolívar,Cartagena,37,M,1,Universitario,Empleado,1300000.0,App orgánico,,False,1,iOS,hash_254062
+CL00200,2024-09-05,Atlántico,Barranquilla,25,M,2,Bachiller,Desempleado,1010000.0,Campaña digital,518.0,False,0,Android,hash_865710
+CL00201,2025-11-08,Bogotá D.C.,Bogotá,40,F,3,Bachiller,Microempresario,3110000.0,Campaña digital,606.0,True,0,iOS,hash_861062
+CL00202,2025-08-22,Bolívar,Cartagena,42,M,4,Universitario,Empleado,2410000.0,App orgánico,624.0,True,0,Android,hash_385291
+CL00203,2023-12-13,Antioquia,Medellín,47,F,4,Técnico/Tecnólogo,Empleado,2950000.0,Referido,613.0,False,2,Android,hash_840174
+CL00204,2023-05-27,Cundinamarca,Soacha,47,F,6,Universitario,Microempresario,7690000.0,Campaña digital,850.0,True,1,Android,hash_306717
+CL00205,2023-10-05,Norte de Santander,Cúcuta,22,F,3,Sin información,Comerciante,2310000.0,App orgánico,557.0,False,0,Android,hash_204843
+CL00206,2023-01-23,Bogotá D.C.,Bogotá,27,F,4,Posgrado,Pensionado,2010000.0,Campaña digital,590.0,False,0,Android,hash_648912
+CL00207,2025-01-13,Santander,Bucaramanga,41,M,3,Técnico/Tecnólogo,Independiente,2630000.0,App orgánico,582.0,True,1,Web,hash_583414
+CL00208,2024-03-11,Bogotá D.C.,Bogotá,41,F,1,Sin información,Empleado,2330000.0,Referido,622.0,True,2,Android,hash_398845
+CL00209,2024-07-20,Bogotá D.C.,Bogotá,41,F,2,Universitario,Empleado,2350000.0,Call center,549.0,False,1,Android,hash_944124
+CL00210,2025-12-23,Cundinamarca,Soacha,68,M,3,Bachiller,Empleado,5240000.0,Campaña digital,736.0,False,3,Web,hash_168653
+CL00211,2024-03-21,Bogotá D.C.,Bogotá,42,F,3,Universitario,Empleado,3190000.0,Campaña digital,688.0,False,0,Android,hash_227101
+CL00212,2025-07-16,Santander,Bucaramanga,47,M,1,Bachiller,Independiente,1260000.0,Referido,392.0,False,1,iOS,hash_477218
+CL00213,2025-05-30,Valle del Cauca,Cali,46,F,3,Técnico/Tecnólogo,Empleado,4880000.0,Campaña digital,746.0,True,0,Android,hash_786126
+CL00214,2025-01-28,Norte de Santander,Cúcuta,43,M,3,Posgrado,Independiente,2750000.0,App orgánico,577.0,False,0,Android,hash_916117
+CL00215,2024-05-26,Cundinamarca,Soacha,33,M,1,Bachiller,Conductor/Repartidor,1530000.0,Campaña digital,543.0,False,0,Android,hash_114260
+CL00216,2024-11-15,Antioquia,Medellín,44,M,2,Universitario,Pensionado,1920000.0,Referido,505.0,False,1,Android,hash_380092
+CL00217,2023-02-20,Bolívar,Cartagena,28,F,3,Bachiller,Comerciante,3900000.0,App orgánico,683.0,False,3,Web,hash_844265
+CL00218,2024-07-05,Valle del Cauca,Cali,34,M,2,Universitario,Empleado,1520000.0,Aliado comercial,595.0,True,2,iOS,hash_109583
+CL00219,2023-10-21,Antioquia,Medellín,31,F,3,Bachiller,Empleado,3920000.0,Campaña digital,600.0,False,0,Android,hash_906434
+CL00220,2023-07-24,Caldas,Manizales,37,M,2,Técnico/Tecnólogo,Empleado,2030000.0,Aliado comercial,611.0,False,3,Web,hash_688172
+CL00221,2025-03-12,Caldas,Manizales,59,F,2,Bachiller,Empleado,3660000.0,Aliado comercial,551.0,True,3,Android,hash_777758
+CL00222,2023-04-02,Bogotá D.C.,Bogotá,19,F,3,Bachiller,Desempleado,830000.0,Aliado comercial,487.0,False,1,Android,hash_430322
+CL00223,2025-07-24,Risaralda,Pereira,43,M,1,Bachiller,Empleado,1520000.0,App orgánico,571.0,True,0,Android,hash_724705
+CL00224,2024-03-21,Santander,Bucaramanga,20,F,3,Técnico/Tecnólogo,Conductor/Repartidor,3230000.0,Referido,541.0,True,0,Android,hash_550400
+CL00225,2025-06-24,Caldas,Manizales,31,M,2,Universitario,Conductor/Repartidor,1850000.0,Referido,511.0,False,0,Android,hash_914468
+CL00226,2023-07-07,Risaralda,Pereira,47,F,5,Posgrado,Pensionado,2920000.0,App orgánico,650.0,True,0,Android,hash_303141
+CL00227,2024-02-01,Bolívar,Cartagena,37,M,2,Sin información,Empleado,1900000.0,Aliado comercial,581.0,True,0,Android,hash_131673
+CL00228,2023-02-10,Bogotá D.C.,Bogotá,25,M,6,Técnico/Tecnólogo,Microempresario,4060000.0,Aliado comercial,637.0,True,4,Web,hash_764607
+CL00229,2025-05-13,Bolívar,Cartagena,29,F,2,Técnico/Tecnólogo,Independiente,1740000.0,Call center,565.0,False,1,Android,hash_498635
+CL00230,2025-12-21,Bogotá D.C.,Bogotá,43,M,1,Sin información,Empleado,2610000.0,Campaña digital,527.0,False,1,iOS,hash_887199
+CL00231,2023-08-19,Caldas,Manizales,29,M,4,Sin información,Empleado,2450000.0,Referido,601.0,False,1,iOS,hash_958809
+CL00232,2024-04-03,Norte de Santander,Cúcuta,38,F,3,Bachiller,Microempresario,4080000.0,App orgánico,642.0,False,0,Android,hash_939934
+CL00233,2023-10-01,Bogotá D.C.,Bogotá,36,M,4,Bachiller,Comerciante,4600000.0,App orgánico,743.0,True,1,Android,hash_929311
+CL00234,2023-01-21,Bogotá D.C.,Bogotá,29,F,4,Universitario,Conductor/Repartidor,1750000.0,Aliado comercial,509.0,False,0,iOS,hash_438592
+CL00235,2023-12-30,Valle del Cauca,Cali,57,M,3,Sin información,Empleado,3220000.0,Aliado comercial,763.0,False,2,Android,hash_871143
+CL00236,2023-12-09,Atlántico,Barranquilla,42,F,2,Sin información,Empleado,3440000.0,Campaña digital,593.0,False,1,Android,hash_359405
+CL00237,2023-08-07,Atlántico,Barranquilla,19,M,4,Sin información,Independiente,2380000.0,Call center,544.0,True,1,Android,hash_894042
+CL00238,2024-04-10,Santander,Bucaramanga,38,F,3,Técnico/Tecnólogo,Empleado,3720000.0,Call center,583.0,True,1,Android,hash_635848
+CL00239,2025-12-23,Antioquia,Medellín,29,F,6,Bachiller,Empleado,7480000.0,Referido,766.0,True,0,iOS,hash_244575
+CL00240,2024-09-02,Santander,Bucaramanga,45,M,2,Universitario,Empleado,3000000.0,App orgánico,609.0,False,0,Android,hash_959734
+CL00241,2024-07-14,Bogotá D.C.,Bogotá,28,F,4,Posgrado,Empleado,3670000.0,Aliado comercial,577.0,True,3,iOS,hash_318827
+CL00242,2023-06-04,Bogotá D.C.,Bogotá,35,M,5,Técnico/Tecnólogo,Independiente,3580000.0,Campaña digital,586.0,True,4,Android,hash_523041
+CL00243,2024-02-29,Santander,Bucaramanga,41,M,1,Técnico/Tecnólogo,Empleado,1260000.0,Campaña digital,587.0,True,2,Android,hash_152127
+CL00244,2023-07-21,Bogotá D.C.,Bogotá,45,M,4,Bachiller,Empleado,-1.0,Call center,732.0,False,0,Android,hash_207724
+CL00245,2025-06-19,Bogotá D.C.,Bogotá,24,M,3,Técnico/Tecnólogo,Empleado,3920000.0,App orgánico,645.0,False,3,iOS,hash_600653
+CL00246,2024-10-07,Tolima,Ibagué,33,F,1,Universitario,Conductor/Repartidor,1190000.0,Referido,460.0,False,0,Android,hash_472949
+CL00247,2024-10-25,Antioquia,Medellín,31,F,4,Técnico/Tecnólogo,Conductor/Repartidor,1660000.0,App orgánico,432.0,False,2,Android,hash_256080
+CL00248,2024-05-26,Bogotá D.C.,Bogotá,29,F,3,Posgrado,Empleado,1940000.0,Campaña digital,492.0,False,1,iOS,hash_763270
+CL00249,2025-03-01,Valle del Cauca,Cali,54,M,5,Técnico/Tecnólogo,Comerciante,4280000.0,Referido,727.0,True,0,Web,hash_821754
+CL00250,2023-04-09,Risaralda,Pereira,40,F,3,Bachiller,Empleado,3970000.0,App orgánico,597.0,False,0,Android,hash_568255
+CL00251,2023-10-15,Bogotá D.C.,Bogotá,23,F,4,Técnico/Tecnólogo,Independiente,3650000.0,App orgánico,,False,3,iOS,hash_848462
+CL00252,2024-04-27,Bogotá D.C.,Bogotá,45,F,2,Bachiller,Microempresario,2770000.0,App orgánico,652.0,True,1,Android,hash_234585
+CL00253,2025-02-17,Bogotá D.C.,Bogotá,57,F,5,Sin información,Pensionado,3540000.0,Campaña digital,684.0,False,0,iOS,hash_193650
+CL00254,2023-04-28,Bogotá D.C.,Bogotá,46,M,2,Técnico/Tecnólogo,Empleado,2810000.0,App orgánico,613.0,True,1,iOS,hash_576785
+CL00255,2025-11-23,Bogotá D.C.,Bogotá,21,M,3,Técnico/Tecnólogo,Empleado,5130000.0,Referido,711.0,True,3,iOS,hash_741462
+CL00256,2023-07-01,Bogotá D.C.,Bogotá,31,F,2,Bachiller,Empleado,1920000.0,App orgánico,579.0,False,2,Android,hash_707317
+CL00257,2023-09-28,Valle del Cauca,Cali,49,F,1,Bachiller,Pensionado,1900000.0,Campaña digital,572.0,False,0,Android,hash_283024
+CL00258,2024-05-19,Bogotá D.C.,Bogotá,29,M,3,Técnico/Tecnólogo,Microempresario,9000000.0,Campaña digital,850.0,False,1,Android,hash_579885
+CL00259,2023-09-24,Bogotá D.C.,Bogotá,40,F,4,Bachiller,Microempresario,3190000.0,App orgánico,622.0,False,0,Android,hash_660151
+CL00260,2024-01-06,Bogotá D.C.,Bogotá,44,F,2,Sin información,Microempresario,3350000.0,App orgánico,598.0,False,1,Android,hash_862473
+CL00261,2025-11-19,Norte de Santander,Cúcuta,27,F,2,Bachiller,Conductor/Repartidor,2080000.0,Aliado comercial,408.0,False,0,Android,hash_495739
+CL00262,2024-12-08,Bogotá D.C.,Bogotá,35,M,5,Sin información,Empleado,3760000.0,Campaña digital,641.0,True,1,iOS,hash_830351
+CL00263,2024-12-14,Antioquia,Medellín,19,M,2,Universitario,Independiente,1480000.0,Campaña digital,540.0,True,2,iOS,hash_951563
+CL00264,2025-03-03,Valle del Cauca,Cali,26,M,2,Universitario,Estudiante,800000.0,Campaña digital,441.0,False,0,Android,hash_760501
+CL00265,2023-12-20,Bogotá D.C.,Bogotá,33,F,4,Universitario,Desempleado,1030000.0,Referido,516.0,False,0,Android,hash_297345
+CL00266,2024-01-03,Meta,Villavicencio,24,M,3,Universitario,Microempresario,5280000.0,Campaña digital,686.0,True,1,iOS,hash_377255
+CL00267,2024-11-10,Meta,Villavicencio,52,No informa,1,Universitario,Independiente,2190000.0,App orgánico,562.0,False,2,Android,hash_682933
+CL00268,2023-10-22,Risaralda,Pereira,22,M,3,Bachiller,Independiente,2090000.0,Referido,620.0,False,3,iOS,hash_990733
+CL00269,2024-12-12,Santander,Bucaramanga,32,F,2,Bachiller,Empleado,2840000.0,Campaña digital,599.0,False,1,Android,hash_221070
+CL00270,2023-07-15,Bogotá D.C.,Bogotá,37,F,5,Sin información,Empleado,2960000.0,Referido,518.0,True,1,Android,hash_201735
+CL00271,2023-09-19,Antioquia,Medellín,50,F,4,Bachiller,Conductor/Repartidor,2030000.0,App orgánico,596.0,False,1,iOS,hash_244378
+CL00272,2025-10-23,Bogotá D.C.,Bogotá,22,M,1,Técnico/Tecnólogo,Empleado,2050000.0,Call center,603.0,False,0,Android,hash_145712
+CL00273,2024-01-08,Valle del Cauca,Cali,48,M,2,Posgrado,Comerciante,3000000.0,Campaña digital,672.0,False,3,iOS,hash_614906
+CL00274,2025-12-05,Valle del Cauca,Cali,36,F,3,Universitario,Conductor/Repartidor,3310000.0,Campaña digital,654.0,False,0,Android,hash_132125
+CL00275,2023-12-31,Santander,Bucaramanga,26,F,3,Sin información,Conductor/Repartidor,2160000.0,Referido,461.0,False,2,Android,hash_155823
+CL00276,2024-05-14,Bogotá D.C.,Bogotá,41,M,2,Bachiller,Estudiante,1090000.0,App orgánico,387.0,True,0,Android,hash_872783
+CL00277,2025-09-27,Antioquia,Medellín,38,F,4,Bachiller,Estudiante,1540000.0,Referido,542.0,True,3,iOS,hash_158453
+CL00278,2025-09-10,Bolívar,Cartagena,30,F,3,Sin información,Empleado,3360000.0,Aliado comercial,577.0,False,2,Android,hash_430515
+CL00279,2023-02-08,Bogotá D.C.,Bogotá,37,M,3,Bachiller,Comerciante,2890000.0,App orgánico,630.0,True,1,Android,hash_935544
+CL00280,2025-12-07,Bolívar,Cartagena,32,M,3,Bachiller,Empleado,6110000.0,Call center,703.0,False,2,iOS,hash_352773
+CL00281,2023-09-02,Risaralda,Pereira,37,M,3,Bachiller,Independiente,3200000.0,Campaña digital,687.0,False,2,Android,hash_169893
+CL00282,2024-12-21,Bogotá D.C.,Bogotá,43,F,3,Universitario,Empleado,2820000.0,App orgánico,638.0,False,1,iOS,hash_948182
+CL00283,2023-03-22,Bogotá D.C.,Bogotá,52,M,4,Bachiller,Empleado,3260000.0,Campaña digital,668.0,True,1,Web,hash_530423
+CL00284,2023-07-27,Risaralda,Pereira,24,M,4,Bachiller,Microempresario,2380000.0,Campaña digital,592.0,False,2,Android,hash_387740
+CL00285,2023-06-04,Bogotá D.C.,Bogotá,57,F,6,Bachiller,Empleado,6420000.0,Referido,797.0,True,3,iOS,hash_836618
+CL00286,2025-08-09,Norte de Santander,Cúcuta,19,F,3,Técnico/Tecnólogo,Independiente,3050000.0,Call center,,False,2,Android,hash_934569
+CL00287,2024-10-12,Antioquia,Medellín,34,F,3,Bachiller,Empleado,3050000.0,Campaña digital,613.0,True,0,iOS,hash_713008
+CL00288,2024-09-08,Antioquia,Medellín,42,F,3,Universitario,Empleado,2720000.0,Referido,560.0,False,1,Android,hash_763779
+CL00289,2024-08-19,Atlántico,Barranquilla,39,M,4,Posgrado,Desempleado,850000.0,Call center,,False,0,Android,hash_733389
+CL00290,2024-01-01,Antioquia,Medellín,30,M,2,Técnico/Tecnólogo,Conductor/Repartidor,,Referido,420.0,False,0,iOS,hash_332362
+CL00291,2024-01-14,Atlántico,Barranquilla,34,F,3,Bachiller,Independiente,3810000.0,Campaña digital,599.0,False,0,iOS,hash_871257
+CL00292,2023-09-16,Atlántico,Barranquilla,31,F,3,Técnico/Tecnólogo,Empleado,6480000.0,Campaña digital,742.0,False,2,iOS,hash_239565
+CL00293,2025-03-13,Bogotá D.C.,Bogotá,30,F,3,Técnico/Tecnólogo,Microempresario,6830000.0,Campaña digital,758.0,True,1,Android,hash_837550
+CL00294,2024-05-03,Risaralda,Pereira,44,M,4,Bachiller,Independiente,2350000.0,Aliado comercial,529.0,False,0,Android,hash_324872
+CL00295,2023-11-03,Bogotá D.C.,Bogotá,40,M,2,Técnico/Tecnólogo,Empleado,2030000.0,Referido,508.0,False,1,iOS,hash_495412
+CL00296,2025-12-28,Bolívar,Cartagena,29,M,4,Técnico/Tecnólogo,Empleado,5260000.0,Campaña digital,664.0,False,3,Android,hash_280645
+CL00297,2025-12-10,Santander,Bucaramanga,45,F,4,Técnico/Tecnólogo,Empleado,5300000.0,App orgánico,664.0,False,0,Android,hash_902207
+CL00298,2023-09-25,Atlántico,Barranquilla,39,M,3,Universitario,Conductor/Repartidor,3400000.0,Referido,559.0,True,1,iOS,hash_423923
+CL00299,2025-08-24,Valle del Cauca,Cali,44,F,4,Bachiller,Comerciante,3080000.0,App orgánico,,True,2,Android,hash_512111
+CL00300,2025-07-13,Antioquia,Medellín,42,F,1,Técnico/Tecnólogo,Microempresario,2370000.0,App orgánico,635.0,False,2,Android,hash_216074
+CL00301,2023-12-18,Tolima,Ibagué,28,F,2,Sin información,Empleado,3400000.0,App orgánico,,True,1,iOS,hash_353564
+CL00302,2025-03-07,Bolívar,Cartagena,30,F,3,Bachiller,Estudiante,990000.0,App orgánico,509.0,False,3,Android,hash_889694
+CL00303,2023-05-03,Valle del Cauca,Cali,43,M,3,Sin información,Empleado,2510000.0,Call center,618.0,True,3,Android,hash_304335
+CL00304,2024-01-10,Valle del Cauca,Cali,42,M,1,Técnico/Tecnólogo,Microempresario,4040000.0,Call center,646.0,True,1,Android,hash_975584
+CL00305,2024-01-09,Atlántico,Barranquilla,36,M,2,Técnico/Tecnólogo,Empleado,2890000.0,Referido,652.0,False,1,Android,hash_897406
+CL00306,2023-05-05,Caldas,Manizales,37,F,1,Técnico/Tecnólogo,Empleado,-1.0,Aliado comercial,511.0,False,1,Android,hash_368602
+CL00307,2025-01-30,Bogotá D.C.,Bogotá,49,M,1,Posgrado,Empleado,3270000.0,Campaña digital,641.0,False,1,Web,hash_934397
+CL00308,2026-01-20,Bolívar,Cartagena,30,F,1,Sin información,Empleado,1560000.0,App orgánico,522.0,False,3,iOS,hash_250641
+CL00309,2023-09-24,Antioquia,Medellín,41,F,3,Bachiller,Empleado,3970000.0,App orgánico,565.0,False,0,Android,hash_619235
+CL00310,2025-04-21,Valle del Cauca,Cali,34,M,4,Bachiller,Independiente,1450000.0,Referido,501.0,False,0,iOS,hash_531231
+CL00311,2025-12-29,Antioquia,Medellín,34,M,4,Técnico/Tecnólogo,Empleado,2940000.0,Referido,663.0,True,0,Android,hash_840126
+CL00312,2023-06-16,Atlántico,Barranquilla,47,M,4,Bachiller,Empleado,2250000.0,Aliado comercial,611.0,True,0,Android,hash_446249
+CL00313,2026-01-01,Bogotá D.C.,Bogotá,44,F,1,Técnico/Tecnólogo,Pensionado,1530000.0,Aliado comercial,601.0,False,0,Android,hash_715837
+CL00314,2023-09-20,Valle del Cauca,Cali,44,F,4,Universitario,Conductor/Repartidor,4150000.0,Aliado comercial,675.0,False,1,Web,hash_637738
+CL00315,2024-03-08,Tolima,Ibagué,49,M,2,Técnico/Tecnólogo,Comerciante,3280000.0,Call center,682.0,True,0,Android,hash_418275
+CL00316,2024-12-07,Valle del Cauca,Cali,36,F,2,Bachiller,Comerciante,3520000.0,Referido,550.0,True,3,Android,hash_617561
+CL00317,2025-09-01,Atlántico,Barranquilla,43,M,4,Bachiller,Independiente,3820000.0,Campaña digital,571.0,False,0,Android,hash_833946
+CL00318,2023-02-03,Caldas,Manizales,33,M,2,Universitario,Microempresario,4430000.0,Call center,633.0,False,1,Web,hash_187566
+CL00319,2024-01-06,Norte de Santander,Cúcuta,39,M,3,Bachiller,Independiente,1830000.0,Referido,559.0,False,1,iOS,hash_289400
+CL00320,2024-07-12,Antioquia,Medellín,35,F,3,Técnico/Tecnólogo,Empleado,5920000.0,Aliado comercial,713.0,True,2,Android,hash_644748
+CL00321,2024-06-21,Meta,Villavicencio,37,M,2,Universitario,Empleado,5080000.0,App orgánico,714.0,False,1,Android,hash_462578
+CL00322,2025-09-21,Antioquia,Medellín,42,F,3,Universitario,Empleado,2490000.0,Campaña digital,564.0,True,0,iOS,hash_373306
+CL00323,2024-05-10,Antioquia,Medellín,28,F,3,Universitario,Conductor/Repartidor,2700000.0,Campaña digital,616.0,True,0,iOS,hash_625667
+CL00324,2025-06-06,Atlántico,Barranquilla,57,M,3,Bachiller,Comerciante,2430000.0,Campaña digital,663.0,False,0,Web,hash_967838
+CL00325,2023-10-07,Antioquia,Medellín,26,M,1,Sin información,Conductor/Repartidor,1620000.0,Campaña digital,,False,0,iOS,hash_698029
+CL00326,2024-05-08,Valle del Cauca,Cali,24,M,3,Bachiller,Independiente,5110000.0,Campaña digital,600.0,True,0,Android,hash_375419
+CL00327,2024-02-02,Bogotá D.C.,Bogotá,48,F,2,Bachiller,Desempleado,640000.0,App orgánico,495.0,False,1,Android,hash_676265
+CL00328,2023-05-08,Bogotá D.C.,Bogotá,44,F,5,Bachiller,Empleado,3100000.0,Aliado comercial,688.0,True,0,Web,hash_617961
+CL00329,2025-05-13,Bogotá D.C.,Bogotá,42,F,3,Universitario,Empleado,3560000.0,Aliado comercial,757.0,False,0,Android,hash_635607
+CL00330,2025-10-04,Antioquia,Medellín,42,F,1,Técnico/Tecnólogo,Empleado,1800000.0,Aliado comercial,567.0,False,1,Android,hash_389776
+CL00331,2025-12-22,Valle del Cauca,Cali,36,F,4,Técnico/Tecnólogo,Empleado,3730000.0,Campaña digital,703.0,False,2,Android,hash_369580
+CL00332,2023-12-09,Risaralda,Pereira,27,M,3,Bachiller,Comerciante,2370000.0,Referido,571.0,False,0,Android,hash_772225
+CL00333,2023-09-05,Bogotá D.C.,Bogotá,37,M,3,Bachiller,Microempresario,1850000.0,Aliado comercial,555.0,False,1,Android,hash_824276
+CL00334,2023-01-17,Cundinamarca,Soacha,29,F,2,Universitario,Independiente,2100000.0,Referido,454.0,True,4,Android,hash_292593
+CL00335,2024-02-13,Bogotá D.C.,Bogotá,46,F,2,Sin información,Independiente,3550000.0,Campaña digital,597.0,False,1,Android,hash_426754
+CL00336,2023-11-04,Bogotá D.C.,Bogotá,35,F,4,Técnico/Tecnólogo,Conductor/Repartidor,2760000.0,App orgánico,583.0,False,2,iOS,hash_359405
+CL00337,2024-01-09,Tolima,Ibagué,28,F,3,Bachiller,Empleado,5390000.0,App orgánico,659.0,False,0,Android,hash_415594
+CL00338,2023-03-21,Bogotá D.C.,Bogotá,33,F,1,Técnico/Tecnólogo,Empleado,2640000.0,Aliado comercial,563.0,False,3,Android,hash_797389
+CL00339,2024-07-27,Antioquia,Medellín,40,F,1,Bachiller,Comerciante,1590000.0,Campaña digital,581.0,True,2,Web,hash_150893
+CL00340,2023-01-28,Norte de Santander,Cúcuta,30,M,3,Posgrado,Empleado,4250000.0,Aliado comercial,666.0,True,3,Android,hash_494813
+CL00341,2025-07-07,Bogotá D.C.,Bogotá,28,F,6,Universitario,Desempleado,1590000.0,App orgánico,531.0,True,1,Android,hash_162894
+CL00342,2025-11-22,Norte de Santander,Cúcuta,38,M,1,Sin información,Empleado,2430000.0,Campaña digital,531.0,True,0,iOS,hash_753668
+CL00343,2024-06-23,Bogotá D.C.,Bogotá,38,F,3,Sin información,Independiente,2650000.0,Campaña digital,593.0,True,2,Android,hash_275746
+CL00344,2024-11-27,Bogotá D.C.,Bogotá,31,F,2,Universitario,Independiente,1590000.0,App orgánico,548.0,True,2,Android,hash_313968
+CL00345,2025-06-05,Bogotá D.C.,Bogotá,31,M,3,Sin información,Desempleado,560000.0,Campaña digital,401.0,True,0,iOS,hash_727915
+CL00346,2026-01-09,Valle del Cauca,Cali,38,M,3,Bachiller,Independiente,,Aliado comercial,569.0,False,1,Android,hash_834665
+CL00347,2025-01-03,Risaralda,Pereira,22,F,2,Bachiller,Pensionado,,App orgánico,560.0,False,2,iOS,hash_277946
+CL00348,2025-08-27,Antioquia,Medellín,22,No informa,3,Sin información,Empleado,2030000.0,App orgánico,565.0,False,2,Android,hash_459267
+CL00349,2024-10-19,Antioquia,Medellín,29,F,3,Sin información,Empleado,3290000.0,Campaña digital,604.0,False,0,Android,hash_922343
+CL00350,2023-05-18,Bogotá D.C.,Bogotá,34,F,2,Bachiller,Empleado,3610000.0,Call center,551.0,False,2,Android,hash_153024
+CL00351,2024-03-04,Norte de Santander,Cúcuta,39,M,2,Técnico/Tecnólogo,Empleado,2350000.0,App orgánico,591.0,True,0,iOS,hash_896266
+CL00352,2023-06-01,Bogotá D.C.,Bogotá,51,M,3,Técnico/Tecnólogo,Empleado,1620000.0,Campaña digital,674.0,False,0,Android,hash_892515
+CL00353,2023-01-26,Antioquia,Medellín,45,F,4,Bachiller,Empleado,10000000.0,Campaña digital,826.0,True,2,Android,hash_114260
+CL00354,2025-09-14,Bogotá D.C.,Bogotá,34,F,3,Bachiller,Independiente,2860000.0,App orgánico,631.0,True,3,Android,hash_411896
+CL00355,2024-12-30,Bogotá D.C.,Bogotá,36,M,3,Universitario,Empleado,1950000.0,App orgánico,646.0,False,0,iOS,hash_760601
+CL00356,2023-11-23,Bogotá D.C.,Bogotá,26,F,4,Sin información,Comerciante,2040000.0,Referido,545.0,False,1,iOS,hash_759510
+CL00357,2023-03-03,Cundinamarca,Soacha,36,M,2,Técnico/Tecnólogo,Conductor/Repartidor,1270000.0,Campaña digital,434.0,False,0,iOS,hash_986146
+CL00358,2024-01-15,Bogotá D.C.,Bogotá,33,M,3,Universitario,Empleado,3400000.0,Call center,598.0,False,3,iOS,hash_196748
+CL00359,2024-10-22,Antioquia,Medellín,39,F,4,Técnico/Tecnólogo,Comerciante,2880000.0,Call center,650.0,True,2,Android,hash_373280
+CL00360,2023-01-31,Antioquia,Medellín,28,F,3,Técnico/Tecnólogo,Empleado,3440000.0,Campaña digital,565.0,False,0,iOS,hash_417545
+CL00361,2024-12-09,Atlántico,Barranquilla,41,M,2,Técnico/Tecnólogo,Conductor/Repartidor,3180000.0,App orgánico,664.0,False,3,Android,hash_546880
+CL00362,2024-10-05,Cundinamarca,Soacha,51,M,4,Universitario,Conductor/Repartidor,1780000.0,Referido,479.0,False,4,Android,hash_726776
+CL00363,2024-01-12,Bogotá D.C.,Bogotá,35,M,3,Técnico/Tecnólogo,Microempresario,3480000.0,App orgánico,661.0,False,1,Android,hash_707871
+CL00364,2025-01-05,Cundinamarca,Soacha,40,M,3,Sin información,Conductor/Repartidor,2590000.0,App orgánico,530.0,False,0,Android,hash_373363
+CL00365,2024-04-24,Atlántico,Barranquilla,43,F,2,Universitario,Conductor/Repartidor,1210000.0,Campaña digital,479.0,False,2,Android,hash_499130
+CL00366,2025-07-01,Valle del Cauca,Cali,32,F,2,Posgrado,Comerciante,2640000.0,Campaña digital,662.0,False,0,Web,hash_865372
+CL00367,2024-03-02,Antioquia,Medellín,38,M,3,Sin información,Empleado,2290000.0,Referido,564.0,False,0,Android,hash_205509
+CL00368,2024-07-29,Cundinamarca,Soacha,36,F,2,Universitario,Comerciante,2050000.0,Call center,,False,3,Android,hash_139080
+CL00369,2024-01-30,Bolívar,Cartagena,37,M,3,Universitario,Empleado,2210000.0,Campaña digital,569.0,False,0,Web,hash_593197
+CL00370,2024-10-05,Norte de Santander,Cúcuta,28,M,1,Bachiller,Pensionado,1660000.0,Referido,450.0,True,2,Android,hash_164373
+CL00371,2025-05-06,Bogotá D.C.,Bogotá,36,F,3,Universitario,Empleado,4190000.0,App orgánico,,False,2,iOS,hash_892644
+CL00372,2023-07-24,Valle del Cauca,Cali,41,F,2,Universitario,Empleado,4380000.0,App orgánico,707.0,True,4,Web,hash_760899
+CL00373,2025-08-11,Atlántico,Barranquilla,51,M,5,Universitario,Conductor/Repartidor,3000000.0,Campaña digital,671.0,True,0,Android,hash_937056
+CL00374,2024-01-05,Atlántico,Barranquilla,46,F,1,Universitario,Conductor/Repartidor,1780000.0,Referido,,False,4,iOS,hash_910586
+CL00375,2023-03-25,Atlántico,Barranquilla,58,F,4,Técnico/Tecnólogo,Conductor/Repartidor,2320000.0,App orgánico,603.0,False,0,Web,hash_576186
+CL00376,2023-03-12,Santander,Bucaramanga,28,M,3,Sin información,Empleado,3010000.0,App orgánico,566.0,False,2,Android,hash_527195
+CL00377,2024-12-14,Valle del Cauca,Cali,45,M,1,Bachiller,Empleado,2900000.0,Campaña digital,603.0,True,2,Android,hash_151999
+CL00378,2024-10-02,Antioquia,Medellín,38,M,1,Técnico/Tecnólogo,Independiente,1730000.0,Campaña digital,471.0,False,2,Android,hash_657647
+CL00379,2024-08-10,Atlántico,Barranquilla,58,M,2,Universitario,Empleado,3770000.0,Aliado comercial,731.0,False,1,Android,hash_129717
+CL00380,2025-09-05,Bogotá D.C.,Bogotá,28,F,2,Bachiller,Empleado,2730000.0,Aliado comercial,573.0,True,3,Android,hash_691058
+CL00381,2023-03-01,Cundinamarca,Soacha,28,F,3,Universitario,Independiente,1520000.0,Campaña digital,503.0,True,3,Android,hash_881675
+CL00382,2025-03-02,Bogotá D.C.,Bogotá,30,F,4,Universitario,Empleado,7150000.0,Aliado comercial,730.0,True,0,Android,hash_611984
+CL00383,2023-08-07,Atlántico,Barranquilla,19,M,3,Sin información,Independiente,3770000.0,Campaña digital,500.0,False,1,Android,hash_272905
+CL00384,2025-12-27,Valle del Cauca,Cali,31,F,5,Bachiller,Microempresario,4250000.0,Aliado comercial,611.0,True,1,Android,hash_933410
+CL00385,2023-08-07,Atlántico,Barranquilla,28,M,2,Posgrado,Conductor/Repartidor,2120000.0,App orgánico,565.0,False,0,iOS,hash_951112
+CL00386,2024-02-15,Antioquia,Medellín,38,M,4,Técnico/Tecnólogo,Conductor/Repartidor,2590000.0,Campaña digital,473.0,False,1,Android,hash_575881
+CL00387,2025-09-08,Bogotá D.C.,Bogotá,39,M,2,Universitario,Comerciante,,Campaña digital,469.0,False,2,iOS,hash_385916
+CL00388,2024-09-25,Santander,Bucaramanga,55,F,3,Universitario,Independiente,5410000.0,App orgánico,616.0,False,0,Android,hash_550415
+CL00389,2025-01-05,Cundinamarca,Soacha,46,No informa,1,Técnico/Tecnólogo,Empleado,2140000.0,Referido,670.0,False,0,iOS,hash_987766
+CL00390,2024-05-27,Cundinamarca,Soacha,30,M,6,Posgrado,Empleado,4950000.0,Referido,702.0,False,0,Android,hash_834303
+CL00391,2024-12-21,Risaralda,Pereira,27,M,3,Bachiller,Independiente,1920000.0,Referido,568.0,False,2,Android,hash_641428
+CL00392,2023-08-03,Risaralda,Pereira,41,F,4,Bachiller,Empleado,4280000.0,Referido,761.0,False,3,Android,hash_200591
+CL00393,2025-08-16,Santander,Bucaramanga,23,No informa,2,Universitario,Estudiante,730000.0,Campaña digital,433.0,False,0,Android,hash_882702
+CL00394,2024-09-30,Bogotá D.C.,Bogotá,54,F,3,Universitario,Estudiante,1700000.0,Campaña digital,585.0,True,4,iOS,hash_519627
+CL00395,2023-05-10,Bogotá D.C.,Bogotá,48,F,1,Bachiller,Empleado,3110000.0,App orgánico,593.0,True,3,Android,hash_806376
+CL00396,2025-10-22,Bolívar,Cartagena,31,F,3,Técnico/Tecnólogo,Conductor/Repartidor,1870000.0,Campaña digital,488.0,False,3,Android,hash_510887
+CL00397,2025-07-11,Cundinamarca,Soacha,19,F,2,Bachiller,Comerciante,1800000.0,Referido,453.0,False,0,iOS,hash_216585
+CL00398,2025-04-20,Antioquia,Medellín,50,F,1,Universitario,Desempleado,450000.0,App orgánico,465.0,False,1,Android,hash_299330
+CL00399,2024-09-16,Valle del Cauca,Cali,35,M,2,Técnico/Tecnólogo,Independiente,1750000.0,Aliado comercial,588.0,False,1,Android,hash_427597
+CL00400,2024-10-05,Bogotá D.C.,Bogotá,48,M,4,Bachiller,Empleado,2080000.0,App orgánico,701.0,False,1,Web,hash_751712
+CL00401,2024-05-24,Bogotá D.C.,Bogotá,20,F,3,Posgrado,Empleado,2280000.0,App orgánico,555.0,True,0,Web,hash_332459
+CL00402,2025-10-27,Santander,Bucaramanga,30,M,2,Universitario,Microempresario,3710000.0,App orgánico,548.0,False,0,Web,hash_992008
+CL00403,2023-01-18,Bogotá D.C.,Bogotá,36,F,4,Universitario,Empleado,2840000.0,Campaña digital,585.0,False,0,Android,hash_794025
+CL00404,2025-04-04,Antioquia,Medellín,36,M,2,Técnico/Tecnólogo,Independiente,1920000.0,Campaña digital,524.0,False,3,Android,hash_989589
+CL00405,2023-05-08,Cundinamarca,Soacha,31,M,3,Técnico/Tecnólogo,Independiente,2570000.0,Campaña digital,604.0,True,0,iOS,hash_329707
+CL00406,2023-04-09,Antioquia,Medellín,42,F,4,Universitario,Empleado,2300000.0,Campaña digital,643.0,True,2,Android,hash_367885
+CL00407,2024-12-08,Antioquia,Medellín,25,M,3,Sin información,Empleado,2490000.0,Campaña digital,548.0,False,0,Android,hash_904253
+CL00408,2025-05-08,Bogotá D.C.,Bogotá,35,M,4,Técnico/Tecnólogo,Pensionado,3220000.0,Aliado comercial,588.0,True,0,Android,hash_243452
+CL00409,2024-04-15,Valle del Cauca,Cali,37,M,1,Universitario,Empleado,3170000.0,App orgánico,660.0,True,2,Android,hash_733018
+CL00410,2024-06-18,Valle del Cauca,Cali,41,F,1,Universitario,Microempresario,3190000.0,Call center,546.0,True,1,Android,hash_491342
+CL00411,2025-04-14,Bogotá D.C.,Bogotá,43,F,4,Bachiller,Empleado,6140000.0,Campaña digital,816.0,True,0,iOS,hash_280564
+CL00412,2025-09-21,Bogotá D.C.,Bogotá,25,F,2,Bachiller,Microempresario,1880000.0,App orgánico,545.0,False,0,Android,hash_750101
+CL00413,2023-08-03,Antioquia,Medellín,21,F,2,Sin información,Comerciante,1950000.0,App orgánico,530.0,False,2,Android,hash_380064
+CL00414,2024-12-04,Bogotá D.C.,Bogotá,49,M,2,Técnico/Tecnólogo,Empleado,3260000.0,Campaña digital,,False,0,Android,hash_114633
+CL00415,2024-01-13,Tolima,Ibagué,39,M,2,Sin información,Microempresario,2380000.0,Aliado comercial,513.0,False,0,Android,hash_735462
+CL00416,2023-01-24,Risaralda,Pereira,29,F,1,Bachiller,Comerciante,3950000.0,App orgánico,610.0,True,2,iOS,hash_687069
+CL00417,2023-08-15,Antioquia,Medellín,52,M,2,Técnico/Tecnólogo,Comerciante,3300000.0,Aliado comercial,634.0,True,4,Android,hash_445215
+CL00418,2024-10-18,Bogotá D.C.,Bogotá,37,F,3,Universitario,Independiente,3480000.0,Campaña digital,530.0,False,0,Android,hash_395625
+CL00419,2023-05-13,Norte de Santander,Cúcuta,48,M,2,Posgrado,Comerciante,1650000.0,Referido,584.0,False,3,Android,hash_682393
+CL00420,2023-01-24,Santander,Bucaramanga,37,M,3,Posgrado,Estudiante,2000000.0,Aliado comercial,520.0,False,2,Android,hash_171468
+CL00421,2024-12-02,Risaralda,Pereira,57,M,3,Universitario,Empleado,2610000.0,Call center,611.0,False,3,Web,hash_834459
+CL00422,2025-01-04,Antioquia,Medellín,54,F,4,Técnico/Tecnólogo,Microempresario,4120000.0,Campaña digital,765.0,True,2,iOS,hash_222772
+CL00423,2025-08-04,Cundinamarca,Soacha,34,M,4,Técnico/Tecnólogo,Independiente,4440000.0,Call center,692.0,False,1,iOS,hash_291082
+CL00424,2025-05-10,Bogotá D.C.,Bogotá,46,M,1,Posgrado,Empleado,2710000.0,Referido,582.0,False,1,Android,hash_941464
+CL00425,2024-09-26,Cundinamarca,Soacha,42,M,2,Sin información,Empleado,3900000.0,Aliado comercial,480.0,False,0,Android,hash_250494
+CL00426,2023-07-16,Antioquia,Medellín,50,M,3,Técnico/Tecnólogo,Conductor/Repartidor,1540000.0,Campaña digital,524.0,True,2,iOS,hash_645501
+CL00427,2025-05-28,Atlántico,Barranquilla,26,M,3,Bachiller,Comerciante,2650000.0,Call center,473.0,False,2,iOS,hash_655877
+CL00428,2025-01-11,Antioquia,Medellín,43,M,4,Técnico/Tecnólogo,Empleado,2170000.0,Referido,,True,0,Android,hash_966262
+CL00429,2023-08-30,Bogotá D.C.,Bogotá,47,M,2,Bachiller,Independiente,1940000.0,Campaña digital,,True,0,Android,hash_588633
+CL00430,2026-01-10,Antioquia,Medellín,19,F,6,Bachiller,Empleado,3430000.0,Campaña digital,630.0,False,0,Android,hash_818590
+CL00431,2023-11-20,Santander,Bucaramanga,24,F,2,Universitario,Independiente,2690000.0,App orgánico,491.0,False,0,Android,hash_722673
+CL00432,2023-02-06,Santander,Bucaramanga,19,M,3,Bachiller,Empleado,3950000.0,Aliado comercial,610.0,True,2,Android,hash_528583
+CL00433,2025-08-19,Bogotá D.C.,Bogotá,33,M,6,Sin información,Microempresario,4480000.0,App orgánico,624.0,True,0,Android,hash_533855
+CL00434,2025-03-24,Norte de Santander,Cúcuta,43,F,1,Técnico/Tecnólogo,Conductor/Repartidor,2620000.0,App orgánico,,False,0,Android,hash_171524
+CL00435,2023-04-27,Bogotá D.C.,Bogotá,51,M,2,Sin información,Independiente,2580000.0,Aliado comercial,572.0,True,1,Android,hash_686400
+CL00436,2023-05-27,Bogotá D.C.,Bogotá,37,M,2,Universitario,Empleado,1830000.0,Aliado comercial,505.0,True,1,Web,hash_437232
+CL00437,2025-01-05,Bogotá D.C.,Bogotá,52,M,3,Sin información,Comerciante,1960000.0,Referido,662.0,False,1,Android,hash_205940
+CL00438,2024-08-06,Santander,Bucaramanga,22,M,3,Universitario,Empleado,3480000.0,Aliado comercial,709.0,True,1,iOS,hash_424792
+CL00439,2024-09-22,Bogotá D.C.,Bogotá,19,M,2,Universitario,Empleado,3890000.0,Referido,624.0,False,2,Android,hash_881707
+CL00440,2025-04-25,Bogotá D.C.,Bogotá,35,F,5,Universitario,Desempleado,830000.0,App orgánico,520.0,False,2,iOS,hash_616404
+CL00441,2025-07-08,Antioquia,Medellín,40,F,3,Bachiller,Desempleado,620000.0,Call center,548.0,False,0,Android,hash_925325
+CL00442,2025-06-23,Cundinamarca,Soacha,36,F,3,Bachiller,Empleado,2650000.0,Referido,,True,0,iOS,hash_957398
+CL00443,2024-05-17,Norte de Santander,Cúcuta,19,F,3,Sin información,Conductor/Repartidor,3160000.0,Campaña digital,568.0,False,1,Android,hash_154645
+CL00444,2025-02-27,Antioquia,Medellín,35,F,3,Técnico/Tecnólogo,Empleado,4020000.0,Campaña digital,676.0,True,2,iOS,hash_799438
+CL00445,2024-09-22,Antioquia,Medellín,23,M,3,Bachiller,Independiente,2360000.0,App orgánico,604.0,True,4,Android,hash_556120
+CL00446,2025-06-04,Caldas,Manizales,43,F,4,Técnico/Tecnólogo,Comerciante,2710000.0,App orgánico,686.0,False,1,Web,hash_973250
+CL00447,2023-12-20,Cundinamarca,Soacha,40,F,3,Técnico/Tecnólogo,Microempresario,6220000.0,Campaña digital,815.0,False,1,Android,hash_978383
+CL00448,2023-02-18,Bogotá D.C.,Bogotá,27,M,2,Técnico/Tecnólogo,Conductor/Repartidor,1730000.0,Referido,420.0,False,0,Android,hash_318220
+CL00449,2025-06-25,Valle del Cauca,Cali,31,M,1,Sin información,Desempleado,670000.0,App orgánico,389.0,False,0,Android,hash_374383
+CL00450,2025-02-22,Valle del Cauca,Cali,25,No informa,1,Posgrado,Comerciante,2790000.0,Referido,529.0,False,1,Android,hash_556566
+CL00451,2023-04-08,Bogotá D.C.,Bogotá,35,F,2,Bachiller,Empleado,1750000.0,Referido,598.0,True,3,Android,hash_199280
+CL00452,2023-05-24,Tolima,Ibagué,46,M,2,Técnico/Tecnólogo,Microempresario,2370000.0,App orgánico,545.0,False,2,Android,hash_371609
+CL00453,2023-09-25,Cundinamarca,Soacha,26,M,4,Universitario,Conductor/Repartidor,3060000.0,Campaña digital,556.0,False,3,Android,hash_907856
+CL00454,2024-10-30,Bogotá D.C.,Bogotá,41,M,2,Bachiller,Empleado,3280000.0,Campaña digital,574.0,False,0,Android,hash_958734
+CL00455,2023-10-12,Atlántico,Barranquilla,31,M,3,Universitario,Independiente,2560000.0,Campaña digital,543.0,False,2,iOS,hash_770655
+CL00456,2024-04-29,Bogotá D.C.,Bogotá,28,M,5,Técnico/Tecnólogo,Empleado,3490000.0,Campaña digital,681.0,True,2,Android,hash_742931
+CL00457,2023-02-15,Bogotá D.C.,Bogotá,35,F,4,Bachiller,Microempresario,3770000.0,Campaña digital,602.0,False,3,Android,hash_354809
+CL00458,2025-09-27,Bogotá D.C.,Bogotá,26,F,4,Universitario,Empleado,5270000.0,Campaña digital,661.0,False,1,iOS,hash_643028
+CL00459,2025-07-25,Bogotá D.C.,Bogotá,30,F,5,Bachiller,Empleado,9110000.0,Campaña digital,850.0,True,0,iOS,hash_992135
+CL00460,2026-01-07,Antioquia,Medellín,24,M,3,Bachiller,Empleado,2350000.0,App orgánico,623.0,True,1,iOS,hash_420589
+CL00461,2025-05-26,Atlántico,Barranquilla,56,F,1,Bachiller,Empleado,1720000.0,Call center,631.0,True,0,iOS,hash_430057
+CL00462,2025-02-23,Antioquia,Medellín,36,M,3,Bachiller,Independiente,2800000.0,Aliado comercial,660.0,False,0,Android,hash_861447
+CL00463,2024-08-02,Tolima,Ibagué,29,F,3,Bachiller,Empleado,2710000.0,App orgánico,624.0,False,4,Android,hash_183721
+CL00464,2025-12-06,Tolima,Ibagué,38,No informa,1,Técnico/Tecnólogo,Independiente,1710000.0,Campaña digital,636.0,True,1,Android,hash_596409
+CL00465,2026-01-18,Cundinamarca,Soacha,35,F,1,Universitario,Comerciante,1620000.0,Campaña digital,,False,0,Android,hash_351366
+CL00466,2025-02-21,Tolima,Ibagué,34,M,1,Técnico/Tecnólogo,Empleado,1530000.0,App orgánico,443.0,False,2,Android,hash_174469
+CL00467,2024-05-24,Bogotá D.C.,Bogotá,42,M,2,Bachiller,Independiente,1900000.0,Campaña digital,493.0,False,0,Web,hash_642740
+CL00468,2025-01-15,Meta,Villavicencio,44,M,5,Posgrado,Empleado,5160000.0,Campaña digital,779.0,True,0,Android,hash_749014
+CL00469,2024-01-23,Risaralda,Pereira,31,M,2,Universitario,Estudiante,1030000.0,Campaña digital,429.0,True,3,iOS,hash_790200
+CL00470,2024-04-23,Cundinamarca,Soacha,30,No informa,3,Técnico/Tecnólogo,Empleado,2100000.0,App orgánico,591.0,True,2,Android,hash_412499
+CL00471,2024-09-25,Bogotá D.C.,Bogotá,33,F,2,Universitario,Estudiante,910000.0,App orgánico,370.0,True,2,Web,hash_335603
+CL00472,2024-06-02,Bogotá D.C.,Bogotá,19,M,2,Universitario,Independiente,2850000.0,Aliado comercial,590.0,True,1,Android,hash_831385
+CL00473,2025-08-24,Meta,Villavicencio,21,F,4,Bachiller,Microempresario,2580000.0,Campaña digital,598.0,True,0,Android,hash_629896
+CL00474,2025-07-04,Santander,Bucaramanga,50,M,3,Universitario,Comerciante,1790000.0,Campaña digital,548.0,True,2,Android,hash_103679
+CL00475,2023-09-19,Cundinamarca,Soacha,52,M,2,Bachiller,Comerciante,2030000.0,Call center,521.0,False,1,Android,hash_982143
+CL00476,2023-03-17,Tolima,Ibagué,34,M,3,Técnico/Tecnólogo,Independiente,5110000.0,App orgánico,616.0,True,2,Web,hash_234288
+CL00477,2023-01-25,Bogotá D.C.,Bogotá,42,F,2,Técnico/Tecnólogo,Empleado,,Referido,613.0,False,0,Web,hash_180636
+CL00478,2024-01-03,Bogotá D.C.,Bogotá,39,F,2,Técnico/Tecnólogo,Empleado,2370000.0,Campaña digital,583.0,False,4,Android,hash_312628
+CL00479,2024-10-02,Caldas,Manizales,67,M,3,Técnico/Tecnólogo,Empleado,3050000.0,Aliado comercial,650.0,False,0,Android,hash_572694
+CL00480,2023-11-06,Antioquia,Medellín,47,M,5,Universitario,Empleado,2830000.0,Campaña digital,721.0,False,0,iOS,hash_723756
+CL00481,2024-03-28,Tolima,Ibagué,35,M,4,Universitario,Empleado,3730000.0,Aliado comercial,559.0,False,0,Android,hash_610559
+CL00482,2025-09-25,Risaralda,Pereira,26,M,3,Bachiller,Conductor/Repartidor,2990000.0,Campaña digital,628.0,False,0,Android,hash_168247
+CL00483,2024-06-18,Norte de Santander,Cúcuta,20,M,3,Técnico/Tecnólogo,Empleado,5420000.0,Campaña digital,672.0,True,0,Android,hash_939232
+CL00484,2023-06-23,Antioquia,Medellín,38,F,2,Técnico/Tecnólogo,Independiente,3020000.0,Referido,624.0,False,4,Web,hash_496907
+CL00485,2023-09-16,Bogotá D.C.,Barranquila,28,M,2,Sin información,Independiente,2440000.0,App orgánico,584.0,False,1,Android,hash_865372
+CL00486,2023-02-02,Valle del Cauca,Cali,22,M,2,Universitario,Comerciante,5720000.0,App orgánico,630.0,True,2,Android,hash_560221
+CL00487,2024-07-16,Antioquia,Medellín,30,M,3,Universitario,Independiente,2370000.0,Referido,743.0,False,0,Android,hash_441115
+CL00488,2023-09-07,Antioquia,Medellín,25,M,3,Posgrado,Estudiante,970000.0,App orgánico,552.0,False,0,Android,hash_888356
+CL00489,2023-07-25,Bogotá D.C.,Bogotá,53,M,3,Técnico/Tecnólogo,Microempresario,5180000.0,App orgánico,840.0,False,1,Android,hash_492838
+CL00490,2023-12-14,Santander,Bucaramanga,45,M,6,Sin información,Independiente,2800000.0,App orgánico,609.0,False,2,iOS,hash_210234
+CL00491,2025-08-31,Cundinamarca,Soacha,36,F,2,Universitario,Independiente,870000.0,Referido,524.0,False,0,Android,hash_893981
+CL00492,2023-08-09,Tolima,Ibagué,51,F,2,Bachiller,Empleado,4410000.0,Referido,684.0,False,3,iOS,hash_350476
+CL00493,2023-04-24,Atlántico,Barranquilla,37,M,2,Técnico/Tecnólogo,Independiente,120000000.0,Aliado comercial,555.0,False,2,Android,hash_205474
+CL00494,2023-11-25,Bolívar,Cartagena,27,F,1,Técnico/Tecnólogo,Empleado,1930000.0,Campaña digital,547.0,False,2,Android,hash_437109
+CL00495,2023-05-12,Bogotá D.C.,Bogotá,51,M,3,Técnico/Tecnólogo,Empleado,2550000.0,Campaña digital,581.0,False,0,iOS,hash_434937
+CL00496,2023-03-19,Bogotá D.C.,Bogotá,41,F,4,Técnico/Tecnólogo,Empleado,3420000.0,App orgánico,596.0,False,2,Android,hash_264164
+CL00497,2023-09-28,Bogotá D.C.,Bogotá,26,M,2,Técnico/Tecnólogo,Empleado,5610000.0,App orgánico,680.0,False,0,Android,hash_103420
+CL00498,2024-07-02,Valle del Cauca,Cali,34,F,4,Bachiller,Microempresario,6350000.0,Campaña digital,828.0,False,1,Android,hash_235669
+CL00499,2023-03-07,Norte de Santander,Cúcuta,27,F,4,Bachiller,Estudiante,1360000.0,App orgánico,420.0,False,1,iOS,hash_208806
+CL00500,2023-07-16,Antioquia,Medellín,22,F,2,Universitario,Empleado,1970000.0,Referido,614.0,False,2,Android,hash_759285
+CL00501,2025-06-28,Valle del Cauca,Cali,45,M,3,Universitario,Desempleado,700000.0,Referido,528.0,False,1,Android,hash_566783
+CL00502,2024-11-04,Bogotá D.C.,Bogotá,55,M,3,Universitario,Comerciante,4580000.0,App orgánico,633.0,False,2,iOS,hash_420692
+CL00503,2024-11-05,Antioquia,Medellín,22,M,3,Universitario,Independiente,3170000.0,App orgánico,555.0,False,0,Android,hash_308920
+CL00504,2023-07-26,Antioquia,Medellín,42,F,2,Universitario,Empleado,8510000.0,Referido,820.0,False,3,Android,hash_754539
+CL00505,2023-10-13,Bogotá D.C.,Bogotá,29,F,3,Técnico/Tecnólogo,Empleado,4440000.0,Campaña digital,636.0,False,1,iOS,hash_664935
+CL00506,2024-02-24,Cundinamarca,Soacha,31,M,2,Técnico/Tecnólogo,Comerciante,2620000.0,App orgánico,524.0,True,1,Android,hash_567119
+CL00507,2025-03-17,Antioquia,Medellín,30,M,4,Universitario,Empleado,3270000.0,App orgánico,623.0,False,0,Android,hash_100015
+CL00508,2025-04-27,Bogotá D.C.,Bogotá,27,M,1,Universitario,Microempresario,3130000.0,App orgánico,495.0,False,1,iOS,hash_676209
+CL00509,2023-12-19,Tolima,Ibagué,36,F,3,Universitario,Empleado,5770000.0,App orgánico,743.0,True,0,Android,hash_427507
+CL00510,2026-01-05,Bogotá D.C.,Bogotá,28,F,3,Posgrado,Comerciante,3190000.0,App orgánico,607.0,False,3,Android,hash_783550
+CL00511,2024-08-18,Bogotá D.C.,Bogotá,39,M,3,Universitario,Comerciante,1570000.0,App orgánico,440.0,False,0,iOS,hash_744911
+CL00512,2025-01-08,Norte de Santander,Cúcuta,35,F,5,Bachiller,Empleado,3550000.0,Campaña digital,700.0,False,3,Android,hash_169072
+CL00513,2024-06-19,Bogotá D.C.,Bogotá,34,F,3,Posgrado,Independiente,1560000.0,Campaña digital,604.0,False,0,Android,hash_637717
+CL00514,2025-08-09,Bogotá D.C.,Bogotá,27,M,3,Bachiller,Independiente,3310000.0,App orgánico,603.0,True,1,Android,hash_312650
+CL00515,2024-08-17,Valle del Cauca,Cali,30,M,3,Bachiller,Empleado,2080000.0,App orgánico,598.0,True,1,Web,hash_987743
+CL00516,2023-06-22,Santander,Bucaramanga,44,F,3,Universitario,Empleado,4490000.0,Campaña digital,656.0,False,0,Android,hash_879427
+CL00517,2024-10-04,Antioquia,Medellín,41,F,3,Sin información,Empleado,2430000.0,App orgánico,587.0,False,2,Android,hash_160481
+CL00518,2025-03-13,Bogotá D.C.,Bogotá,26,M,2,Bachiller,Comerciante,4210000.0,Campaña digital,610.0,False,1,Android,hash_106553
+CL00519,2025-11-17,Norte de Santander,Cúcuta,37,F,4,Técnico/Tecnólogo,Independiente,2140000.0,Referido,583.0,False,2,Android,hash_855897
+CL00520,2025-12-25,Meta,Villavicencio,44,F,2,Técnico/Tecnólogo,Independiente,1700000.0,Aliado comercial,550.0,False,0,iOS,hash_784880
+CL00521,2023-02-01,Santander,Bucaramanga,19,F,5,Universitario,Empleado,6760000.0,App orgánico,750.0,True,0,iOS,hash_162508
+CL00522,2024-04-28,Bogotá D.C.,Bogotá,41,M,1,Técnico/Tecnólogo,Estudiante,1000000.0,App orgánico,484.0,False,3,Android,hash_705599
+CL00523,2025-11-18,Antioquia,Medellín,29,M,4,Bachiller,Comerciante,3170000.0,Campaña digital,587.0,True,0,Web,hash_242290
+CL00524,2025-01-11,Cundinamarca,Soacha,42,M,2,Técnico/Tecnólogo,Microempresario,2470000.0,Campaña digital,604.0,True,0,Android,hash_219277
+CL00525,2025-04-01,Valle del Cauca,Cali,28,M,5,Universitario,Conductor/Repartidor,3880000.0,Campaña digital,606.0,True,0,Android,hash_204405
+CL00526,2024-10-24,Bogotá D.C.,Bogotá,19,M,2,Técnico/Tecnólogo,Empleado,1410000.0,App orgánico,587.0,False,1,Web,hash_733245
+CL00527,2023-07-26,Atlántico,Barranquilla,20,M,2,Técnico/Tecnólogo,Independiente,1920000.0,Referido,531.0,False,0,Android,hash_621817
+CL00528,2026-01-18,Bogotá D.C.,Bogotá,36,M,3,Técnico/Tecnólogo,Empleado,4620000.0,App orgánico,627.0,False,0,Android,hash_194835
+CL00529,2024-06-27,Bolívar,Cartagena,39,F,2,Bachiller,Microempresario,1520000.0,Campaña digital,514.0,False,0,Android,hash_514725
+CL00530,2025-04-11,Bogotá D.C.,Bogotá,27,M,2,Universitario,Empleado,3760000.0,App orgánico,647.0,True,1,Android,hash_462009
+CL00531,2025-04-21,Bogotá D.C.,Bogotá,42,M,1,Universitario,Empleado,2110000.0,App orgánico,650.0,False,2,Android,hash_177123
+CL00532,2025-02-21,Valle del Cauca,Cali,19,F,4,Bachiller,Independiente,1870000.0,Call center,626.0,False,0,Android,hash_775371
+CL00533,2023-02-03,Atlántico,Barranquilla,35,F,2,Sin información,Desempleado,820000.0,Call center,486.0,False,0,Android,hash_741157
+CL00534,2024-05-02,Bolívar,Cartagena,24,F,3,Universitario,Empleado,2590000.0,Referido,622.0,False,4,Android,hash_814618
+CL00535,2025-12-02,Bogotá D.C.,Bogotá,29,M,1,Bachiller,Estudiante,700000.0,App orgánico,438.0,False,0,Android,hash_389068
+CL00536,2023-04-07,Atlántico,Barranquilla,36,M,3,Técnico/Tecnólogo,Empleado,4010000.0,Call center,669.0,False,0,Android,hash_230509
+CL00537,2023-02-05,Antioquia,Medellín,27,F,2,Universitario,Independiente,2680000.0,App orgánico,476.0,False,4,Android,hash_456043
+CL00538,2023-08-11,Bogotá D.C.,Bogotá,32,F,2,Sin información,Independiente,3460000.0,Call center,642.0,False,1,Android,hash_651872
+CL00539,2025-10-27,Santander,Bucaramanga,46,F,4,Sin información,Independiente,2620000.0,Aliado comercial,651.0,False,2,Android,hash_872411
+CL00540,2023-01-22,Antioquia,Medellín,30,M,2,Técnico/Tecnólogo,Microempresario,3240000.0,Campaña digital,736.0,False,3,iOS,hash_774945
+CL00541,2023-04-26,Atlántico,Barranquilla,44,M,2,Sin información,Empleado,,Campaña digital,668.0,False,1,Android,hash_268332
+CL00542,2024-02-15,Bogotá D.C.,Bogotá,25,F,3,Técnico/Tecnólogo,Empleado,2350000.0,Referido,535.0,False,2,Android,hash_139015
+CL00543,2024-10-04,Atlántico,Barranquilla,41,F,5,Bachiller,Empleado,4250000.0,Campaña digital,678.0,True,0,Web,hash_774075
+CL00544,2025-11-05,Bolívar,Cartagena,50,M,5,Técnico/Tecnólogo,Microempresario,2820000.0,Referido,689.0,False,3,Android,hash_552546
+CL00545,2023-05-03,Cundinamarca,Soacha,19,F,2,Sin información,Empleado,1910000.0,Referido,649.0,False,0,Android,hash_978247
+CL00546,2023-04-02,Valle del Cauca,Cali,28,M,2,Posgrado,Comerciante,4760000.0,Aliado comercial,684.0,True,0,Android,hash_286110
+CL00547,2025-04-27,Antioquia,Medellín,42,F,3,Bachiller,Microempresario,2530000.0,Referido,642.0,True,1,Android,hash_647933
+CL00548,2025-07-03,Santander,Bucaramanga,34,M,2,Universitario,Independiente,1860000.0,App orgánico,488.0,False,1,Android,hash_848609
+CL00549,2023-06-24,Bogotá D.C.,Bogotá,40,F,3,Bachiller,Empleado,2070000.0,Call center,610.0,False,0,Android,hash_637953
+CL00550,2023-09-22,Valle del Cauca,Cali,30,M,5,Técnico/Tecnólogo,Microempresario,2830000.0,Call center,705.0,False,0,Android,hash_578766
+CL00551,2025-12-23,Bogotá D.C.,Bogotá,37,M,3,Posgrado,Microempresario,3230000.0,App orgánico,513.0,False,1,Android,hash_833478
+CL00552,2024-05-17,Antioquia,Medellín,34,M,2,Universitario,Empleado,2250000.0,Campaña digital,699.0,False,2,Web,hash_688730
+CL00553,2024-12-23,Bogotá D.C.,Bogotá,48,F,2,Bachiller,Comerciante,1250000.0,Aliado comercial,641.0,True,2,Android,hash_616456
+CL00554,2023-07-13,Bogotá D.C.,Bogotá,39,M,2,Posgrado,Comerciante,,Campaña digital,478.0,False,3,Android,hash_378252
+CL00555,2025-02-27,Bogotá D.C.,Bogotá,39,F,1,Bachiller,Pensionado,1750000.0,Referido,450.0,True,2,iOS,hash_565996
+CL00556,2024-05-10,Valle del Cauca,Cali,32,F,2,Universitario,Estudiante,480000.0,Aliado comercial,592.0,False,2,Android,hash_685009
+CL00557,2024-06-22,Bogotá D.C.,Bogotá,31,M,3,Universitario,Empleado,4660000.0,Call center,704.0,True,0,Android,hash_520594
+CL00558,2023-05-22,Bogotá D.C.,Bogotá,32,M,3,Universitario,Empleado,5050000.0,Referido,790.0,True,2,Android,hash_915037
+CL00559,2023-08-27,Bogotá D.C.,Bogotá,40,M,2,Técnico/Tecnólogo,Empleado,3880000.0,App orgánico,611.0,True,0,Android,hash_831670
+CL00560,2023-06-18,Atlántico,Barranquilla,32,M,2,Universitario,Desempleado,480000.0,Campaña digital,499.0,False,1,Android,hash_402094
+CL00561,2023-07-08,Valle del Cauca,Cali,39,M,2,Bachiller,Empleado,2940000.0,Call center,553.0,False,2,Android,hash_741774
+CL00562,2024-01-30,Cundinamarca,Soacha,57,F,4,Universitario,Independiente,5140000.0,Referido,781.0,True,0,Android,hash_812787
+CL00563,2023-07-27,Santander,Bucaramanga,45,M,2,Universitario,Empleado,,Aliado comercial,605.0,False,3,Android,hash_191665
+CL00564,2023-12-19,Bogotá D.C.,Bogotá,33,F,3,Técnico/Tecnólogo,Independiente,,App orgánico,703.0,False,2,iOS,hash_902386
+CL00565,2023-03-26,Antioquia,Medellín,48,F,1,Técnico/Tecnólogo,Estudiante,460000.0,App orgánico,417.0,False,0,Android,hash_688212
+CL00566,2023-02-23,Valle del Cauca,Cali,32,M,3,Bachiller,Conductor/Repartidor,1230000.0,Aliado comercial,392.0,False,0,Android,hash_745214
+CL00567,2023-10-28,Antioquia,Medellín,19,F,1,Universitario,Empleado,4560000.0,Call center,611.0,False,0,iOS,hash_224714
+CL00568,2025-09-04,Bogotá D.C.,Bogotá,26,M,2,Universitario,Empleado,,Referido,528.0,False,3,Android,hash_213926
+CL00569,2025-08-13,Atlántico,Barranquilla,19,M,4,Bachiller,Estudiante,820000.0,App orgánico,538.0,True,3,iOS,hash_577044
+CL00570,2025-07-25,Valle del Cauca,Cali,32,F,4,Universitario,Conductor/Repartidor,2110000.0,Campaña digital,506.0,False,4,Android,hash_629148
+CL00571,2023-11-01,Antioquia,Medellín,36,F,2,Universitario,Microempresario,1870000.0,Campaña digital,571.0,True,2,Android,hash_881608
+CL00572,2024-12-31,Bogotá D.C.,Bogotá,53,F,2,Posgrado,Conductor/Repartidor,1910000.0,App orgánico,518.0,True,0,Android,hash_423599
+CL00573,2025-10-08,Santander,Bucaramanga,39,F,4,Técnico/Tecnólogo,Pensionado,2450000.0,Aliado comercial,577.0,False,2,iOS,hash_907784
+CL00574,2025-02-07,Tolima,Ibagué,34,M,3,Sin información,Independiente,2170000.0,Referido,631.0,False,2,Web,hash_461799
+CL00575,2024-04-15,Antioquia,Medellín,44,M,3,Técnico/Tecnólogo,Empleado,3230000.0,Referido,572.0,False,2,Android,hash_378747
+CL00576,2023-10-10,Bogotá D.C.,Bogotá,19,M,5,Bachiller,Microempresario,4330000.0,App orgánico,673.0,True,2,Android,hash_888049
+CL00577,2025-12-19,Antioquia,Medellín,38,F,1,Técnico/Tecnólogo,Pensionado,1730000.0,App orgánico,630.0,False,0,Android,hash_628742
+CL00578,2023-10-16,Bogotá D.C.,Bogotá,44,M,2,Bachiller,Microempresario,1670000.0,Campaña digital,589.0,True,2,Android,hash_342821
+CL00579,2024-05-21,Risaralda,Pereira,21,M,2,Bachiller,Empleado,4210000.0,App orgánico,600.0,False,1,Android,hash_127603
+CL00580,2023-12-08,Bogotá D.C.,Bogotá,47,M,3,Posgrado,Microempresario,2740000.0,Call center,611.0,False,0,Android,hash_886872
+CL00581,2023-11-02,Antioquia,Medellín,39,M,4,Bachiller,Empleado,2270000.0,Campaña digital,625.0,False,2,iOS,hash_168607
+CL00582,2026-01-16,Santander,Bucaramanga,32,M,2,Universitario,Independiente,1880000.0,Referido,497.0,False,3,Android,hash_356760
+CL00583,2024-09-04,Santander,Bucaramanga,42,F,3,Universitario,Independiente,2100000.0,Referido,540.0,False,1,Android,hash_810958
+CL00584,2023-02-26,Cundinamarca,Soacha,59,M,5,Técnico/Tecnólogo,Comerciante,3470000.0,App orgánico,674.0,False,1,Android,hash_250434
+CL00585,2023-02-19,Atlántico,Barranquilla,38,M,4,Técnico/Tecnólogo,Empleado,3040000.0,App orgánico,687.0,False,4,Android,hash_854849
+CL00586,2024-04-27,Santander,Bucaramanga,38,M,2,Posgrado,Conductor/Repartidor,1340000.0,Call center,487.0,False,2,Android,hash_443671
+CL00587,2023-05-03,Meta,Villavicencio,31,F,1,Bachiller,Empleado,1310000.0,Campaña digital,552.0,True,1,Android,hash_762600
+CL00588,2025-03-25,Bogotá D.C.,Bogotá,28,M,3,Bachiller,Independiente,5130000.0,Campaña digital,603.0,False,0,Android,hash_911802
+CL00589,2025-11-13,Meta,Villavicencio,44,F,4,Posgrado,Conductor/Repartidor,2180000.0,App orgánico,490.0,False,2,Android,hash_701385
+CL00590,2025-05-10,Bogotá D.C.,Bogotá,27,M,3,Técnico/Tecnólogo,Microempresario,2550000.0,Campaña digital,642.0,False,0,Android,hash_466056
+CL00591,2024-02-01,Antioquia,Medellín,37,F,3,Bachiller,Microempresario,4810000.0,Aliado comercial,,True,2,iOS,hash_244608
+CL00592,2023-11-05,Valle del Cauca,Cali,31,M,3,Sin información,Comerciante,3950000.0,App orgánico,683.0,True,2,iOS,hash_727901
+CL00593,2023-07-22,Bogotá D.C.,Bogotá,41,F,1,Universitario,Estudiante,1160000.0,Referido,,False,0,Android,hash_258116
+CL00594,2025-03-13,Cundinamarca,Soacha,39,F,1,Sin información,Microempresario,2170000.0,Aliado comercial,505.0,False,0,Android,hash_285715
+CL00595,2023-06-24,Valle del Cauca,Cali,46,M,3,Técnico/Tecnólogo,Empleado,2940000.0,Call center,593.0,True,4,Android,hash_439749
+CL00596,2024-07-26,Valle del Cauca,Cali,31,M,3,Posgrado,Desempleado,360000.0,App orgánico,522.0,False,3,iOS,hash_806167
+CL00597,2024-08-19,Santander,Bucaramanga,33,F,2,Técnico/Tecnólogo,Microempresario,2670000.0,Campaña digital,515.0,False,0,iOS,hash_897051
+CL00598,2023-03-21,Norte de Santander,Cúcuta,26,M,3,Técnico/Tecnólogo,Independiente,4660000.0,Campaña digital,705.0,True,1,Android,hash_665745
+CL00599,2024-07-11,Meta,Villavicencio,32,F,2,Universitario,Empleado,2570000.0,Aliado comercial,616.0,True,3,Android,hash_380371
+CL00600,2025-11-04,Antioquia,Medellín,40,F,5,Universitario,Empleado,4020000.0,Aliado comercial,733.0,False,2,iOS,hash_339317
+CL00601,2023-03-18,Bogotá D.C.,Bogotá,44,F,3,Técnico/Tecnólogo,Independiente,1570000.0,Call center,664.0,False,2,iOS,hash_801486
+CL00602,2023-11-23,Bogotá D.C.,Bogotá,27,M,3,Posgrado,Independiente,2720000.0,Call center,486.0,False,3,iOS,hash_907662
+CL00603,2025-12-28,Norte de Santander,Cúcuta,45,F,3,Técnico/Tecnólogo,Independiente,,Referido,537.0,True,3,Android,hash_428396
+CL00604,2025-05-26,Antioquia,Medellín,50,F,2,Universitario,Comerciante,2370000.0,App orgánico,551.0,True,2,Android,hash_982622
+CL00605,2023-09-03,Atlántico,Barranquilla,40,F,2,Sin información,Empleado,3350000.0,App orgánico,613.0,False,0,iOS,hash_692127
+CL00606,2025-05-21,Caldas,Manizales,55,M,1,Sin información,Empleado,2830000.0,Referido,575.0,False,1,Android,hash_979793
+CL00607,2025-01-20,Bogotá D.C.,Bogotá,28,M,1,Universitario,Empleado,3300000.0,App orgánico,550.0,False,0,Web,hash_567121
+CL00608,2023-05-22,Norte de Santander,Cúcuta,24,F,2,Universitario,Empleado,,App orgánico,600.0,False,3,Android,hash_520129
+CL00609,2023-09-17,Bogotá D.C.,Bogotá,19,M,3,Técnico/Tecnólogo,Conductor/Repartidor,2330000.0,Aliado comercial,536.0,True,1,Android,hash_364531
+CL00610,2023-12-22,Bogotá D.C.,Bogotá,51,F,1,Universitario,Conductor/Repartidor,1450000.0,Referido,529.0,False,0,iOS,hash_477625
+CL00611,2023-06-17,Bogotá D.C.,Bogotá,43,M,2,Universitario,Conductor/Repartidor,1910000.0,App orgánico,529.0,True,2,Android,hash_388581
+CL00612,2024-05-20,Valle del Cauca,Cali,35,F,3,Bachiller,Comerciante,,Referido,,False,2,Android,hash_356094
+CL00613,2024-09-02,Antioquia,Medellín,39,F,2,Bachiller,Independiente,3570000.0,Campaña digital,547.0,False,2,Android,hash_456554
+CL00614,2023-06-17,Santander,Bucaramanga,25,M,3,Bachiller,Empleado,4450000.0,Call center,717.0,False,0,Android,hash_470283
+CL00615,2024-03-17,Antioquia,Medellín,60,M,4,Universitario,Independiente,1970000.0,Campaña digital,,False,2,Android,hash_348595
+CL00616,2025-11-23,Santander,Bucaramanga,37,F,2,Bachiller,Empleado,2800000.0,Call center,710.0,True,0,Web,hash_630929
+CL00617,2024-11-11,Valle del Cauca,Cali,37,F,3,Técnico/Tecnólogo,Desempleado,880000.0,Aliado comercial,543.0,False,1,Android,hash_127215
+CL00618,2024-12-28,Atlántico,Barranquilla,43,F,5,Técnico/Tecnólogo,Estudiante,1550000.0,App orgánico,532.0,True,2,Android,hash_650162
+CL00619,2024-10-02,Atlántico,Barranquilla,41,M,2,Bachiller,Pensionado,1880000.0,App orgánico,503.0,False,3,Android,hash_732337
+CL00620,2024-05-10,Atlántico,Barranquilla,38,M,2,Bachiller,Comerciante,2270000.0,Call center,596.0,False,0,Android,hash_550511
+CL00621,2025-09-02,Bogotá D.C.,Bogotá,28,F,4,Posgrado,Comerciante,2140000.0,App orgánico,616.0,False,1,Android,hash_336576
+CL00622,2025-07-25,Antioquia,Medellín,41,M,1,Universitario,Independiente,2140000.0,Referido,659.0,False,1,iOS,hash_185834
+CL00623,2024-08-17,Bogotá D.C.,Bogotá,55,M,4,Universitario,Independiente,2030000.0,App orgánico,576.0,False,1,Android,hash_365199
+CL00624,2025-01-15,Bolívar,Cartagena,49,F,4,Bachiller,Empleado,6520000.0,App orgánico,675.0,False,1,Web,hash_838561
+CL00625,2025-01-20,Norte de Santander,Cúcuta,52,F,1,Sin información,Empleado,2300000.0,Aliado comercial,572.0,False,2,Android,hash_592665
+CL00626,2025-10-21,Bogotá D.C.,Bogotá,31,F,2,Sin información,Desempleado,,Call center,498.0,True,1,iOS,hash_579425
+CL00627,2024-09-28,Antioquia,Medellín,26,F,3,Sin información,Independiente,3350000.0,App orgánico,581.0,False,0,Android,hash_867914
+CL00628,2025-03-19,Bogotá D.C.,Bogotá,35,F,4,Universitario,Comerciante,4240000.0,App orgánico,657.0,False,1,Android,hash_479129
+CL00629,2023-09-15,Antioquia,Medellín,37,M,1,Bachiller,Empleado,3380000.0,Campaña digital,662.0,False,2,iOS,hash_198980
+CL00630,2024-04-22,Bogotá D.C.,Bogotá,47,F,3,Técnico/Tecnólogo,Comerciante,3190000.0,App orgánico,572.0,False,2,Web,hash_342282
+CL00631,2024-09-08,Valle del Cauca,Cali,19,F,5,Posgrado,Comerciante,4510000.0,App orgánico,639.0,False,0,Android,hash_727824
+CL00632,2025-07-07,Valle del Cauca,Cali,51,M,3,Técnico/Tecnólogo,Independiente,2450000.0,App orgánico,547.0,True,1,Android,hash_853996
+CL00633,2025-10-08,Meta,Villavicencio,34,F,2,Universitario,Comerciante,4600000.0,App orgánico,672.0,False,1,Android,hash_685233
+CL00634,2024-03-16,Bolívar,Cartagena,32,F,4,Bachiller,Independiente,3180000.0,Referido,565.0,True,0,Android,hash_997148
+CL00635,2023-09-04,Cundinamarca,Soacha,26,F,1,Técnico/Tecnólogo,Empleado,2160000.0,Referido,511.0,False,4,Android,hash_811182
+CL00636,2024-03-06,Valle del Cauca,Cali,19,M,2,Técnico/Tecnólogo,Independiente,2350000.0,Referido,520.0,False,2,Android,hash_751286
+CL00637,2023-11-30,Santander,Bucaramanga,44,F,4,Universitario,Pensionado,2400000.0,Aliado comercial,601.0,False,4,Android,hash_730167
+CL00638,2024-12-30,Risaralda,Pereira,37,F,3,Posgrado,Empleado,3330000.0,Campaña digital,614.0,False,3,Web,hash_466731
+CL00639,2025-08-25,Atlántico,Barranquilla,23,F,5,Técnico/Tecnólogo,Estudiante,2740000.0,Campaña digital,583.0,True,2,iOS,hash_428779
+CL00640,2023-03-28,Antioquia,Medellín,23,M,4,Bachiller,Microempresario,2930000.0,Referido,541.0,False,2,Web,hash_816537
+CL00641,2025-03-22,Bogotá D.C.,Bogotá,33,F,2,Técnico/Tecnólogo,Empleado,2910000.0,Aliado comercial,547.0,False,0,Android,hash_771915
+CL00642,2023-12-29,Antioquia,Medellín,53,M,3,Universitario,Empleado,3810000.0,App orgánico,633.0,True,3,iOS,hash_759045
+CL00643,2025-04-25,Valle del Cauca,Cali,33,M,2,Bachiller,Empleado,2000000.0,Referido,555.0,False,1,Android,hash_202666
+CL00644,2025-05-20,Caldas,Manizales,21,F,1,Técnico/Tecnólogo,Comerciante,2470000.0,App orgánico,538.0,False,3,Android,hash_228633
+CL00645,2025-12-05,Atlántico,Barranquilla,34,M,2,Técnico/Tecnólogo,Empleado,1940000.0,Campaña digital,574.0,False,0,Android,hash_153533
+CL00646,2024-12-05,Risaralda,Pereira,33,F,1,Bachiller,Desempleado,320000.0,Campaña digital,415.0,False,0,iOS,hash_993850
+CL00647,2025-03-21,Bogotá D.C.,Bogotá,19,F,2,Técnico/Tecnólogo,Empleado,2550000.0,Campaña digital,,True,0,iOS,hash_571653
+CL00648,2025-03-26,Bogotá D.C.,Bogotá,35,F,4,Técnico/Tecnólogo,Independiente,2130000.0,Campaña digital,605.0,False,1,Android,hash_140002
+CL00649,2025-12-14,Valle del Cauca,Cali,34,F,2,Técnico/Tecnólogo,Comerciante,1680000.0,Referido,577.0,False,1,iOS,hash_382868
+CL00650,2024-09-01,Atlántico,Barranquilla,43,M,4,Bachiller,Empleado,,App orgánico,,False,2,Android,hash_840174
+CL00651,2025-12-13,Atlántico,Barranquilla,54,F,2,Bachiller,Empleado,,Campaña digital,667.0,True,0,Android,hash_782358
+CL00652,2024-02-20,Bogotá D.C.,Bogotá,47,M,4,Bachiller,Empleado,4510000.0,Call center,,True,1,iOS,hash_196917
+CL00653,2023-08-24,Norte de Santander,Cúcuta,33,F,2,Técnico/Tecnólogo,Independiente,1870000.0,Referido,578.0,True,0,iOS,hash_605074
+CL00654,2024-06-01,Bogotá D.C.,Bogotá,25,F,5,Técnico/Tecnólogo,Empleado,4700000.0,Referido,645.0,False,3,iOS,hash_319248
+CL00655,2025-12-21,Santander,Bucaramanga,62,F,3,Bachiller,Empleado,3760000.0,Call center,707.0,True,1,Android,hash_144109
+CL00656,2024-03-24,Bogotá D.C.,Bogotá,37,M,2,Técnico/Tecnólogo,Microempresario,3720000.0,App orgánico,634.0,False,1,Android,hash_997383
+CL00657,2023-12-03,Valle del Cauca,Cali,36,F,4,Bachiller,Conductor/Repartidor,1830000.0,Aliado comercial,547.0,False,0,Android,hash_405242
+CL00658,2023-05-07,Risaralda,Pereira,36,F,1,Técnico/Tecnólogo,Empleado,2370000.0,App orgánico,569.0,True,2,Web,hash_300741
+CL00659,2025-08-20,Antioquia,Medellín,38,F,2,Bachiller,Desempleado,870000.0,App orgánico,448.0,False,2,iOS,hash_796001
+CL00660,2025-06-19,Antioquia,Medellín,35,F,3,Universitario,Conductor/Repartidor,1550000.0,Referido,572.0,False,1,Android,hash_648297
+CL00661,2025-09-12,Santander,Bucaramanga,30,F,4,Técnico/Tecnólogo,Comerciante,4440000.0,Aliado comercial,616.0,False,1,iOS,hash_642618
+CL00662,2023-05-17,Cundinamarca,Soacha,31,F,2,Universitario,Comerciante,2680000.0,App orgánico,714.0,False,2,Android,hash_130982
+CL00663,2025-03-19,Atlántico,Barranquilla,36,M,2,Bachiller,Comerciante,3410000.0,Campaña digital,556.0,False,2,Android,hash_122205
+CL00664,2024-10-30,Bogotá D.C.,Bogotá,31,M,5,Sin información,Comerciante,5930000.0,Aliado comercial,720.0,False,0,Android,hash_187073
+CL00665,2023-12-23,Meta,Villavicencio,29,F,3,Posgrado,Comerciante,2290000.0,App orgánico,660.0,False,0,Android,hash_617351
+CL00666,2023-08-21,Santander,Bucaramanga,37,M,2,Técnico/Tecnólogo,Empleado,6560000.0,Referido,647.0,True,3,Android,hash_139244
+CL00667,2023-08-28,Santander,Bucaramanga,33,No informa,4,Universitario,Empleado,2620000.0,Campaña digital,645.0,True,1,Android,hash_960276
+CL00668,2023-11-16,Atlántico,Barranquilla,51,M,2,Universitario,Empleado,1860000.0,Call center,492.0,False,0,Android,hash_326845
+CL00669,2023-02-26,Bogotá D.C.,Bogotá,19,M,2,Técnico/Tecnólogo,Independiente,2460000.0,App orgánico,578.0,False,1,Android,hash_556982
+CL00670,2025-01-06,Bogotá D.C.,Bogotá,47,F,4,Universitario,Comerciante,5440000.0,Aliado comercial,684.0,False,1,iOS,hash_776367
+CL00671,2024-09-04,Bogotá D.C.,Bogotá,48,M,3,Universitario,Empleado,2700000.0,Call center,641.0,True,3,Android,hash_686463
+CL00672,2025-11-27,Bogotá D.C.,Bogotá,19,M,3,Bachiller,Empleado,5590000.0,Aliado comercial,687.0,False,1,Android,hash_866159
+CL00673,2023-03-25,Bogotá D.C.,Bogotá,33,M,4,Universitario,Empleado,6550000.0,Campaña digital,774.0,False,3,iOS,hash_954638
+CL00674,2023-08-08,Antioquia,Medellín,32,M,1,Bachiller,Empleado,2030000.0,Campaña digital,495.0,True,1,Android,hash_263878
+CL00675,2025-01-12,Bogotá D.C.,Bogotá,22,M,1,Bachiller,Estudiante,900000.0,App orgánico,471.0,False,2,Android,hash_926862
+CL00676,2023-10-23,Bogotá D.C.,Bogotá,28,M,4,Técnico/Tecnólogo,Empleado,8260000.0,App orgánico,850.0,False,2,Android,hash_613264
+CL00677,2025-01-07,Santander,Bucaramanga,25,M,5,Técnico/Tecnólogo,Empleado,3520000.0,Aliado comercial,604.0,False,0,Android,hash_245250
+CL00678,2023-06-07,Norte de Santander,Cúcuta,54,M,2,Bachiller,Empleado,2140000.0,Campaña digital,658.0,True,0,Android,hash_751286
+CL00679,2024-08-11,Atlántico,Barranquilla,45,M,2,Sin información,Independiente,960000.0,Campaña digital,441.0,False,0,Android,hash_902251
+CL00680,2025-07-14,Santander,Bucaramanga,49,M,4,Bachiller,Conductor/Repartidor,2730000.0,App orgánico,594.0,False,1,Android,hash_506906
+CL00681,2024-06-07,Bogotá D.C.,Bogotá,43,No informa,3,Técnico/Tecnólogo,Independiente,2040000.0,App orgánico,579.0,False,4,Android,hash_953933
+CL00682,2025-06-30,Risaralda,Pereira,25,F,3,Bachiller,Empleado,3760000.0,Aliado comercial,669.0,True,0,Android,hash_893936
+CL00683,2025-02-05,Atlántico,Barranquilla,31,F,1,Sin información,Empleado,2130000.0,Referido,552.0,True,2,Android,hash_824203
+CL00684,2025-04-13,Bolívar,Cartagena,41,F,2,Bachiller,Empleado,2650000.0,Campaña digital,589.0,True,1,Android,hash_332033
+CL00685,2023-12-01,Antioquia,Medellín,24,M,1,Técnico/Tecnólogo,Comerciante,1590000.0,App orgánico,465.0,False,0,Android,hash_132548
+CL00686,2023-06-07,Antioquia,Medellín,43,F,4,Universitario,Empleado,9450000.0,Campaña digital,845.0,True,0,Android,hash_650846
+CL00687,2024-08-02,Antioquia,Medellín,34,M,3,Bachiller,Independiente,3440000.0,Referido,695.0,False,0,Web,hash_474016
+CL00688,2024-10-23,Bogotá D.C.,Bogotá,32,M,4,Posgrado,Empleado,6150000.0,Referido,706.0,True,3,Android,hash_868278
+CL00689,2025-04-22,Bogotá D.C.,Bogotá,43,F,2,Bachiller,Comerciante,4940000.0,App orgánico,608.0,True,0,Android,hash_229327
+CL00690,2024-08-14,Bogotá D.C.,Bogotá,40,M,2,Universitario,Microempresario,1980000.0,Campaña digital,539.0,False,3,iOS,hash_439899
+CL00691,2025-11-11,Santander,Bucaramanga,32,M,2,Técnico/Tecnólogo,Empleado,3160000.0,Campaña digital,644.0,True,2,Web,hash_798512
+CL00692,2025-04-11,Bogotá D.C.,Bogotá,48,M,2,Universitario,Empleado,3050000.0,Call center,587.0,True,2,Android,hash_629075
+CL00693,2025-10-13,Bogotá D.C.,Bogotá,25,F,3,Técnico/Tecnólogo,Independiente,3260000.0,Campaña digital,550.0,False,0,iOS,hash_139726
+CL00694,2023-04-05,Antioquia,Medellín,42,M,2,Sin información,Pensionado,1830000.0,Campaña digital,526.0,True,1,iOS,hash_385201
+CL00695,2024-04-28,Bogotá D.C.,Bogotá,42,No informa,3,Bachiller,Empleado,1610000.0,Aliado comercial,485.0,False,0,Web,hash_512126
+CL00696,2024-08-03,Antioquia,Medellín,33,M,5,Técnico/Tecnólogo,Independiente,3370000.0,Aliado comercial,654.0,False,3,Android,hash_191005
+CL00697,2024-05-21,Valle del Cauca,Cali,39,M,6,Universitario,Comerciante,6580000.0,Referido,809.0,False,1,Android,hash_523190
+CL00698,2025-07-19,Tolima,Ibagué,23,M,2,Bachiller,Microempresario,,Referido,639.0,True,3,Web,hash_161779
+CL00699,2024-02-17,Antioquia,Medellín,45,F,2,Universitario,Comerciante,2170000.0,App orgánico,583.0,False,1,Android,hash_123814
+CL00700,2024-06-12,Bogotá D.C.,Bogotá,34,M,5,Bachiller,Empleado,3050000.0,App orgánico,744.0,False,3,iOS,hash_543108
+CL00701,2023-06-09,Tolima,Ibagué,31,M,6,Técnico/Tecnólogo,Estudiante,-1.0,App orgánico,559.0,True,2,Android,hash_287213
+CL00702,2023-04-11,Bogotá D.C.,Bogotá,46,M,2,Técnico/Tecnólogo,Independiente,2720000.0,Referido,694.0,False,1,iOS,hash_177001
+CL00703,2025-11-30,Valle del Cauca,Cali,29,F,1,Bachiller,Empleado,2750000.0,App orgánico,534.0,False,0,Android,hash_297935
+CL00704,2024-12-28,Bogotá D.C.,Bogotá,22,F,3,Universitario,Empleado,,Referido,,True,0,Android,hash_121536
+CL00705,2023-08-24,Bogotá D.C.,Bogotá,20,M,3,Posgrado,Independiente,3440000.0,Referido,544.0,False,1,Android,hash_117352
+CL00706,2024-06-27,Tolima,Ibagué,42,M,2,Bachiller,Independiente,1550000.0,App orgánico,552.0,False,3,Android,hash_412444
+CL00707,2023-07-15,Cundinamarca,Soacha,23,M,2,Posgrado,Conductor/Repartidor,2000000.0,Campaña digital,510.0,False,0,Android,hash_750728
+CL00708,2025-12-04,Antioquia,Medellín,54,F,3,Universitario,Microempresario,4720000.0,App orgánico,685.0,False,0,Android,hash_411847
+CL00709,2024-08-31,Santander,Bucaramanga,19,F,4,Técnico/Tecnólogo,Comerciante,3420000.0,Campaña digital,501.0,True,4,Android,hash_440907
+CL00710,2025-10-17,Valle del Cauca,Cali,53,F,3,Bachiller,Estudiante,1480000.0,Campaña digital,525.0,False,2,Android,hash_358989
+CL00711,2023-08-26,Bogotá D.C.,Bogotá,38,M,6,Técnico/Tecnólogo,Independiente,3100000.0,Aliado comercial,686.0,False,1,Android,hash_434267
+CL00712,2025-12-01,Antioquia,Medellín,35,F,3,Universitario,Empleado,6010000.0,Referido,767.0,False,2,Web,hash_746956
+CL00713,2023-12-29,Antioquia,Medellín,31,F,5,Universitario,Empleado,5680000.0,App orgánico,716.0,False,1,Android,hash_521399
+CL00714,2023-10-30,Bogotá D.C.,Bogotá,40,M,3,Universitario,Empleado,6330000.0,Aliado comercial,797.0,True,2,iOS,hash_356196
+CL00715,2025-05-09,Bogotá D.C.,Bogotá,36,F,4,Técnico/Tecnólogo,Estudiante,970000.0,Campaña digital,614.0,False,3,Android,hash_797600
+CL00716,2024-03-02,Meta,Villavicencio,47,F,5,Técnico/Tecnólogo,Microempresario,5730000.0,Aliado comercial,,False,2,Android,hash_996020
+CL00717,2023-04-30,Atlántico,Barranquilla,37,M,2,Bachiller,Desempleado,630000.0,Aliado comercial,492.0,False,0,Android,hash_478080
+CL00718,2023-01-26,Bogotá D.C.,Bogotá,38,F,4,Universitario,Empleado,2660000.0,Referido,637.0,False,0,Android,hash_909721
+CL00719,2025-10-02,Meta,Villavicencio,32,M,3,Universitario,Microempresario,2840000.0,App orgánico,697.0,True,0,Android,hash_811921
+CL00720,2025-08-10,Atlántico,Barranquilla,35,M,5,Posgrado,Independiente,4220000.0,Campaña digital,644.0,False,1,Android,hash_197847
+CL00721,2024-07-03,Antioquia,Medellín,39,F,4,Bachiller,Comerciante,2980000.0,App orgánico,556.0,False,1,Android,hash_840400
+CL00722,2024-03-12,Cundinamarca,Soacha,19,M,3,Bachiller,Pensionado,2890000.0,Aliado comercial,567.0,True,0,iOS,hash_273441
+CL00723,2023-12-28,Norte de Santander,Cúcuta,23,M,3,Técnico/Tecnólogo,Microempresario,4690000.0,App orgánico,569.0,True,2,Android,hash_754373
+CL00724,2025-01-18,Bogotá D.C.,Bogotá,43,F,2,Bachiller,Empleado,4570000.0,Campaña digital,656.0,True,2,Web,hash_394772
+CL00725,2023-05-29,Bogotá D.C.,Bogotá,38,F,5,Sin información,Independiente,3630000.0,App orgánico,676.0,False,0,iOS,hash_177952
+CL00726,2024-05-16,Bogotá D.C.,Bogotá,34,F,5,Bachiller,Empleado,5970000.0,Campaña digital,782.0,True,1,Web,hash_745558
+CL00727,2023-06-18,Cundinamarca,Soacha,36,F,2,Bachiller,Desempleado,600000.0,App orgánico,483.0,False,2,Android,hash_707769
+CL00728,2025-11-11,Bogotá D.C.,Bogotá,39,M,3,Universitario,Pensionado,1520000.0,Referido,472.0,False,4,Android,hash_665109
+CL00729,2025-10-14,Caldas,Manizales,31,M,3,Técnico/Tecnólogo,Empleado,2500000.0,Campaña digital,651.0,False,0,Web,hash_311470
+CL00730,2023-10-28,Valle del Cauca,Cali,28,F,1,Bachiller,Comerciante,2540000.0,Referido,,False,3,Android,hash_179711
+CL00731,2025-09-17,Bogotá D.C.,Bogotá,38,M,3,Bachiller,Conductor/Repartidor,1560000.0,Referido,598.0,True,0,Web,hash_367800
+CL00732,2024-05-25,Meta,Villavicencio,26,M,1,Universitario,Estudiante,710000.0,Campaña digital,449.0,True,0,Android,hash_554325
+CL00733,2024-11-24,Meta,Villavicencio,40,F,1,Sin información,Empleado,2260000.0,Referido,485.0,False,3,iOS,hash_843537
+CL00734,2023-02-05,Cundinamarca,Soacha,19,F,4,Técnico/Tecnólogo,Empleado,4960000.0,App orgánico,689.0,False,2,Android,hash_987687
+CL00735,2023-03-19,Risaralda,Pereira,46,F,2,Universitario,Independiente,1800000.0,Referido,551.0,False,4,iOS,hash_304706
+CL00736,2024-09-13,Antioquia,Medellín,41,F,5,Técnico/Tecnólogo,Empleado,4370000.0,Campaña digital,804.0,False,1,Android,hash_506656
+CL00737,2023-10-27,Cundinamarca,Soacha,39,M,3,Posgrado,Estudiante,1470000.0,Aliado comercial,526.0,False,2,Android,hash_639006
+CL00738,2023-02-26,Bogotá D.C.,Bogotá,46,F,3,Bachiller,Independiente,1550000.0,Campaña digital,627.0,False,0,Android,hash_603122
+CL00739,2025-12-03,Norte de Santander,Cúcuta,53,M,5,Técnico/Tecnólogo,Empleado,4290000.0,Campaña digital,671.0,False,2,Android,hash_114629
+CL00740,2025-10-25,Cundinamarca,Soacha,46,F,3,Bachiller,Independiente,3390000.0,Referido,562.0,True,0,Android,hash_532043
+CL00741,2023-12-02,Antioquia,Medellín,19,F,2,Bachiller,Empleado,3090000.0,App orgánico,630.0,False,4,Android,hash_293201
+CL00742,2026-01-01,Valle del Cauca,Cali,23,F,3,Bachiller,Microempresario,5920000.0,Campaña digital,705.0,False,4,Web,hash_334618
+CL00743,2024-01-29,Caldas,Manizales,30,F,2,Universitario,Microempresario,2380000.0,Referido,526.0,True,0,iOS,hash_212168
+CL00744,2024-12-18,Santander,Bucaramanga,36,M,2,Técnico/Tecnólogo,Empleado,1650000.0,Referido,508.0,True,1,Android,hash_258621
+CL00745,2024-01-28,Antioquia,Medellín,41,M,2,Bachiller,Empleado,3330000.0,Campaña digital,647.0,False,0,Android,hash_273453
+CL00746,2023-06-15,Risaralda,Pereira,29,F,4,Técnico/Tecnólogo,Microempresario,2720000.0,App orgánico,692.0,True,1,Android,hash_832068
+CL00747,2025-12-02,Bogotá D.C.,Bogotá,38,M,4,Universitario,Independiente,1920000.0,Aliado comercial,452.0,False,1,iOS,hash_581891
+CL00748,2024-03-07,Bogotá D.C.,Bogotá,28,F,1,Técnico/Tecnólogo,Comerciante,0.0,App orgánico,483.0,False,2,iOS,hash_547822
+CL00749,2025-02-05,Bogotá D.C.,Bogotá,30,F,3,Universitario,Estudiante,2060000.0,Referido,604.0,False,0,iOS,hash_871784
+CL00750,2023-04-26,Valle del Cauca,Cali,22,M,6,Bachiller,Empleado,,Campaña digital,674.0,True,1,Android,hash_555618
+CL00751,2024-04-07,Antioquia,Medellín,27,M,3,Universitario,Microempresario,3790000.0,App orgánico,588.0,True,1,Android,hash_306604
+CL00752,2025-05-23,Valle del Cauca,Cali,22,F,1,Bachiller,Independiente,2320000.0,Aliado comercial,550.0,False,2,iOS,hash_216905
+CL00753,2025-12-04,Antioquia,Medellín,26,M,3,Universitario,Empleado,1680000.0,Campaña digital,550.0,False,1,Android,hash_492963
+CL00754,2024-06-02,Cundinamarca,Soacha,47,F,3,Sin información,Independiente,,Campaña digital,629.0,True,0,Android,hash_317544
+CL00755,2023-01-20,Bolívar,Cartagena,27,F,3,Universitario,Comerciante,2370000.0,App orgánico,656.0,True,0,Android,hash_796403
+CL00756,2024-12-12,Valle del Cauca,Cali,62,M,2,Técnico/Tecnólogo,Conductor/Repartidor,2660000.0,Campaña digital,619.0,False,4,Android,hash_753310
+CL00757,2024-09-16,Santander,Bucaramanga,41,F,2,Bachiller,Empleado,2960000.0,Referido,663.0,True,0,iOS,hash_239244
+CL00758,2024-01-16,Valle del Cauca,Cali,38,M,2,Sin información,Empleado,3390000.0,App orgánico,633.0,False,0,Android,hash_793278
+CL00759,2024-08-15,Bogotá D.C.,Bogotá,27,M,3,Bachiller,Empleado,2990000.0,Aliado comercial,575.0,True,0,Android,hash_845870
+CL00760,2025-10-03,Antioquia,Medellín,43,F,3,Universitario,Empleado,3390000.0,App orgánico,675.0,False,1,Android,hash_456936
+CL00761,2024-08-11,Bogotá D.C.,Bogotá,30,F,2,Universitario,Empleado,3820000.0,Campaña digital,562.0,True,3,Android,hash_700807
+CL00762,2025-06-28,Bogotá D.C.,Bogotá,37,M,2,Bachiller,Comerciante,3630000.0,App orgánico,532.0,True,2,iOS,hash_449529
+CL00763,2024-03-02,Cundinamarca,Soacha,62,F,2,Técnico/Tecnólogo,Comerciante,4590000.0,App orgánico,688.0,False,1,Android,hash_753416
+CL00764,2025-05-31,Bogotá D.C.,Bogotá,35,F,2,Bachiller,Independiente,2840000.0,Campaña digital,587.0,False,1,Android,hash_901555
+CL00765,2024-05-08,Bogotá D.C.,Bogotá,47,M,2,Universitario,Conductor/Repartidor,1780000.0,Campaña digital,525.0,False,2,Android,hash_638908
+CL00766,2023-10-23,Bogotá D.C.,Bogotá,29,F,2,Bachiller,Empleado,1760000.0,Call center,644.0,True,0,Android,hash_847590
+CL00767,2024-11-13,Atlántico,Barranquilla,36,F,4,Sin información,Comerciante,2260000.0,Aliado comercial,566.0,False,2,iOS,hash_906675
+CL00768,2023-10-17,Bogotá D.C.,Bogotá,54,F,2,Técnico/Tecnólogo,Empleado,3990000.0,App orgánico,721.0,True,2,Web,hash_402944
+CL00769,2024-08-10,Bogotá D.C.,Bogotá,30,M,2,Bachiller,Conductor/Repartidor,1170000.0,Aliado comercial,401.0,False,0,Android,hash_569045
+CL00770,2024-02-20,Valle del Cauca,Cali,54,F,3,Bachiller,Conductor/Repartidor,2130000.0,Aliado comercial,525.0,False,1,Android,hash_613909
+CL00771,2023-06-07,Atlántico,Barranquilla,43,F,2,Sin información,Empleado,2000000.0,App orgánico,550.0,False,1,Android,hash_441147
+CL00772,2023-11-30,Tolima,Ibagué,30,M,2,Sin información,Independiente,2780000.0,Aliado comercial,543.0,False,4,Android,hash_797105
+CL00773,2025-10-06,Valle del Cauca,Cali,42,F,4,Bachiller,Independiente,2180000.0,Aliado comercial,625.0,False,1,Android,hash_176693
+CL00774,2025-12-21,Tolima,Ibagué,46,M,4,Universitario,Desempleado,1530000.0,Aliado comercial,519.0,False,0,Web,hash_948158
+CL00775,2025-10-15,Valle del Cauca,Cali,42,M,3,Universitario,Estudiante,830000.0,Call center,450.0,True,0,Android,hash_540769
+CL00776,2024-01-10,Meta,Villavicencio,20,F,3,Técnico/Tecnólogo,Microempresario,2330000.0,Referido,566.0,False,1,Android,hash_770740
+CL00777,2024-05-29,Norte de Santander,Cúcuta,29,M,1,Posgrado,Empleado,3760000.0,Campaña digital,694.0,False,4,Android,hash_866781
+CL00778,2024-09-06,Bogotá D.C.,Bogotá,34,M,2,Sin información,Microempresario,3980000.0,App orgánico,627.0,False,1,Android,hash_343758
+CL00779,2025-07-27,Atlántico,Barranquilla,35,F,3,Bachiller,Microempresario,3810000.0,Referido,712.0,False,0,Android,hash_518277
+CL00780,2025-12-01,Antioquia,Medellín,42,M,1,Bachiller,Comerciante,1570000.0,Aliado comercial,580.0,True,1,iOS,hash_620724
+CL00781,2024-12-10,Antioquia,Medellín,38,F,1,Sin información,Independiente,-1.0,App orgánico,507.0,True,2,Android,hash_680609
+CL00782,2023-09-01,Bogotá D.C.,Bogotá,23,M,3,Universitario,Independiente,,Referido,568.0,False,2,Android,hash_119192
+CL00783,2025-03-14,Bogotá D.C.,Bogotá,40,F,5,Bachiller,Empleado,6040000.0,Aliado comercial,748.0,False,0,Android,hash_994387
+CL00784,2025-09-06,Tolima,Ibagué,42,M,1,Bachiller,Empleado,2250000.0,Call center,579.0,False,0,Android,hash_407311
+CL00785,2024-06-21,Cundinamarca,Soacha,42,M,6,Bachiller,Comerciante,3070000.0,Call center,709.0,False,3,Android,hash_866355
+CL00786,2024-04-10,Caldas,Manizales,47,F,4,Bachiller,Comerciante,3460000.0,App orgánico,674.0,True,0,Android,hash_968480
+CL00787,2025-08-28,Valle del Cauca,Cali,44,M,2,Universitario,Empleado,3670000.0,Referido,587.0,False,4,iOS,hash_833771
+CL00788,2023-03-08,Santander,Bucaramanga,41,M,3,Técnico/Tecnólogo,Empleado,3160000.0,Referido,649.0,True,1,iOS,hash_895707
+CL00789,2024-03-28,Bogotá D.C.,Bogotá,35,M,2,Técnico/Tecnólogo,Microempresario,2480000.0,Campaña digital,627.0,False,1,iOS,hash_635452
+CL00790,2024-02-05,Bogotá D.C.,Bogotá,19,F,4,Posgrado,Independiente,4000000.0,Aliado comercial,564.0,True,2,Android,hash_711889
+CL00791,2025-06-30,Meta,Villavicencio,40,M,2,Universitario,Conductor/Repartidor,1640000.0,App orgánico,450.0,False,0,Web,hash_474684
+CL00792,2024-07-26,Valle del Cauca,Cali,38,M,2,Posgrado,Empleado,3360000.0,App orgánico,574.0,False,3,Android,hash_833709
+CL00793,2024-05-19,Valle del Cauca,Cali,39,M,3,Universitario,Empleado,4010000.0,Call center,794.0,True,2,iOS,hash_526542
+CL00794,2024-03-29,Bogotá D.C.,Bogotá,23,M,2,Técnico/Tecnólogo,Empleado,5000000.0,Campaña digital,670.0,True,0,iOS,hash_858339
+CL00795,2024-08-29,Tolima,Ibagué,25,M,4,Técnico/Tecnólogo,Empleado,2720000.0,Campaña digital,521.0,True,1,Android,hash_141559
+CL00796,2025-06-01,Bogotá D.C.,Bogotá,47,M,1,Bachiller,Empleado,,Campaña digital,507.0,False,0,iOS,hash_265426
+CL00797,2023-03-21,Bogotá D.C.,Bogotá,36,M,1,Universitario,Empleado,1470000.0,Aliado comercial,504.0,False,2,Android,hash_298453
+CL00798,2024-08-05,Bolívar,Cartagena,43,M,2,Posgrado,Independiente,1590000.0,Call center,548.0,False,0,Android,hash_344955
+CL00799,2024-03-08,Meta,Villavicencio,36,M,4,Bachiller,Pensionado,1990000.0,Referido,577.0,False,0,iOS,hash_926064
+CL00800,2023-09-03,Bogotá D.C.,Bogotá,36,M,3,Bachiller,Independiente,2560000.0,Campaña digital,661.0,False,0,Android,hash_893480
+CL00801,2023-05-18,Bogotá D.C.,Bogotá,45,M,1,Universitario,Pensionado,800000.0,Campaña digital,489.0,True,0,iOS,hash_186728
+CL00802,2023-11-03,Antioquia,Medellín,31,M,2,Bachiller,Empleado,2200000.0,Campaña digital,578.0,False,0,Android,hash_118225
+CL00803,2025-06-04,Bolívar,Cartagena,17,F,3,Bachiller,Pensionado,1220000.0,Campaña digital,452.0,False,2,Android,hash_171519
+CL00804,2025-03-20,Antioquia,Medellín,31,M,4,Universitario,Microempresario,4020000.0,Campaña digital,,False,0,iOS,hash_299307
+CL00805,2024-06-14,Caldas,Manizales,32,M,3,Bachiller,Independiente,3760000.0,Aliado comercial,607.0,True,1,Android,hash_211315
+CL00806,2024-02-16,Bogotá D.C.,Bogotá,33,F,5,Técnico/Tecnólogo,Independiente,2990000.0,App orgánico,687.0,False,0,Android,hash_992284
+CL00807,2024-06-02,Tolima,Ibagué,38,M,4,Bachiller,Empleado,4540000.0,App orgánico,588.0,False,0,Android,hash_163805
+CL00808,2023-08-07,Valle del Cauca,Cali,31,F,3,Técnico/Tecnólogo,Empleado,3740000.0,Campaña digital,567.0,False,0,Android,hash_590492
+CL00809,2023-09-02,Antioquia,Medellín,49,M,3,Bachiller,Empleado,4080000.0,Referido,605.0,False,3,Android,hash_836332
+CL00810,2025-06-05,Cundinamarca,Soacha,27,F,2,Universitario,Empleado,3890000.0,Call center,584.0,False,1,Android,hash_907984
+CL00811,2025-03-19,Antioquia,Medellín,34,F,4,Bachiller,Independiente,3580000.0,Campaña digital,616.0,True,2,Android,hash_504593
+CL00812,2025-02-22,Bogotá D.C.,Bogotá,82,M,2,Universitario,Independiente,1300000.0,App orgánico,555.0,False,1,Android,hash_989192
+CL00813,2025-11-18,Atlántico,Barranquilla,50,M,3,Universitario,Independiente,3990000.0,App orgánico,698.0,False,1,iOS,hash_557199
+CL00814,2024-12-24,Santander,Bucaramanga,38,M,3,Técnico/Tecnólogo,Comerciante,1890000.0,App orgánico,476.0,True,4,Android,hash_837667
+CL00815,2023-02-24,Santander,Bucaramanga,46,F,3,Posgrado,Independiente,3660000.0,App orgánico,685.0,True,0,Android,hash_386981
+CL00816,2024-09-07,Bogotá D.C.,Bogotá,21,M,3,Bachiller,Conductor/Repartidor,2130000.0,Aliado comercial,616.0,False,3,iOS,hash_355628
+CL00817,2023-05-22,Bogotá D.C.,Bogotá,17,F,3,Técnico/Tecnólogo,Empleado,1930000.0,Referido,559.0,False,1,iOS,hash_922685
+CL00818,2023-06-08,Risaralda,Pereira,45,F,3,Posgrado,Independiente,2120000.0,Referido,522.0,False,3,Android,hash_470719
+CL00819,2024-03-20,Bogotá D.C.,Bogotá,37,M,3,Bachiller,Empleado,2530000.0,Campaña digital,609.0,True,0,iOS,hash_589620
+CL00820,2025-07-31,Santander,Bucaramanga,47,F,3,Sin información,Comerciante,2470000.0,Referido,639.0,False,1,Android,hash_459579
+CL00821,2024-03-08,Santander,Bucaramanga,31,F,4,Bachiller,Independiente,2200000.0,App orgánico,598.0,False,3,Android,hash_905809
+CL00822,2023-07-25,Bogotá D.C.,Bogotá,50,M,3,Bachiller,Independiente,,Campaña digital,625.0,True,0,Android,hash_328252
+CL00823,2025-12-16,Santander,Bucaramanga,59,M,3,Universitario,Pensionado,1520000.0,Campaña digital,562.0,True,1,Android,hash_563378
+CL00824,2024-11-24,Meta,Villavicencio,32,M,1,Posgrado,Desempleado,600000.0,App orgánico,469.0,False,0,iOS,hash_326392
+CL00825,2024-09-02,Antioquia,Medellín,32,F,3,Posgrado,Empleado,2470000.0,App orgánico,514.0,False,0,Android,hash_238148
+CL00826,2025-10-31,Bogotá D.C.,Bogotá,51,M,4,Posgrado,Pensionado,1880000.0,App orgánico,594.0,True,1,Android,hash_797499
+CL00827,2024-10-12,Valle del Cauca,Cali,52,F,2,Bachiller,Empleado,4080000.0,Call center,777.0,False,2,Android,hash_904402
+CL00828,2023-12-19,Valle del Cauca,Cali,31,F,4,Universitario,Independiente,2710000.0,Aliado comercial,494.0,False,2,Web,hash_306337
+CL00829,2023-11-15,Bogotá D.C.,Bogotá,32,F,2,Bachiller,Pensionado,1610000.0,App orgánico,451.0,False,2,Android,hash_316585
+CL00830,2024-02-18,Tolima,Ibagué,33,M,2,Posgrado,Empleado,1920000.0,Campaña digital,376.0,True,0,iOS,hash_793431
+CL00831,2023-04-27,Norte de Santander,Cúcuta,23,F,1,Bachiller,Empleado,4070000.0,App orgánico,586.0,False,0,iOS,hash_544629
+CL00832,2023-06-23,Norte de Santander,Cúcuta,27,F,3,Técnico/Tecnólogo,Microempresario,3020000.0,App orgánico,605.0,False,3,Android,hash_800924
+CL00833,2023-09-27,Bolívar,Cartagena,26,F,3,Técnico/Tecnólogo,Independiente,2660000.0,Referido,683.0,True,1,Android,hash_616656
+CL00834,2025-12-23,Santander,Bucaramanga,28,M,2,Técnico/Tecnólogo,Independiente,2500000.0,Referido,559.0,False,0,Android,hash_224109
+CL00835,2024-08-19,Bogotá D.C.,Bogotá,36,M,3,Sin información,Independiente,2370000.0,Aliado comercial,576.0,False,2,Android,hash_649721
+CL00836,2025-04-01,Antioquia,Medellín,38,M,3,Universitario,Estudiante,1390000.0,App orgánico,510.0,False,4,Android,hash_799545
+CL00837,2025-01-04,Cundinamarca,Soacha,52,F,2,Bachiller,Independiente,2190000.0,App orgánico,589.0,False,2,iOS,hash_688330
+CL00838,2024-03-22,Atlántico,Barranquilla,26,F,2,Bachiller,Conductor/Repartidor,2550000.0,App orgánico,517.0,False,2,Android,hash_946801
+CL00839,2024-01-27,Bogotá D.C.,Bogotá,46,M,4,Sin información,Empleado,2390000.0,Aliado comercial,610.0,True,0,Android,hash_174300
+CL00840,2025-07-02,Valle del Cauca,Cali,34,M,2,Bachiller,Empleado,2500000.0,Aliado comercial,517.0,True,0,Android,hash_728422
+CL00841,2025-10-06,Bogotá D.C.,Bogotá,36,F,6,Bachiller,Empleado,6720000.0,App orgánico,841.0,True,0,Android,hash_239648
+CL00842,2024-08-21,Bogotá D.C.,Bogotá,43,M,4,Técnico/Tecnólogo,Independiente,,App orgánico,565.0,False,1,Android,hash_878985
+CL00843,2024-11-12,Bogotá D.C.,Bogotá,25,F,2,Sin información,Empleado,2080000.0,App orgánico,528.0,True,0,iOS,hash_599302
+CL00844,2023-12-05,Bogotá D.C.,Bogotá,40,M,1,Sin información,Conductor/Repartidor,2240000.0,Call center,574.0,True,2,Android,hash_351131
+CL00845,2025-09-17,Atlántico,Barranquilla,38,F,4,Posgrado,Estudiante,1370000.0,Referido,565.0,False,1,Android,hash_304463
+CL00846,2025-04-12,Bogotá D.C.,Bogotá,41,F,2,Bachiller,Empleado,1590000.0,Call center,588.0,False,1,Android,hash_525615
+CL00847,2024-12-05,Antioquia,Medellín,39,F,2,Técnico/Tecnólogo,Comerciante,,App orgánico,553.0,False,4,Android,hash_301513
+CL00848,2023-01-22,Bogotá D.C.,Bogotá,61,F,4,Universitario,Empleado,,Referido,681.0,False,0,Android,hash_802166
+CL00849,2025-08-06,Bogotá D.C.,Bogotá,30,M,3,Técnico/Tecnólogo,Independiente,2180000.0,Referido,537.0,False,0,Android,hash_260887
+CL00850,2025-10-09,Bogotá D.C.,Bogotá,31,F,3,Universitario,Empleado,3030000.0,Aliado comercial,590.0,False,0,Android,hash_208345
+CL00851,2023-03-26,Bogotá D.C.,Bogotá,30,F,2,Sin información,Empleado,2730000.0,Campaña digital,513.0,True,0,Android,hash_232316
+CL00852,2025-06-20,Cundinamarca,Soacha,30,F,5,Bachiller,Empleado,7650000.0,Referido,821.0,True,0,Android,hash_814967
+CL00853,2025-07-15,Cundinamarca,Soacha,30,M,2,Bachiller,Independiente,1890000.0,App orgánico,567.0,True,1,iOS,hash_892976
+CL00854,2024-04-11,Bolívar,Cartagena,48,F,3,Sin información,Pensionado,1770000.0,Campaña digital,561.0,True,2,Android,hash_859510
+CL00855,2025-05-31,Norte de Santander,Cúcuta,50,M,6,Bachiller,Empleado,,Aliado comercial,715.0,False,0,Web,hash_892332
+CL00856,2025-01-14,Santander,Bucaramanga,30,M,1,Sin información,Conductor/Repartidor,1590000.0,Campaña digital,493.0,False,2,Web,hash_887069
+CL00857,2025-12-19,Bogotá D.C.,Bogotá,28,M,3,Sin información,Independiente,1610000.0,Campaña digital,496.0,False,0,Android,hash_228773
+CL00858,2023-06-02,Risaralda,Pereira,41,M,2,Universitario,Independiente,3760000.0,Referido,635.0,False,0,iOS,hash_888297
+CL00859,2024-12-26,Antioquia,Medellín,30,F,4,Bachiller,Empleado,6890000.0,App orgánico,778.0,True,1,Android,hash_782083
+CL00860,2025-05-02,Bogotá D.C.,Bogotá,42,M,1,Bachiller,Empleado,1370000.0,App orgánico,549.0,False,1,iOS,hash_147565
+CL00861,2023-12-18,Bogotá D.C.,Bogotá,38,M,3,Bachiller,Pensionado,2270000.0,App orgánico,,False,0,Web,hash_495037
+CL00862,2024-06-27,Santander,Bucaramanga,21,M,2,Bachiller,Comerciante,3560000.0,Referido,705.0,False,1,Android,hash_637426
+CL00863,2023-10-17,Norte de Santander,Cúcuta,51,F,3,Bachiller,Empleado,2410000.0,Referido,674.0,False,1,iOS,hash_591592
+CL00864,2025-12-19,Bogotá D.C.,Bogotá,54,F,1,Bachiller,Empleado,3900000.0,Campaña digital,583.0,False,2,Android,hash_549158
+CL00865,2024-09-10,Risaralda,Pereira,30,M,3,Técnico/Tecnólogo,Desempleado,1390000.0,Aliado comercial,495.0,True,1,Android,hash_730734
+CL00866,2024-04-03,Tolima,Ibagué,32,M,3,Bachiller,Empleado,,Aliado comercial,594.0,False,0,Android,hash_534171
+CL00867,2025-10-10,Bolívar,Cartagena,39,M,1,Universitario,Comerciante,2260000.0,Campaña digital,622.0,False,4,Android,hash_156795
+CL00868,2024-12-27,Antioquia,Medellín,39,F,4,Bachiller,Empleado,3080000.0,Campaña digital,587.0,True,0,Android,hash_738100
+CL00869,2025-07-16,Bogotá D.C.,Bogotá,43,F,2,Bachiller,Independiente,1470000.0,App orgánico,473.0,True,1,Android,hash_459523
+CL00870,2023-08-05,Santander,Bucaramanga,56,M,3,Técnico/Tecnólogo,Conductor/Repartidor,2570000.0,App orgánico,547.0,True,2,Android,hash_501365
+CL00871,2023-05-19,Antioquia,Medellín,34,M,3,Bachiller,Empleado,1610000.0,Campaña digital,611.0,False,1,Android,hash_106798
+CL00872,2023-01-20,Bogotá D.C.,Bogotá,28,M,3,Técnico/Tecnólogo,Empleado,2890000.0,Aliado comercial,651.0,False,2,Android,hash_995600
+CL00873,2024-11-12,Bogotá D.C.,Bogotá,22,M,3,Bachiller,Empleado,3140000.0,Referido,551.0,True,0,iOS,hash_767550
+CL00874,2024-11-07,Santander,Bucaramanga,29,F,5,Sin información,Microempresario,4090000.0,Campaña digital,716.0,False,1,Android,hash_805126
+CL00875,2024-06-29,Antioquia,Medellín,36,F,5,Técnico/Tecnólogo,Independiente,4470000.0,Referido,609.0,False,0,Android,hash_782851
+CL00876,2025-04-18,Risaralda,Pereira,54,M,3,Universitario,Conductor/Repartidor,3260000.0,Campaña digital,605.0,False,3,Web,hash_634328
+CL00877,2026-01-18,Bogotá D.C.,Bogotá,31,F,1,Bachiller,Pensionado,1060000.0,Campaña digital,498.0,False,4,Android,hash_609090
+CL00878,2023-07-18,Santander,Bucaramanga,38,F,3,Bachiller,Estudiante,1790000.0,Campaña digital,594.0,True,3,Web,hash_371698
+CL00879,2024-04-06,Atlántico,Barranquilla,36,M,4,Posgrado,Empleado,3480000.0,App orgánico,704.0,True,1,Android,hash_510685
+CL00880,2024-02-05,Antioquia,Medellín,48,M,1,Sin información,Desempleado,550000.0,App orgánico,537.0,False,0,Android,hash_861319
+CL00881,2026-01-14,Cundinamarca,Soacha,61,F,4,Posgrado,Independiente,2150000.0,Referido,676.0,False,1,Android,hash_204448
+CL00882,2023-05-20,Bogotá D.C.,Bogotá,31,M,2,Universitario,Empleado,4470000.0,Campaña digital,633.0,False,1,Android,hash_648349
+CL00883,2023-07-26,Antioquia,Medellín,31,F,3,Bachiller,Desempleado,630000.0,Campaña digital,408.0,False,2,Android,hash_132882
+CL00884,2023-05-29,Santander,Bucaramanga,46,M,2,Posgrado,Empleado,5710000.0,Campaña digital,685.0,False,1,Android,hash_508039
+CL00885,2025-09-17,Bogotá D.C.,Bogotá,43,F,5,Posgrado,Conductor/Repartidor,4460000.0,Referido,640.0,False,1,Android,hash_534166
+CL00886,2025-09-27,Antioquia,Medellín,54,F,4,Técnico/Tecnólogo,Estudiante,1280000.0,Referido,642.0,True,0,Web,hash_778627
+CL00887,2026-01-03,Bogotá D.C.,Bogotá,42,F,2,Bachiller,Empleado,2280000.0,Referido,520.0,True,1,Web,hash_561003
+CL00888,2023-10-22,Norte de Santander,Cúcuta,32,F,5,Bachiller,Microempresario,5770000.0,Campaña digital,797.0,False,1,Web,hash_195140
+CL00889,2023-07-20,Santander,Bucaramanga,42,M,3,Bachiller,Conductor/Repartidor,2700000.0,Campaña digital,620.0,False,0,Android,hash_957263
+CL00890,2024-07-10,Cundinamarca,Soacha,47,F,3,Universitario,Microempresario,2200000.0,Campaña digital,,False,3,Android,hash_954127
+CL00891,2023-04-23,Bogotá D.C.,Bogotá,44,M,2,Bachiller,Comerciante,2680000.0,App orgánico,637.0,False,2,Android,hash_689759
+CL00892,2025-03-26,Bolívar,Cartagena,41,M,3,Sin información,Empleado,,App orgánico,601.0,False,1,Android,hash_513869
+CL00893,2025-06-19,Atlántico,Barranquilla,47,F,1,Sin información,Empleado,2080000.0,Aliado comercial,,True,3,iOS,hash_240017
+CL00894,2024-11-12,Bogotá D.C.,Bogotá,48,F,2,Bachiller,Independiente,3380000.0,Aliado comercial,595.0,False,1,iOS,hash_279431
+CL00895,2025-12-25,Caldas,Manizales,50,M,1,Técnico/Tecnólogo,Empleado,5000000.0,Referido,673.0,True,0,iOS,hash_146972
+CL00896,2025-08-17,Caldas,Manizales,42,M,1,Universitario,Empleado,2560000.0,App orgánico,591.0,False,4,Android,hash_920677
+CL00897,2024-02-21,Valle del Cauca,Cali,34,F,1,Bachiller,Conductor/Repartidor,1460000.0,Campaña digital,495.0,True,1,Android,hash_943882
+CL00898,2025-07-17,Tolima,Ibagué,37,M,1,Bachiller,Conductor/Repartidor,1300000.0,App orgánico,446.0,False,1,iOS,hash_315523
+CL00899,2026-01-13,Antioquia,Medellín,48,M,4,Sin información,Independiente,2420000.0,App orgánico,,False,0,iOS,hash_614021
+CL00900,2024-05-03,Bogotá D.C.,Bogotá,28,F,2,Universitario,Empleado,2690000.0,Referido,,False,1,Android,hash_448787
+CL00901,2023-08-02,Antioquia,Medellín,40,F,4,Universitario,Empleado,5710000.0,Aliado comercial,582.0,False,1,Android,hash_604703
+CL00902,2024-04-15,Cundinamarca,Soacha,32,F,2,Técnico/Tecnólogo,Empleado,1760000.0,Campaña digital,568.0,False,0,Android,hash_488831
+CL00903,2023-08-19,Bogotá D.C.,Bogotá,36,M,4,Bachiller,Conductor/Repartidor,2140000.0,Referido,475.0,False,3,iOS,hash_564825
+CL00904,2023-08-27,Cundinamarca,Soacha,49,M,1,Posgrado,Independiente,1550000.0,Campaña digital,621.0,False,1,Android,hash_652766
+CL00905,2025-09-04,Valle del Cauca,Cali,38,M,2,Sin información,Empleado,2200000.0,Aliado comercial,571.0,True,1,iOS,hash_887600
+CL00906,2024-05-20,Bogotá D.C.,Bogotá,36,M,6,Bachiller,Conductor/Repartidor,3540000.0,App orgánico,712.0,False,0,Android,hash_446336
+CL00907,2024-07-10,Bogotá D.C.,Bogotá,22,F,2,Sin información,Empleado,3280000.0,Campaña digital,603.0,False,0,Android,hash_203691
+CL00908,2024-10-14,Santander,Bucaramanga,43,M,4,Posgrado,Independiente,2290000.0,Referido,534.0,False,3,Android,hash_148544
+CL00909,2023-11-07,Bogotá D.C.,Bogotá,42,M,1,Bachiller,Microempresario,1650000.0,Campaña digital,603.0,False,0,Android,hash_318865
+CL00910,2025-07-05,Antioquia,Medellín,58,M,4,Técnico/Tecnólogo,Empleado,4900000.0,Campaña digital,719.0,False,0,Web,hash_769384
+CL00911,2025-03-08,Antioquia,Medellín,33,F,3,Sin información,Conductor/Repartidor,2730000.0,Aliado comercial,605.0,False,1,Android,hash_702565
+CL00912,2025-05-14,Antioquia,Medellín,38,F,2,Universitario,Empleado,3010000.0,App orgánico,586.0,True,0,iOS,hash_515651
+CL00913,2025-09-01,Bogotá D.C.,Bogotá,38,M,1,Técnico/Tecnólogo,Independiente,1220000.0,App orgánico,572.0,False,2,Web,hash_469517
+CL00914,2025-01-30,Bogotá D.C.,Bogotá,52,F,3,Bachiller,Microempresario,,Campaña digital,589.0,False,0,Android,hash_874245
+CL00915,2025-03-27,Antioquia,Medellín,35,F,2,Técnico/Tecnólogo,Comerciante,2020000.0,App orgánico,470.0,False,0,Android,hash_184269
+CL00916,2023-02-14,Antioquia,Medellín,39,F,5,Técnico/Tecnólogo,Empleado,3440000.0,Campaña digital,742.0,True,2,Android,hash_594614
+CL00917,2025-09-07,Tolima,Ibagué,42,M,5,Bachiller,Pensionado,3280000.0,App orgánico,768.0,False,1,Android,hash_951081
+CL00918,2023-11-05,Antioquia,Medellín,38,M,3,Técnico/Tecnólogo,Empleado,6740000.0,Campaña digital,642.0,False,0,Android,hash_934175
+CL00919,2024-11-06,Valle del Cauca,Cali,32,F,3,Técnico/Tecnólogo,Comerciante,,Referido,573.0,False,1,Android,hash_978174
+CL00920,2023-11-17,Bogotá D.C.,Bogotá,38,M,4,Universitario,Empleado,3490000.0,App orgánico,712.0,True,1,iOS,hash_455281
+CL00921,2023-09-20,Meta,Villavicencio,47,M,2,Técnico/Tecnólogo,Comerciante,2240000.0,Campaña digital,526.0,False,1,iOS,hash_473555
+CL00922,2024-08-04,Santander,Bucaramanga,26,M,4,Bachiller,Empleado,2640000.0,App orgánico,569.0,False,2,Android,hash_354935
+CL00923,2023-05-18,Valle del Cauca,Cali,37,F,4,Sin información,Empleado,3470000.0,Referido,557.0,False,0,iOS,hash_411295
+CL00924,2023-01-31,Valle del Cauca,Cali,29,F,1,Técnico/Tecnólogo,Empleado,1540000.0,Campaña digital,464.0,False,2,Android,hash_309409
+CL00925,2025-02-04,Santander,Bucaramanga,48,M,2,Bachiller,Empleado,2810000.0,Referido,713.0,True,1,Android,hash_357391
+CL00926,2025-03-24,Antioquia,Medellín,21,F,4,Universitario,Conductor/Repartidor,1820000.0,Campaña digital,483.0,False,3,Android,hash_155812
+CL00927,2025-04-18,Valle del Cauca,Cali,30,F,3,Bachiller,Conductor/Repartidor,1940000.0,App orgánico,565.0,True,3,iOS,hash_888637
+CL00928,2023-04-08,Bogotá D.C.,Bogotá,40,M,2,Bachiller,Independiente,1160000.0,Aliado comercial,459.0,False,0,iOS,hash_823040
+CL00929,2025-06-15,Cundinamarca,Soacha,52,M,3,Bachiller,Empleado,1340000.0,App orgánico,531.0,False,1,Android,hash_389707
+CL00930,2025-01-28,Risaralda,Pereira,35,F,1,Bachiller,Empleado,1470000.0,Referido,532.0,True,2,Android,hash_881345
+CL00931,2025-02-28,Valle del Cauca,Cali,30,M,1,Técnico/Tecnólogo,Independiente,1760000.0,Aliado comercial,505.0,True,2,Android,hash_640856
+CL00932,2025-04-19,Valle del Cauca,Cali,55,F,4,Bachiller,Conductor/Repartidor,2690000.0,App orgánico,655.0,True,1,Android,hash_368217
+CL00933,2024-03-24,Atlántico,Barranquilla,22,F,1,Bachiller,Empleado,1960000.0,Call center,575.0,False,2,iOS,hash_318400
+CL00934,2023-01-25,Bogotá D.C.,Bogotá,19,M,3,Técnico/Tecnólogo,Independiente,3160000.0,Campaña digital,482.0,False,3,iOS,hash_764573
+CL00935,2025-08-05,Santander,Bucaramanga,40,F,3,Técnico/Tecnólogo,Empleado,3930000.0,Aliado comercial,644.0,False,3,Android,hash_820614
+CL00936,2023-07-27,Valle del Cauca,Cali,31,M,2,Técnico/Tecnólogo,Empleado,2770000.0,App orgánico,548.0,False,1,Android,hash_387901
+CL00937,2025-11-10,Antioquia,Medellín,26,M,3,Sin información,Conductor/Repartidor,2880000.0,Campaña digital,585.0,True,1,iOS,hash_119674
+CL00938,2025-04-18,Atlántico,Barranquilla,43,M,4,Técnico/Tecnólogo,Empleado,2450000.0,App orgánico,608.0,True,0,Android,hash_923509
+CL00939,2023-03-10,Valle del Cauca,Cali,38,M,1,Universitario,Empleado,3320000.0,App orgánico,587.0,False,0,iOS,hash_473345
+CL00940,2023-11-13,Risaralda,Pereira,30,F,4,Sin información,Empleado,5150000.0,Referido,620.0,False,2,Android,hash_443264
+CL00941,2023-12-13,Cundinamarca,Soacha,23,F,3,Universitario,Independiente,2340000.0,App orgánico,615.0,True,2,Android,hash_117985
+CL00942,2025-03-20,Antioquia,Medellín,45,M,3,Técnico/Tecnólogo,Empleado,3540000.0,Campaña digital,673.0,True,2,Android,hash_737696
+CL00943,2023-09-18,Bogotá D.C.,Bogotá,43,M,2,Bachiller,Empleado,1710000.0,Campaña digital,584.0,True,3,Web,hash_792822
+CL00944,2023-02-28,Bogotá D.C.,Bogotá,35,F,2,Bachiller,Conductor/Repartidor,1530000.0,Referido,449.0,False,1,Android,hash_170511
+CL00945,2026-01-03,Tolima,Ibagué,54,F,3,Universitario,Empleado,2990000.0,Referido,588.0,False,1,Android,hash_174783
+CL00946,2024-10-28,Meta,Villavicencio,25,F,4,Técnico/Tecnólogo,Microempresario,2780000.0,Campaña digital,586.0,False,0,Android,hash_928267
+CL00947,2023-08-20,Bogotá D.C.,Bogotá,21,F,4,Bachiller,Empleado,4610000.0,Referido,675.0,True,1,Android,hash_832382
+CL00948,2023-09-09,Bogotá D.C.,Bogotá,29,No informa,3,Sin información,Comerciante,2530000.0,App orgánico,625.0,False,0,Android,hash_159615
+CL00949,2026-01-09,Antioquia,Medellín,36,M,4,Sin información,Pensionado,1720000.0,App orgánico,619.0,False,3,Web,hash_236537
+CL00950,2023-02-09,Bolívar,Cartagena,38,F,3,Técnico/Tecnólogo,Independiente,1540000.0,Campaña digital,452.0,False,1,Android,hash_226892
+CL00951,2024-09-29,Bolívar,Cartagena,34,F,4,Universitario,Empleado,2060000.0,Referido,531.0,False,2,Android,hash_829988
+CL00952,2023-06-12,Valle del Cauca,Cali,40,F,1,Universitario,Empleado,2720000.0,Referido,542.0,False,0,Android,hash_741406
+CL00953,2024-01-24,Bogotá D.C.,Bogotá,23,M,2,Bachiller,Comerciante,2980000.0,Campaña digital,593.0,False,1,Android,hash_447806
+CL00954,2023-04-03,Bogotá D.C.,Bogotá,50,F,3,Posgrado,Empleado,2200000.0,App orgánico,619.0,False,0,Android,hash_497534
+CL00955,2025-01-11,Bogotá D.C.,Bogotá,35,F,4,Universitario,Independiente,4150000.0,Aliado comercial,632.0,False,0,Android,hash_368329
+CL00956,2024-08-12,Caldas,Manizales,47,F,6,Bachiller,Microempresario,4820000.0,Aliado comercial,799.0,True,2,Android,hash_477186
+CL00957,2024-11-13,Valle del Cauca,Cali,39,M,4,Universitario,Empleado,4490000.0,Campaña digital,698.0,False,1,Android,hash_814814
+CL00958,2024-11-21,Antioquia,Medellín,41,F,1,Sin información,Empleado,3010000.0,Aliado comercial,,True,2,Android,hash_830161
+CL00959,2025-07-19,Santander,Bucaramanga,42,F,5,Universitario,Empleado,3890000.0,Referido,735.0,False,4,Android,hash_209844
+CL00960,2023-11-16,Cundinamarca,Soacha,40,F,3,Sin información,Conductor/Repartidor,3360000.0,Referido,552.0,False,0,Android,hash_926152
+CL00961,2025-12-04,Antioquia,Medellín,42,F,1,Técnico/Tecnólogo,Comerciante,2640000.0,Campaña digital,575.0,True,1,Android,hash_806691
+CL00962,2025-12-16,Cundinamarca,Soacha,49,F,2,Bachiller,Empleado,3220000.0,Aliado comercial,708.0,False,0,Android,hash_742699
+CL00963,2023-10-03,Caldas,Manizales,38,F,1,Técnico/Tecnólogo,Independiente,1910000.0,Aliado comercial,571.0,True,1,Android,hash_422742
+CL00964,2025-12-10,Santander,Bucaramanga,43,F,2,Universitario,Independiente,1930000.0,App orgánico,625.0,False,2,iOS,hash_841277
+CL00965,2023-11-09,Risaralda,Pereira,35,F,5,Bachiller,Comerciante,,Aliado comercial,557.0,True,3,Android,hash_611213
+CL00966,2025-09-26,Risaralda,Pereira,50,F,3,Universitario,Empleado,,Aliado comercial,671.0,False,2,Android,hash_180800
+CL00967,2025-01-05,Antioquia,Medellín,29,F,4,Técnico/Tecnólogo,Empleado,3810000.0,Aliado comercial,673.0,True,2,Android,hash_177585
+CL00968,2025-08-19,Tolima,Ibagué,54,M,2,Bachiller,Independiente,2290000.0,Aliado comercial,672.0,True,3,Android,hash_124718
+CL00969,2023-03-13,Antioquia,Medellín,36,M,2,Bachiller,Empleado,,App orgánico,686.0,False,0,Android,hash_184079
+CL00970,2025-06-09,Antioquia,Medellín,22,F,2,Bachiller,Conductor/Repartidor,2220000.0,Campaña digital,508.0,False,1,Android,hash_833413
+CL00971,2024-07-10,Atlántico,Barranquilla,37,F,3,Técnico/Tecnólogo,Conductor/Repartidor,2340000.0,Call center,481.0,False,0,Android,hash_605527
+CL00972,2024-10-21,Bogotá D.C.,Bogotá,29,F,3,Bachiller,Desempleado,760000.0,Aliado comercial,405.0,False,2,Android,hash_533174
+CL00973,2025-01-11,Risaralda,Pereira,44,M,5,Técnico/Tecnólogo,Conductor/Repartidor,4660000.0,App orgánico,587.0,False,1,Android,hash_843218
+CL00974,2024-07-01,Bolívar,Cartagena,29,F,5,Bachiller,Independiente,3750000.0,App orgánico,586.0,True,1,iOS,hash_287522
+CL00975,2023-08-12,Valle del Cauca,Cali,32,F,3,Bachiller,Empleado,1730000.0,Aliado comercial,485.0,False,2,Android,hash_631501
+CL00976,2023-10-03,Norte de Santander,Cúcuta,19,M,3,Bachiller,Empleado,3530000.0,Referido,518.0,False,0,Android,hash_966971
+CL00977,2024-01-12,Bogotá D.C.,Bogotá,31,F,3,Técnico/Tecnólogo,Empleado,3280000.0,App orgánico,679.0,False,3,Web,hash_959055
+CL00978,2024-06-24,Tolima,Ibagué,19,M,2,Sin información,Empleado,,App orgánico,576.0,False,1,Android,hash_207904
+CL00979,2023-01-28,Santander,Bucaramanga,20,M,2,Técnico/Tecnólogo,Comerciante,1260000.0,App orgánico,494.0,False,2,Android,hash_861733
+CL00980,2024-12-08,Valle del Cauca,Cali,44,M,5,Universitario,Empleado,2870000.0,Campaña digital,673.0,True,3,Android,hash_311980
+CL00981,2024-04-03,Bogotá D.C.,Bogotá,44,M,3,Técnico/Tecnólogo,Comerciante,4280000.0,App orgánico,694.0,False,0,Android,hash_634228
+CL00982,2023-07-26,Valle del Cauca,Cali,40,M,1,Universitario,Empleado,1810000.0,App orgánico,554.0,False,0,iOS,hash_432783
+CL00983,2024-10-22,Santander,Bucaramanga,26,M,4,Universitario,Independiente,2950000.0,Campaña digital,569.0,False,1,iOS,hash_689413
+CL00984,2024-02-07,Antioquia,Medellín,36,F,2,Técnico/Tecnólogo,Estudiante,1970000.0,App orgánico,539.0,False,1,iOS,hash_984847
+CL00985,2025-12-15,Antioquia,Medellín,36,F,4,Bachiller,Comerciante,2180000.0,Aliado comercial,461.0,True,2,Android,hash_651936
+CL00986,2024-05-04,Bolívar,Cartagena,24,M,2,Universitario,Independiente,1960000.0,App orgánico,,True,0,Android,hash_188327
+CL00987,2025-07-12,Cundinamarca,Soacha,51,F,2,Técnico/Tecnólogo,Empleado,2260000.0,Referido,661.0,False,2,Android,hash_211113
+CL00988,2024-12-24,Valle del Cauca,Cali,45,M,2,Universitario,Pensionado,3400000.0,Referido,555.0,False,3,Android,hash_974479
+CL00989,2024-08-14,Bogotá D.C.,Bogotá,34,M,2,Bachiller,Comerciante,2480000.0,App orgánico,582.0,False,0,Android,hash_914155
+CL00990,2025-11-28,Santander,Bucaramanga,36,M,3,Técnico/Tecnólogo,Empleado,2260000.0,App orgánico,,True,1,Android,hash_608469
+CL00991,2023-06-18,Tolima,Ibagué,38,M,5,Bachiller,Empleado,3900000.0,Aliado comercial,629.0,True,3,Android,hash_609135
+CL00992,2024-05-14,Tolima,Ibagué,19,F,3,Universitario,Conductor/Repartidor,2680000.0,Campaña digital,510.0,True,1,Android,hash_283501
+CL00993,2024-07-08,Tolima,Ibagué,34,M,3,Sin información,Empleado,1970000.0,Referido,534.0,True,1,iOS,hash_933038
+CL00994,2025-01-30,Valle del Cauca,Cali,29,M,3,Universitario,Microempresario,3570000.0,Call center,590.0,True,4,Android,hash_647594
+CL00995,2025-02-15,Bogotá D.C.,Bogotá,26,F,1,Bachiller,Empleado,2640000.0,Campaña digital,449.0,False,1,Android,hash_211414
+CL00996,2025-09-12,Risaralda,Pereira,33,M,3,Universitario,Empleado,2880000.0,App orgánico,642.0,False,0,Android,hash_747049
+CL00997,2025-02-19,Bolívar,Cartagena,54,F,3,Sin información,Independiente,3700000.0,Aliado comercial,624.0,False,0,iOS,hash_959231
+CL00998,2024-04-04,Bogotá D.C.,Bogotá,42,F,4,Técnico/Tecnólogo,Comerciante,2290000.0,Referido,653.0,False,0,Android,hash_244574
+CL00999,2025-11-02,Bogotá D.C.,Bogotá,30,M,3,Técnico/Tecnólogo,Empleado,2340000.0,Campaña digital,650.0,False,3,Android,hash_757362
+CL01000,2025-06-19,Bogotá D.C.,Bogotá,42,M,3,Bachiller,Empleado,3740000.0,App orgánico,676.0,False,0,Android,hash_141446
+CL01001,2024-12-06,Cundinamarca,Soacha,50,F,4,Bachiller,Comerciante,4240000.0,Referido,688.0,False,1,Android,hash_634402
+CL01002,2025-07-11,Bolívar,Cartagena,45,F,1,Sin información,Microempresario,1670000.0,App orgánico,537.0,False,3,Android,hash_401355
+CL01003,2025-10-05,Antioquia,Medellín,37,M,2,Sin información,Pensionado,3040000.0,Aliado comercial,573.0,False,0,Android,hash_242475
+CL01004,2025-09-07,Bogotá D.C.,Bogotá,30,F,2,Bachiller,Microempresario,5760000.0,App orgánico,634.0,False,0,Android,hash_461116
+CL01005,2023-02-25,Antioquia,Medellín,43,F,2,Técnico/Tecnólogo,Independiente,2120000.0,Aliado comercial,564.0,False,0,Android,hash_485905
+CL01006,2024-03-20,Bogotá D.C.,Bogotá,40,F,2,Universitario,Independiente,3570000.0,App orgánico,532.0,True,4,Android,hash_654868
+CL01007,2023-08-02,Risaralda,Pereira,45,F,4,Universitario,Empleado,2100000.0,Campaña digital,585.0,True,0,Android,hash_808636
+CL01008,2024-05-23,Norte de Santander,Cúcuta,42,F,4,Técnico/Tecnólogo,Empleado,2420000.0,App orgánico,543.0,True,0,Web,hash_242675
+CL01009,2024-09-25,Atlántico,Barranquilla,46,F,4,Bachiller,Conductor/Repartidor,1790000.0,Campaña digital,634.0,True,2,Android,hash_170509
+CL01010,2024-12-07,Bogotá D.C.,Medellin ,31,M,1,Técnico/Tecnólogo,Empleado,1660000.0,Campaña digital,488.0,True,1,iOS,hash_517065
+CL01011,2023-12-31,Bogotá D.C.,Bogotá,49,M,3,Posgrado,Empleado,2410000.0,App orgánico,665.0,False,1,iOS,hash_769220
+CL01012,2025-04-03,Antioquia,Medellín,38,F,1,Sin información,Empleado,3270000.0,Campaña digital,609.0,False,0,Android,hash_820980
+CL01013,2024-11-21,Bolívar,Cartagena,57,F,3,Universitario,Independiente,2950000.0,Campaña digital,634.0,False,2,Web,hash_407522
+CL01014,2023-02-16,Bogotá D.C.,Bogotá,29,M,1,Bachiller,Independiente,1420000.0,Referido,500.0,False,0,iOS,hash_160941
+CL01015,2025-03-15,Caldas,Manizales,53,F,3,Universitario,Desempleado,620000.0,Campaña digital,538.0,False,0,Android,hash_363575
+CL01016,2025-04-06,Valle del Cauca,Cali,38,F,4,Universitario,Empleado,6110000.0,Campaña digital,711.0,True,0,iOS,hash_397214
+CL01017,2024-08-16,Bogotá D.C.,Bogotá,29,M,1,Universitario,Conductor/Repartidor,2240000.0,Campaña digital,436.0,False,2,iOS,hash_990432
+CL01018,2024-02-09,Bolívar,Cartagena,82,F,2,Bachiller,Empleado,2320000.0,App orgánico,719.0,False,0,Android,hash_642358
+CL01019,2024-04-10,Atlántico,Barranquilla,33,M,2,Bachiller,Empleado,,App orgánico,547.0,True,2,Android,hash_336424
+CL01020,2024-12-27,Bogotá D.C.,Bogotá,40,M,4,Sin información,Empleado,3520000.0,App orgánico,592.0,False,2,Android,hash_397691
+CL01021,2025-10-10,Santander,Bucaramanga,41,M,2,Bachiller,Independiente,2260000.0,Campaña digital,504.0,True,2,Android,hash_459271
+CL01022,2023-07-05,Cundinamarca,Soacha,30,F,3,Sin información,Microempresario,4380000.0,Aliado comercial,747.0,False,3,Android,hash_967414
+CL01023,2024-01-08,Antioquia,Medellín,36,M,4,Técnico/Tecnólogo,Desempleado,1160000.0,Aliado comercial,471.0,False,2,Web,hash_550967
+CL01024,2023-10-02,Caldas,Manizales,57,M,1,Bachiller,Independiente,1230000.0,Referido,606.0,True,3,Web,hash_899111
+CL01025,2025-08-12,Bogotá D.C.,Bogotá,53,M,5,Técnico/Tecnólogo,Microempresario,4860000.0,Campaña digital,675.0,True,1,Android,hash_912082
+CL01026,2023-04-12,Bogotá D.C.,Bogotá,40,M,4,Técnico/Tecnólogo,Independiente,5880000.0,Referido,766.0,False,1,Web,hash_804825
+CL01027,2023-03-28,Cundinamarca,Soacha,36,M,2,Posgrado,Independiente,1620000.0,Call center,501.0,True,0,Android,hash_783641
+CL01028,2023-07-30,Antioquia,Medellín,37,M,1,Universitario,Empleado,1510000.0,Campaña digital,591.0,True,3,Android,hash_810787
+CL01029,2023-12-15,Norte de Santander,Cúcuta,42,M,3,Bachiller,Microempresario,3150000.0,Call center,577.0,False,0,Web,hash_712274
+CL01030,2025-05-31,Bogotá D.C.,Bogotá,26,F,3,Técnico/Tecnólogo,Independiente,1450000.0,Campaña digital,550.0,True,2,Web,hash_595446
+CL01031,2024-01-14,Santander,Bucaramanga,33,F,3,Técnico/Tecnólogo,Comerciante,2640000.0,Call center,516.0,False,4,Android,hash_300229
+CL01032,2024-06-14,Antioquia,Medellín,19,M,3,Bachiller,Conductor/Repartidor,4140000.0,Campaña digital,557.0,False,4,Android,hash_975534
+CL01033,2024-01-31,Santander,Bucaramanga,40,F,1,Bachiller,Conductor/Repartidor,1180000.0,Call center,383.0,False,0,Android,hash_312690
+CL01034,2023-10-18,Antioquia,Medellín,42,M,3,Sin información,Comerciante,4230000.0,Campaña digital,746.0,False,1,Android,hash_251863
+CL01035,2024-10-16,Atlántico,Barranquilla,31,M,2,Bachiller,Pensionado,1670000.0,Aliado comercial,543.0,False,1,Android,hash_299460
+CL01036,2023-10-18,Cundinamarca,Soacha,52,M,4,Universitario,Desempleado,700000.0,App orgánico,562.0,False,0,Android,hash_880143
+CL01037,2024-03-29,Valle del Cauca,Cali,24,F,2,Posgrado,Comerciante,1560000.0,App orgánico,601.0,True,2,Android,hash_977112
+CL01038,2023-05-13,Atlántico,Barranquilla,21,F,1,Universitario,Estudiante,670000.0,App orgánico,395.0,False,3,iOS,hash_290563
+CL01039,2023-04-05,Antioquia,Medellín,38,M,2,Sin información,Desempleado,610000.0,App orgánico,555.0,False,2,Web,hash_665672
+CL01040,2025-03-06,Atlántico,Barranquilla,46,M,4,Técnico/Tecnólogo,Empleado,2870000.0,Referido,717.0,False,1,iOS,hash_814355
+CL01041,2024-03-22,Atlántico,Barranquilla,53,F,1,Universitario,Empleado,2280000.0,Referido,616.0,False,1,Android,hash_663723
+CL01042,2023-02-27,Antioquia,Medellín,31,F,5,Universitario,Conductor/Repartidor,4090000.0,Campaña digital,615.0,False,1,Android,hash_257085
+CL01043,2024-03-27,Bogotá D.C.,Bogotá,47,F,5,Bachiller,Conductor/Repartidor,2550000.0,Campaña digital,526.0,False,1,Android,hash_255562
+CL01044,2024-02-27,Antioquia,Medellín,36,M,2,Bachiller,Empleado,,Aliado comercial,537.0,False,1,iOS,hash_605365
+CL01045,2023-03-16,Antioquia,Medellín,34,F,4,Universitario,Independiente,,App orgánico,627.0,True,0,Android,hash_993708
+CL01046,2023-06-29,Atlántico,Barranquilla,45,M,5,Sin información,Independiente,5460000.0,Campaña digital,777.0,False,0,iOS,hash_513997
+CL01047,2023-09-27,Bogotá D.C.,Bogotá,43,M,3,Técnico/Tecnólogo,Comerciante,,Campaña digital,612.0,False,3,iOS,hash_314075
+CL01048,2025-10-24,Santander,Bucaramanga,20,F,2,Bachiller,Independiente,1730000.0,App orgánico,488.0,False,0,Android,hash_768234
+CL01049,2025-03-04,Cundinamarca,Soacha,51,F,1,Universitario,Empleado,1700000.0,Campaña digital,606.0,False,1,iOS,hash_128615
+CL01050,2024-01-08,Valle del Cauca,Cali,50,F,3,Universitario,Empleado,2440000.0,App orgánico,554.0,True,3,Android,hash_376914
+CL01051,2023-02-14,Antioquia,Medellín,30,M,2,Bachiller,Independiente,1090000.0,Campaña digital,448.0,True,0,Android,hash_371993
+CL01052,2025-03-14,Antioquia,Medellín,40,F,1,Técnico/Tecnólogo,Empleado,1170000.0,Referido,481.0,False,2,Android,hash_557588
+CL01053,2025-08-07,Bogotá D.C.,Bogotá,41,M,3,Técnico/Tecnólogo,Empleado,2080000.0,App orgánico,558.0,False,1,Android,hash_497774
+CL01054,2025-11-11,Valle del Cauca,Cali,39,F,3,Sin información,Pensionado,2630000.0,Campaña digital,622.0,False,3,Web,hash_438233
+CL01055,2024-08-09,Bolívar,Cartagena,30,M,2,Universitario,Comerciante,2240000.0,App orgánico,486.0,False,2,Android,hash_567741
+CL01056,2023-09-12,Antioquia,Medellín,29,F,4,Técnico/Tecnólogo,Independiente,1430000.0,App orgánico,574.0,False,3,Android,hash_526375
+CL01057,2023-06-10,Antioquia,Medellín,36,M,3,Técnico/Tecnólogo,Empleado,,Aliado comercial,616.0,False,1,Android,hash_891042
+CL01058,2023-04-30,Antioquia,Medellín,48,M,3,Bachiller,Desempleado,650000.0,Campaña digital,488.0,False,1,Android,hash_112741
+CL01059,2023-09-25,Atlántico,Barranquilla,41,M,3,Sin información,Empleado,4680000.0,Call center,667.0,False,1,Android,hash_613207
+CL01060,2025-08-24,Bogotá D.C.,Bogotá,32,M,3,Bachiller,Comerciante,2450000.0,Campaña digital,654.0,False,4,Android,hash_205894
+CL01061,2025-01-08,Norte de Santander,Cúcuta,44,F,2,Bachiller,Independiente,1260000.0,Referido,570.0,True,4,Android,hash_406732
+CL01062,2025-01-10,Bogotá D.C.,Bogotá,19,M,2,Técnico/Tecnólogo,Empleado,1870000.0,App orgánico,543.0,True,2,Android,hash_222082
+CL01063,2024-05-28,Meta,Villavicencio,47,M,4,Bachiller,Independiente,3220000.0,Aliado comercial,630.0,False,1,Web,hash_508107
+CL01064,2024-01-06,Bogotá D.C.,Bogotá,19,F,2,Universitario,Empleado,2760000.0,Referido,711.0,False,0,iOS,hash_746905
+CL01065,2024-04-06,Atlántico,Barranquilla,32,F,3,Universitario,Conductor/Repartidor,1400000.0,Referido,596.0,False,2,Android,hash_801983
+CL01066,2025-03-03,Valle del Cauca,Cali,25,M,4,Bachiller,Pensionado,2840000.0,Aliado comercial,576.0,True,0,Android,hash_331059
+CL01067,2023-11-17,Bolívar,Cartagena,23,F,3,Universitario,Empleado,2200000.0,Campaña digital,575.0,False,1,Android,hash_989920
+CL01068,2023-03-15,Antioquia,Medellín,48,F,3,Sin información,Empleado,1880000.0,Call center,602.0,False,1,iOS,hash_888106
+CL01069,2025-09-28,Valle del Cauca,Cali,31,F,5,Técnico/Tecnólogo,Estudiante,1470000.0,Referido,559.0,False,2,iOS,hash_987518
+CL01070,2024-03-08,Bogotá D.C.,Bogotá,39,F,3,Universitario,Microempresario,3660000.0,Aliado comercial,720.0,False,1,Android,hash_279598
+CL01071,2025-05-23,Risaralda,Pereira,36,F,6,Técnico/Tecnólogo,Independiente,2920000.0,Campaña digital,696.0,False,1,iOS,hash_128082
+CL01072,2023-11-06,Valle del Cauca,Cali,41,M,5,Técnico/Tecnólogo,Empleado,4200000.0,Aliado comercial,626.0,False,1,Android,hash_113882
+CL01073,2025-02-16,Norte de Santander,Cúcuta,37,M,3,Técnico/Tecnólogo,Comerciante,1360000.0,Referido,601.0,False,1,Android,hash_747786
+CL01074,2023-01-30,Antioquia,Medellín,23,M,3,Bachiller,Empleado,3350000.0,Referido,534.0,True,1,Android,hash_771999
+CL01075,2023-09-25,Bogotá D.C.,Bogotá,46,M,4,Técnico/Tecnólogo,Empleado,6870000.0,Campaña digital,799.0,False,1,Android,hash_324903
+CL01076,2024-04-12,Bogotá D.C.,Bogotá,31,M,3,Técnico/Tecnólogo,Conductor/Repartidor,2110000.0,Campaña digital,572.0,False,2,Android,hash_777519
+CL01077,2023-03-06,Valle del Cauca,Cali,20,F,1,Bachiller,Empleado,,Campaña digital,506.0,False,0,Android,hash_630942
+CL01078,2024-11-15,Norte de Santander,Cúcuta,32,M,3,Universitario,Empleado,4620000.0,Campaña digital,613.0,False,2,Android,hash_487581
+CL01079,2023-03-20,Valle del Cauca,Cali,51,M,2,Bachiller,Pensionado,3600000.0,Campaña digital,608.0,False,0,Android,hash_480836
+CL01080,2025-08-19,Bogotá D.C.,Bogotá,45,F,2,Técnico/Tecnólogo,Independiente,3260000.0,App orgánico,637.0,True,1,iOS,hash_540769
+CL01081,2023-02-15,Valle del Cauca,Cali,33,M,1,Sin información,Comerciante,1250000.0,Aliado comercial,484.0,False,2,Android,hash_768987
+CL01082,2023-06-28,Caldas,Manizales,33,M,2,Técnico/Tecnólogo,Comerciante,3040000.0,Campaña digital,507.0,False,2,Android,hash_677076
+CL01083,2023-09-17,Cundinamarca,Soacha,33,F,2,Técnico/Tecnólogo,Empleado,1320000.0,Aliado comercial,494.0,True,2,Android,hash_373827
+CL01084,2024-04-21,Santander,Bucaramanga,57,F,2,Sin información,Pensionado,1860000.0,Aliado comercial,553.0,False,0,iOS,hash_983951
+CL01085,2025-04-04,Norte de Santander,Cúcuta,40,M,3,Técnico/Tecnólogo,Independiente,2150000.0,Referido,527.0,False,0,Android,hash_631873
+CL01086,2023-05-12,Valle del Cauca,Cali,40,M,1,Universitario,Conductor/Repartidor,1460000.0,Aliado comercial,365.0,False,4,Android,hash_874393
+CL01087,2023-02-23,Bogotá D.C.,Bogotá,46,M,5,Bachiller,Comerciante,3690000.0,Campaña digital,703.0,False,1,Android,hash_265961
+CL01088,2025-02-16,Cundinamarca,Soacha,38,M,3,Bachiller,Conductor/Repartidor,3020000.0,App orgánico,526.0,False,1,Android,hash_837992
+CL01089,2024-04-25,Bogotá D.C.,Bogotá,33,M,1,Posgrado,Estudiante,1290000.0,App orgánico,504.0,True,0,Android,hash_409345
+CL01090,2024-11-11,Atlántico,Barranquilla,34,F,4,Técnico/Tecnólogo,Empleado,4070000.0,Campaña digital,670.0,False,1,Android,hash_613419
+CL01091,2025-02-21,Cundinamarca,Soacha,35,M,2,Universitario,Independiente,,App orgánico,579.0,False,4,Android,hash_245271
+CL01092,2023-01-23,Norte de Santander,Cúcuta,36,M,3,Técnico/Tecnólogo,Independiente,1980000.0,Aliado comercial,602.0,False,2,Android,hash_973081
+CL01093,2024-10-19,Cundinamarca,Soacha,43,M,4,Universitario,Empleado,3930000.0,Referido,589.0,True,2,Android,hash_606911
+CL01094,2025-12-22,Atlántico,Barranquilla,37,F,5,Bachiller,Comerciante,2510000.0,Campaña digital,630.0,True,1,Web,hash_249671
+CL01095,2023-02-03,Valle del Cauca,Cali,43,F,3,Técnico/Tecnólogo,Empleado,2740000.0,Call center,615.0,True,0,Android,hash_912026
+CL01096,2023-09-30,Valle del Cauca,Cali,35,F,2,Universitario,Comerciante,1470000.0,Aliado comercial,555.0,False,2,Android,hash_816748
+CL01097,2024-09-23,Bolívar,Cartagena,37,M,3,Bachiller,Comerciante,2920000.0,Campaña digital,583.0,False,0,iOS,hash_374006
+CL01098,2025-10-04,Valle del Cauca,Cali,19,M,3,Técnico/Tecnólogo,Comerciante,2070000.0,App orgánico,561.0,False,2,iOS,hash_371759
+CL01099,2025-11-09,Bogotá D.C.,Bogotá,45,M,1,Bachiller,Empleado,1030000.0,App orgánico,523.0,False,0,Android,hash_520647
+CL01100,2025-05-14,Valle del Cauca,Cali,39,F,4,Técnico/Tecnólogo,Empleado,9200000.0,Campaña digital,812.0,False,1,Android,hash_751110
+CL01101,2024-02-20,Bogotá D.C.,Bogotá,46,F,5,Posgrado,Desempleado,1880000.0,Aliado comercial,616.0,True,1,Web,hash_925307
+CL01102,2025-12-30,Santander,Bucaramanga,19,M,2,Técnico/Tecnólogo,Conductor/Repartidor,1390000.0,Referido,446.0,False,1,Android,hash_231866
+CL01103,2025-08-27,Atlántico,Barranquilla,57,M,2,Universitario,Conductor/Repartidor,4130000.0,App orgánico,668.0,True,1,Android,hash_515844
+CL01104,2023-04-17,Bogotá D.C.,Bogotá,35,F,2,Técnico/Tecnólogo,Independiente,1180000.0,App orgánico,484.0,False,0,Android,hash_823163
+CL01105,2025-09-20,Bogotá D.C.,Bogotá,47,F,6,Bachiller,Independiente,4460000.0,App orgánico,679.0,False,0,Android,hash_240401
+CL01106,2025-09-14,Atlántico,Barranquilla,26,M,2,Técnico/Tecnólogo,Conductor/Repartidor,1490000.0,Campaña digital,469.0,False,2,Android,hash_262814
+CL01107,2023-02-18,Bogotá D.C.,Bogotá,42,M,2,Sin información,Conductor/Repartidor,1140000.0,Campaña digital,567.0,False,0,Android,hash_226026
+CL01108,2023-03-17,Atlántico,Barranquilla,25,M,2,Universitario,Estudiante,1180000.0,Campaña digital,488.0,True,1,iOS,hash_348433
+CL01109,2023-06-04,Valle del Cauca,Cali,30,F,2,Universitario,Empleado,2310000.0,Campaña digital,,False,0,Android,hash_579757
+CL01110,2025-07-02,Antioquia,Medellín,55,M,3,Universitario,Independiente,2060000.0,Referido,571.0,False,1,iOS,hash_959138
+CL01111,2025-05-07,Antioquia,Medellín,34,M,2,Universitario,Independiente,1980000.0,Referido,398.0,True,1,Android,hash_827814
+CL01112,2025-09-17,Bogotá D.C.,Bogotá,38,F,2,Técnico/Tecnólogo,Empleado,1750000.0,Referido,469.0,False,4,Android,hash_249389
+CL01113,2025-02-03,Cundinamarca,Soacha,45,M,4,Bachiller,Empleado,7370000.0,Referido,850.0,False,1,iOS,hash_516219
+CL01114,2026-01-14,Cundinamarca,Soacha,41,M,2,Universitario,Empleado,3370000.0,Referido,527.0,False,1,Android,hash_492838
+CL01115,2023-04-27,Norte de Santander,Cúcuta,38,M,2,Universitario,Independiente,2190000.0,Campaña digital,535.0,False,1,Android,hash_245942
+CL01116,2024-04-22,Bogotá D.C.,Bogotá,40,M,2,Universitario,Estudiante,,Campaña digital,449.0,True,2,Android,hash_770792
+CL01117,2023-11-08,Antioquia,Medellín,60,F,3,Técnico/Tecnólogo,Conductor/Repartidor,2510000.0,Referido,576.0,False,2,Android,hash_865962
+CL01118,2023-06-10,Atlántico,Barranquilla,35,F,2,Universitario,Comerciante,1650000.0,App orgánico,573.0,False,2,Android,hash_664501
+CL01119,2025-06-18,Valle del Cauca,Cali,38,M,2,Técnico/Tecnólogo,Desempleado,940000.0,Aliado comercial,531.0,False,1,iOS,hash_306802
+CL01120,2023-08-25,Antioquia,Medellín,47,No informa,1,Técnico/Tecnólogo,Comerciante,1380000.0,Campaña digital,533.0,True,4,iOS,hash_974966
+CL01121,2023-08-06,Antioquia,Medellín,47,M,3,Técnico/Tecnólogo,Conductor/Repartidor,1770000.0,Campaña digital,547.0,False,1,Android,hash_293654
+CL01122,2023-10-30,Bogotá D.C.,Bogotá,17,M,3,Bachiller,Estudiante,1600000.0,App orgánico,359.0,False,2,Android,hash_888005
+CL01123,2024-10-31,Bogotá D.C.,Bogotá,42,M,6,Sin información,Empleado,5100000.0,App orgánico,738.0,False,2,iOS,hash_977714
+CL01124,2023-05-01,Tolima,Ibagué,25,F,3,Técnico/Tecnólogo,Independiente,2240000.0,App orgánico,545.0,True,1,Android,hash_694105
+CL01125,2023-10-16,Antioquia,Medellín,52,M,5,Técnico/Tecnólogo,Independiente,2600000.0,App orgánico,646.0,True,2,Android,hash_599668
+CL01126,2024-03-06,Bogotá D.C.,Bogotá,25,M,2,Técnico/Tecnólogo,Desempleado,530000.0,App orgánico,509.0,True,0,Android,hash_544764
+CL01127,2025-05-08,Bogotá D.C.,Bogotá,39,F,4,Técnico/Tecnólogo,Comerciante,2500000.0,Aliado comercial,635.0,False,3,Android,hash_157942
+CL01128,2024-08-04,Bogotá D.C.,Bogotá,28,F,2,Sin información,Empleado,3070000.0,App orgánico,654.0,True,3,Android,hash_898086
+CL01129,2025-03-25,Atlántico,Barranquilla,35,M,3,Universitario,Comerciante,,App orgánico,571.0,True,2,Android,hash_796042
+CL01130,2023-01-22,Valle del Cauca,Cali,39,F,3,Técnico/Tecnólogo,Pensionado,4470000.0,Campaña digital,730.0,False,3,Android,hash_508195
+CL01131,2024-01-08,Bolívar,Cartagena,39,F,3,Posgrado,Empleado,2120000.0,Call center,685.0,False,1,iOS,hash_385279
+CL01132,2024-11-14,Atlántico,Barranquilla,40,M,3,Técnico/Tecnólogo,Empleado,2510000.0,Referido,614.0,True,1,iOS,hash_717769
+CL01133,2025-08-26,Bogotá D.C.,Bogotá,52,M,1,Universitario,Microempresario,2760000.0,Campaña digital,668.0,True,2,Android,hash_528718
+CL01134,2024-11-28,Bogotá D.C.,Bogotá,41,F,3,Técnico/Tecnólogo,Microempresario,3810000.0,App orgánico,619.0,False,4,Android,hash_363929
+CL01135,2023-02-10,Antioquia,Medellín,34,F,3,Sin información,Empleado,2100000.0,Call center,532.0,False,0,iOS,hash_441977
+CL01136,2024-03-30,Bogotá D.C.,Bogotá,46,M,3,Posgrado,Microempresario,,App orgánico,644.0,False,0,iOS,hash_137880
+CL01137,2023-09-02,Antioquia,Medellín,48,M,3,Técnico/Tecnólogo,Empleado,1870000.0,App orgánico,482.0,False,3,Android,hash_600314
+CL01138,2025-12-13,Meta,Villavicencio,24,F,1,Universitario,Empleado,2740000.0,Call center,555.0,False,1,Android,hash_410748
+CL01139,2024-02-05,Valle del Cauca,Cali,42,M,3,Bachiller,Independiente,1260000.0,Campaña digital,441.0,True,0,Android,hash_622881
+CL01140,2023-03-16,Cundinamarca,Soacha,43,F,3,Técnico/Tecnólogo,Empleado,2190000.0,Call center,556.0,True,1,Android,hash_133033
+CL01141,2023-06-13,Valle del Cauca,Cali,33,F,5,Universitario,Independiente,3280000.0,Campaña digital,584.0,False,2,Android,hash_502867
+CL01142,2023-03-05,Atlántico,Barranquilla,50,M,3,Técnico/Tecnólogo,Comerciante,3140000.0,App orgánico,594.0,False,3,Web,hash_772051
+CL01143,2023-03-05,Bogotá D.C.,Bogotá,34,M,3,Universitario,Microempresario,2800000.0,Campaña digital,655.0,False,4,Android,hash_405383
+CL01144,2024-10-22,Risaralda,Pereira,37,F,2,Universitario,Empleado,2330000.0,Campaña digital,654.0,True,0,Web,hash_602542
+CL01145,2023-03-23,Cundinamarca,Soacha,34,F,2,Bachiller,Independiente,1370000.0,App orgánico,458.0,False,1,Android,hash_960348
+CL01146,2023-02-09,Tolima,Ibagué,36,M,1,Bachiller,Empleado,4950000.0,Referido,687.0,False,1,Android,hash_183335
+CL01147,2024-09-17,Atlántico,Barranquilla,25,F,3,Bachiller,Microempresario,4600000.0,Call center,702.0,True,0,Android,hash_235915
+CL01148,2024-01-17,Caldas,Manizales,22,M,2,Bachiller,Microempresario,2950000.0,App orgánico,464.0,False,2,Android,hash_511913
+CL01149,2023-02-25,Atlántico,Barranquilla,52,M,3,Bachiller,Microempresario,3390000.0,App orgánico,674.0,False,2,iOS,hash_932888
+CL01150,2023-04-09,Atlántico,Barranquilla,28,M,3,Universitario,Empleado,2070000.0,Campaña digital,642.0,False,0,Android,hash_557359
+CL01151,2025-12-27,Norte de Santander,Cúcuta,26,F,2,Universitario,Independiente,2570000.0,Aliado comercial,567.0,True,1,Android,hash_243361
+CL01152,2025-07-03,Bogotá D.C.,Bogotá,19,F,5,Universitario,Empleado,2430000.0,Aliado comercial,589.0,False,2,Web,hash_309074
+CL01153,2023-05-07,Atlántico,Barranquilla,30,F,3,Técnico/Tecnólogo,Empleado,4500000.0,Campaña digital,673.0,False,0,iOS,hash_190930
+CL01154,2025-02-08,Bogotá D.C.,Bogotá,23,F,2,Bachiller,Empleado,1770000.0,Aliado comercial,570.0,False,0,Android,hash_770712
+CL01155,2025-05-06,Risaralda,Pereira,52,M,4,Posgrado,Conductor/Repartidor,2450000.0,Campaña digital,506.0,True,1,iOS,hash_523959
+CL01156,2023-11-22,Caldas,Manizales,46,F,3,Bachiller,Independiente,3790000.0,App orgánico,526.0,False,0,Android,hash_762588
+CL01157,2023-11-01,Atlántico,Barranquilla,29,M,3,Técnico/Tecnólogo,Independiente,2100000.0,App orgánico,428.0,True,1,Android,hash_974733
+CL01158,2025-07-07,Cundinamarca,Soacha,59,M,3,Universitario,Independiente,2680000.0,Referido,559.0,True,2,Android,hash_730094
+CL01159,2023-04-13,Atlántico,Barranquilla,46,M,3,Universitario,Empleado,1360000.0,Aliado comercial,596.0,True,1,Android,hash_279096
+CL01160,2024-03-12,Antioquia,Medellín,33,F,3,Universitario,Comerciante,3740000.0,App orgánico,633.0,False,0,Web,hash_959856
+CL01161,2025-03-24,Risaralda,Pereira,19,F,2,Bachiller,Empleado,3910000.0,Aliado comercial,521.0,False,1,Android,hash_782226
+CL01162,2024-08-16,Risaralda,Pereira,59,M,3,Técnico/Tecnólogo,Comerciante,1850000.0,Referido,687.0,False,1,Android,hash_730273
+CL01163,2025-06-22,Meta,Villavicencio,22,F,4,Sin información,Comerciante,4520000.0,App orgánico,752.0,False,0,Android,hash_401984
+CL01164,2024-10-09,Antioquia,Medellín,20,F,4,Bachiller,Independiente,2590000.0,App orgánico,641.0,False,1,Android,hash_148392
+CL01165,2024-02-20,Bogotá D.C.,Bogotá,46,F,4,Universitario,Independiente,1920000.0,Referido,597.0,False,3,iOS,hash_941618
+CL01166,2023-06-01,Antioquia,Medellín,60,M,2,Universitario,Comerciante,3580000.0,Campaña digital,696.0,False,2,Android,hash_421044
+CL01167,2025-03-30,Bogotá D.C.,Bogotá,50,M,5,Bachiller,Independiente,3450000.0,Campaña digital,677.0,False,2,iOS,hash_266835
+CL01168,2025-04-15,Bogotá D.C.,Bogotá,42,F,6,Bachiller,Empleado,5520000.0,Campaña digital,745.0,False,2,iOS,hash_714822
+CL01169,2023-08-07,Cundinamarca,Soacha,42,F,3,Universitario,Comerciante,4910000.0,Call center,740.0,False,2,iOS,hash_693465
+CL01170,2023-08-19,Bogotá D.C.,Bogotá,45,M,2,Técnico/Tecnólogo,Microempresario,3620000.0,Campaña digital,624.0,True,3,iOS,hash_266268
+CL01171,2024-11-14,Norte de Santander,Cúcuta,44,F,2,Bachiller,Independiente,1640000.0,Call center,549.0,False,2,iOS,hash_648606
+CL01172,2024-10-28,Santander,Bucaramanga,39,F,4,Universitario,Estudiante,1550000.0,Referido,603.0,False,2,iOS,hash_756734
+CL01173,2025-10-28,Valle del Cauca,Cali,37,M,2,Bachiller,Independiente,1620000.0,Referido,526.0,False,1,Android,hash_776196
+CL01174,2023-02-26,Antioquia,Medellín,35,F,3,Técnico/Tecnólogo,Empleado,3940000.0,Campaña digital,593.0,True,0,Android,hash_255801
+CL01175,2024-09-21,Bogotá D.C.,Bogotá,28,M,1,Universitario,Microempresario,4220000.0,Aliado comercial,594.0,False,4,iOS,hash_140721
+CL01176,2025-09-10,Caldas,Manizales,33,M,3,Técnico/Tecnólogo,Independiente,2970000.0,Referido,529.0,False,1,Android,hash_906696
+CL01177,2024-12-25,Norte de Santander,Cúcuta,19,F,2,Posgrado,Estudiante,940000.0,Campaña digital,492.0,False,1,iOS,hash_273707
+CL01178,2023-12-23,Atlántico,Barranquilla,35,F,3,Sin información,Comerciante,2750000.0,App orgánico,644.0,True,3,iOS,hash_931653
+CL01179,2025-10-16,Santander,Bucaramanga,26,M,4,Sin información,Conductor/Repartidor,3330000.0,Referido,638.0,False,0,Android,hash_798734
+CL01180,2023-03-18,Bogotá D.C.,Bogotá,25,M,4,Bachiller,Empleado,3310000.0,Aliado comercial,646.0,False,0,Android,hash_418862
+CL01181,2023-07-03,Antioquia,Medellín,38,F,1,Universitario,Empleado,1800000.0,App orgánico,569.0,True,1,Android,hash_849656
+CL01182,2025-10-06,Antioquia,Medellín,50,F,5,Técnico/Tecnólogo,Empleado,8240000.0,Campaña digital,821.0,False,1,iOS,hash_894360
+CL01183,2024-01-17,Valle del Cauca,Cali,45,M,4,Bachiller,Comerciante,2680000.0,App orgánico,600.0,False,1,Android,hash_865176
+CL01184,2024-07-01,Bogotá D.C.,Bogotá,20,M,2,Bachiller,Independiente,1500000.0,App orgánico,585.0,False,2,Android,hash_279586
+CL01185,2025-02-06,Bolívar,Cartagena,26,F,2,Bachiller,Empleado,2310000.0,App orgánico,508.0,False,2,Android,hash_572374
+CL01186,2025-05-24,Bogotá D.C.,Bogotá,45,M,3,Técnico/Tecnólogo,Empleado,2600000.0,Referido,660.0,False,1,Web,hash_331831
+CL01187,2023-11-25,Bogotá D.C.,Bogotá,26,M,3,Posgrado,Pensionado,2710000.0,App orgánico,638.0,True,1,iOS,hash_465890
+CL01188,2023-11-06,Santander,Bucaramanga,34,M,1,Bachiller,Comerciante,,Campaña digital,519.0,True,0,Android,hash_950531
+CL01189,2024-09-07,Bogotá D.C.,Bogotá,42,M,4,Bachiller,Desempleado,430000.0,Campaña digital,467.0,True,2,Android,hash_525377
+CL01190,2023-03-24,Bogotá D.C.,Bogotá,26,M,4,Técnico/Tecnólogo,Empleado,6790000.0,Campaña digital,688.0,True,1,Android,hash_680913
+CL01191,2023-09-05,Bogotá D.C.,Bogotá,37,F,4,Bachiller,Pensionado,1840000.0,App orgánico,612.0,False,3,Android,hash_251265
+CL01192,2024-09-04,Bogotá D.C.,Bogotá,23,F,4,Sin información,Comerciante,1490000.0,App orgánico,549.0,False,0,Android,hash_521788
+CL01193,2024-05-14,Atlántico,Barranquilla,30,F,4,Técnico/Tecnólogo,Independiente,2930000.0,Aliado comercial,695.0,False,1,Android,hash_919282
+CL01194,2025-11-19,Risaralda,Pereira,39,F,1,Técnico/Tecnólogo,Pensionado,1100000.0,Campaña digital,529.0,False,1,iOS,hash_227852
+CL01195,2023-10-05,Antioquia,Medellín,20,M,5,Universitario,Empleado,2700000.0,Campaña digital,543.0,False,0,Web,hash_725497
+CL01196,2024-11-25,Bogotá D.C.,Bogotá,40,M,3,Técnico/Tecnólogo,Conductor/Repartidor,2310000.0,Referido,536.0,False,1,Android,hash_759748
+CL01197,2025-07-29,Valle del Cauca,Cali,36,F,5,Universitario,Empleado,7790000.0,Referido,829.0,True,2,Android,hash_508901
+CL01198,2023-07-08,Santander,Bucaramanga,42,M,1,Posgrado,Empleado,2430000.0,Referido,631.0,False,1,Web,hash_141787
+CL01199,2025-07-19,Cundinamarca,Soacha,38,F,4,Universitario,Independiente,2450000.0,Campaña digital,577.0,True,1,Android,hash_453497
+CL01200,2024-12-13,Bogotá D.C.,Bogotá,50,M,2,Universitario,Conductor/Repartidor,1660000.0,App orgánico,555.0,False,2,Android,hash_761818
+CL01201,2023-08-21,Bogotá D.C.,Bogotá,37,F,2,Técnico/Tecnólogo,Conductor/Repartidor,2430000.0,Referido,547.0,True,1,Android,hash_824331
+CL01202,2025-12-02,Atlántico,Barranquilla,32,M,4,Bachiller,Microempresario,4470000.0,Aliado comercial,679.0,False,0,Android,hash_560410
+CL01203,2023-12-15,Tolima,Ibagué,37,M,2,Técnico/Tecnólogo,Desempleado,780000.0,Referido,448.0,False,1,Android,hash_920959
+CL01204,2025-09-01,Atlántico,Barranquilla,41,F,3,Bachiller,Independiente,3760000.0,Referido,671.0,False,1,iOS,hash_985023
+CL01205,2023-06-30,Santander,Bucaramanga,36,F,2,Bachiller,Empleado,2090000.0,App orgánico,568.0,False,1,iOS,hash_950534
+CL01206,2023-06-17,Cundinamarca,Soacha,36,F,2,Sin información,Empleado,1810000.0,Aliado comercial,597.0,False,1,iOS,hash_206485
+CL01207,2024-05-28,Bogotá D.C.,Bogotá,29,M,4,Técnico/Tecnólogo,Independiente,2760000.0,Aliado comercial,666.0,True,0,Android,hash_736045
+CL01208,2023-07-08,Bogotá D.C.,Bogotá,29,M,1,Bachiller,Desempleado,,Aliado comercial,436.0,False,2,iOS,hash_198525
+CL01209,2023-01-23,Bogotá D.C.,Bogotá,22,F,3,Bachiller,Independiente,2720000.0,App orgánico,564.0,True,2,Android,hash_137525
+CL01210,2025-10-25,Antioquia,Medellín,53,M,1,Universitario,Desempleado,1030000.0,Campaña digital,544.0,False,1,iOS,hash_149190
+CL01211,2024-05-26,Bolívar,Cartagena,24,M,3,Universitario,Conductor/Repartidor,1510000.0,App orgánico,499.0,False,1,Android,hash_372460
+CL01212,2024-07-22,Bogotá D.C.,Bogotá,29,M,2,Bachiller,Empleado,2140000.0,Campaña digital,573.0,False,2,Android,hash_613755
+CL01213,2025-06-18,Caldas,Medellin ,29,F,3,Universitario,Empleado,1590000.0,App orgánico,583.0,True,1,Android,hash_503821
+CL01214,2024-01-01,Santander,Bucaramanga,45,M,3,Técnico/Tecnólogo,Empleado,2780000.0,Campaña digital,642.0,False,0,Android,hash_230877
+CL01215,2023-04-06,Atlántico,Barranquilla,33,F,5,Técnico/Tecnólogo,Independiente,2080000.0,Campaña digital,573.0,True,3,iOS,hash_720630
+CL01216,2024-11-17,Caldas,Manizales,48,F,5,Técnico/Tecnólogo,Conductor/Repartidor,4280000.0,Campaña digital,621.0,False,1,Android,hash_909977
+CL01217,2024-06-27,Cundinamarca,Soacha,29,F,3,Bachiller,Microempresario,,Aliado comercial,658.0,False,0,iOS,hash_385954
+CL01218,2023-05-22,Risaralda,Pereira,39,F,3,Técnico/Tecnólogo,Microempresario,4300000.0,Aliado comercial,697.0,False,0,Android,hash_247712
+CL01219,2025-09-09,Valle del Cauca,Cali,28,F,6,Universitario,Comerciante,6200000.0,Referido,742.0,False,2,Android,hash_662162
+CL01220,2023-05-02,Antioquia,Medellín,57,M,4,Técnico/Tecnólogo,Desempleado,1250000.0,Referido,518.0,False,3,Android,hash_480031
+CL01221,2023-07-14,Bogotá D.C.,Bogotá,24,F,3,Universitario,Conductor/Repartidor,3110000.0,App orgánico,575.0,False,0,iOS,hash_112850
+CL01222,2024-05-18,Santander,Bucaramanga,39,F,4,Técnico/Tecnólogo,Desempleado,970000.0,Referido,501.0,False,1,iOS,hash_864236
+CL01223,2023-09-03,Cundinamarca,Soacha,42,M,2,Universitario,Empleado,2720000.0,Referido,514.0,False,1,Web,hash_172053
+CL01224,2024-12-13,Bogotá D.C.,Bogotá,40,M,2,Técnico/Tecnólogo,Estudiante,500000.0,Campaña digital,477.0,False,1,Android,hash_884642
+CL01225,2025-06-28,Bolívar,Cartagena,34,M,3,Técnico/Tecnólogo,Empleado,2440000.0,Aliado comercial,,True,3,Android,hash_831951
+CL01226,2023-02-08,Bogotá D.C.,Bogotá,35,M,2,Universitario,Empleado,2210000.0,Campaña digital,508.0,False,2,Android,hash_922343
+CL01227,2023-05-26,Cundinamarca,Soacha,36,M,4,Posgrado,Empleado,3050000.0,Campaña digital,581.0,True,3,Web,hash_224559
+CL01228,2024-06-04,Antioquia,Medellín,35,M,1,Universitario,Estudiante,640000.0,Aliado comercial,457.0,False,4,Android,hash_935209
+CL01229,2024-12-22,Bogotá D.C.,Bogotá,46,F,2,Bachiller,Empleado,3020000.0,Aliado comercial,665.0,False,4,Android,hash_155421
+CL01230,2023-05-11,Valle del Cauca,Cali,58,F,2,Sin información,Empleado,2420000.0,Campaña digital,592.0,False,0,Android,hash_652845
+CL01231,2025-09-12,Santander,Barranquila,30,M,4,Técnico/Tecnólogo,Microempresario,5500000.0,Campaña digital,720.0,True,2,Android,hash_694318
+CL01232,2024-01-31,Bogotá D.C.,Bogotá,22,M,1,Universitario,Microempresario,2180000.0,Campaña digital,463.0,False,2,Web,hash_166250
+CL01233,2024-10-23,Santander,Bucaramanga,75,F,3,Bachiller,Empleado,2240000.0,Campaña digital,705.0,True,0,iOS,hash_409169
+CL01234,2025-01-19,Bogotá D.C.,Bogotá,62,M,1,Bachiller,Microempresario,2280000.0,Aliado comercial,598.0,False,0,Web,hash_814129
+CL01235,2024-06-17,Santander,Bucaramanga,28,M,3,Universitario,Empleado,2870000.0,Referido,635.0,False,3,Android,hash_940777
+CL01236,2024-05-24,Bogotá D.C.,Bogotá,52,M,3,Técnico/Tecnólogo,Estudiante,650000.0,App orgánico,586.0,False,1,Android,hash_721436
+CL01237,2025-12-10,Valle del Cauca,Cali,53,F,3,Técnico/Tecnólogo,Empleado,3780000.0,Campaña digital,703.0,True,2,Android,hash_590226
+CL01238,2024-03-29,Valle del Cauca,Cali,30,M,4,Técnico/Tecnólogo,Empleado,3860000.0,Campaña digital,649.0,False,0,Android,hash_172928
+CL01239,2025-06-27,Valle del Cauca,Cali,42,F,3,Bachiller,Empleado,,Aliado comercial,652.0,False,2,iOS,hash_484562
+CL01240,2025-12-20,Antioquia,Medellín,52,No informa,1,Bachiller,Comerciante,2600000.0,Campaña digital,576.0,False,1,Web,hash_150375
+CL01241,2023-05-13,Bogotá D.C.,Bogotá,32,F,3,Posgrado,Comerciante,1970000.0,Referido,565.0,False,2,iOS,hash_492445
+CL01242,2023-07-07,Antioquia,Medellín,34,M,1,Bachiller,Empleado,2410000.0,Campaña digital,474.0,False,1,iOS,hash_355223
+CL01243,2025-05-19,Bolívar,Cartagena,30,F,1,Bachiller,Empleado,2440000.0,Referido,561.0,False,0,Web,hash_529318
+CL01244,2023-03-05,Bogotá D.C.,Bogotá,26,M,1,Posgrado,Independiente,1870000.0,Aliado comercial,564.0,False,3,Android,hash_174992
+CL01245,2024-12-01,Bogotá D.C.,Bogotá,30,F,1,Técnico/Tecnólogo,Empleado,2020000.0,App orgánico,620.0,False,0,Android,hash_824867
+CL01246,2024-04-21,Bogotá D.C.,Bogotá,24,M,2,Sin información,Empleado,,App orgánico,526.0,True,4,Android,hash_938915
+CL01247,2023-06-11,Atlántico,Barranquilla,36,M,1,Universitario,Empleado,2340000.0,Referido,596.0,True,2,Android,hash_656000
+CL01248,2023-02-07,Bogotá D.C.,Bogotá,28,M,2,Sin información,Conductor/Repartidor,,Call center,430.0,False,4,Android,hash_609444
+CL01249,2023-02-23,Bogotá D.C.,Bogotá,38,M,5,Bachiller,Desempleado,1080000.0,App orgánico,544.0,True,0,Android,hash_459348
+CL01250,2025-11-02,Antioquia,Medellín,20,F,2,Técnico/Tecnólogo,Empleado,1930000.0,Referido,,False,2,Web,hash_951787
+CL01251,2024-06-27,Antioquia,Medellín,39,M,3,Bachiller,Conductor/Repartidor,1020000.0,Aliado comercial,464.0,False,2,Android,hash_677218
+CL01252,2025-03-27,Norte de Santander,Cúcuta,44,M,2,Técnico/Tecnólogo,Empleado,1910000.0,Referido,514.0,False,1,Web,hash_289939
+CL01253,2023-09-29,Valle del Cauca,Cali,19,F,2,Universitario,Empleado,2720000.0,Campaña digital,685.0,False,2,iOS,hash_826844
+CL01254,2023-08-31,Valle del Cauca,Cali,40,F,2,Universitario,Microempresario,3980000.0,Aliado comercial,644.0,False,3,Android,hash_334891
+CL01255,2023-09-28,Bogotá D.C.,Bogotá,48,F,5,Sin información,Empleado,,Campaña digital,823.0,False,1,Android,hash_446429
+CL01256,2023-04-04,Antioquia,Medellín,24,F,3,Bachiller,Conductor/Repartidor,3200000.0,App orgánico,580.0,True,2,Android,hash_292848
+CL01257,2025-04-16,Bogotá D.C.,Bogotá,53,F,1,Universitario,Empleado,2900000.0,Campaña digital,574.0,False,0,Android,hash_794524
+CL01258,2023-08-02,Bolívar,Cartagena,40,M,3,Bachiller,Independiente,1280000.0,Aliado comercial,517.0,False,3,iOS,hash_585089
+CL01259,2024-08-13,Bogotá D.C.,Bogotá,29,M,3,Bachiller,Conductor/Repartidor,5810000.0,Campaña digital,707.0,False,0,Android,hash_670845
+CL01260,2025-08-19,Valle del Cauca,Cali,35,M,4,Sin información,Comerciante,4120000.0,Referido,694.0,False,0,iOS,hash_821180
+CL01261,2023-09-26,Antioquia,Medellín,42,F,3,Técnico/Tecnólogo,Microempresario,2350000.0,App orgánico,536.0,False,3,iOS,hash_151940
+CL01262,2024-09-11,Antioquia,Medellín,37,F,5,Técnico/Tecnólogo,Empleado,6700000.0,Campaña digital,806.0,False,1,Android,hash_228491
+CL01263,2023-09-12,Cundinamarca,Soacha,41,No informa,4,Sin información,Conductor/Repartidor,3280000.0,Aliado comercial,539.0,True,4,Android,hash_553192
+CL01264,2024-08-18,Bolívar,Cartagena,27,F,1,Bachiller,Empleado,1880000.0,Campaña digital,617.0,False,1,Android,hash_412279
+CL01265,2023-08-16,Bogotá D.C.,Bogotá,38,No informa,4,Bachiller,Estudiante,2100000.0,App orgánico,598.0,False,1,Web,hash_915668
+CL01266,2024-07-25,Antioquia,Medellín,22,M,2,Universitario,Empleado,2990000.0,App orgánico,500.0,False,2,iOS,hash_698685
+CL01267,2024-06-13,Cundinamarca,Soacha,35,M,5,Bachiller,Microempresario,4640000.0,Campaña digital,637.0,False,1,Android,hash_642086
+CL01268,2024-03-31,Bolívar,Cartagena,27,M,2,Sin información,Independiente,3320000.0,Aliado comercial,599.0,False,0,iOS,hash_714505
+CL01269,2023-08-02,Caldas,Manizales,29,F,3,Universitario,Desempleado,760000.0,App orgánico,505.0,False,1,Android,hash_301168
+CL01270,2024-01-31,Bogotá D.C.,Bogotá,48,M,3,Técnico/Tecnólogo,Microempresario,4020000.0,Campaña digital,704.0,False,2,iOS,hash_132894
+CL01271,2023-01-29,Bogotá D.C.,Bogotá,47,M,2,Sin información,Comerciante,4610000.0,Aliado comercial,704.0,True,2,Android,hash_846958
+CL01272,2023-04-17,Bolívar,Cartagena,42,F,2,Técnico/Tecnólogo,Estudiante,1220000.0,App orgánico,540.0,True,2,iOS,hash_261754
+CL01273,2024-01-04,Bogotá D.C.,Bogotá,25,F,2,Bachiller,Conductor/Repartidor,2770000.0,Campaña digital,580.0,True,2,Android,hash_125294
+CL01274,2025-01-13,Norte de Santander,Cúcuta,33,F,4,Técnico/Tecnólogo,Independiente,2760000.0,Aliado comercial,663.0,False,3,iOS,hash_891815
+CL01275,2023-03-07,Caldas,Manizales,48,M,4,Bachiller,Comerciante,2610000.0,Campaña digital,697.0,True,1,Android,hash_864510
+CL01276,2025-07-02,Bogotá D.C.,Bogotá,37,F,3,Bachiller,Empleado,4190000.0,App orgánico,551.0,False,3,Web,hash_718644
+CL01277,2024-01-07,Santander,Bucaramanga,59,M,3,Bachiller,Pensionado,740000.0,Referido,545.0,False,4,Web,hash_518494
+CL01278,2024-10-04,Antioquia,Medellín,40,F,4,Técnico/Tecnólogo,Independiente,2490000.0,Call center,609.0,False,2,Android,hash_295619
+CL01279,2025-09-09,Antioquia,Medellín,38,M,3,Técnico/Tecnólogo,Pensionado,1760000.0,Referido,521.0,False,0,Android,hash_101076
+CL01280,2025-07-22,Cundinamarca,Soacha,33,M,3,Posgrado,Empleado,4880000.0,Campaña digital,609.0,False,0,Android,hash_637636
+CL01281,2025-06-06,Bogotá D.C.,Bogotá,37,M,1,Universitario,Desempleado,360000.0,Call center,384.0,False,0,Android,hash_624204
+CL01282,2024-02-01,Santander,Bucaramanga,34,M,2,Sin información,Desempleado,690000.0,Aliado comercial,397.0,False,1,Android,hash_671097
+CL01283,2025-11-17,Valle del Cauca,Cali,43,F,3,Técnico/Tecnólogo,Empleado,1870000.0,Campaña digital,527.0,False,0,Android,hash_237011
+CL01284,2023-03-17,Bogotá D.C.,Bogotá,46,F,1,Universitario,Empleado,3630000.0,Aliado comercial,702.0,False,1,Android,hash_765916
+CL01285,2025-04-13,Bogotá D.C.,Bogotá,28,M,3,Bachiller,Comerciante,3800000.0,Referido,656.0,False,0,Android,hash_168858
+CL01286,2025-03-09,Bogotá D.C.,Bogotá,23,F,2,Bachiller,Empleado,,Call center,505.0,True,2,Android,hash_533995
+CL01287,2023-09-04,Antioquia,Medellín,19,M,1,Universitario,Conductor/Repartidor,2080000.0,App orgánico,496.0,False,1,Android,hash_115009
+CL01288,2025-08-04,Norte de Santander,Cúcuta,41,M,3,Posgrado,Microempresario,2920000.0,App orgánico,597.0,False,0,Android,hash_245939
+CL01289,2025-02-11,Bogotá D.C.,Bogotá,25,F,1,Bachiller,Comerciante,1370000.0,App orgánico,457.0,False,1,Android,hash_592558
+CL01290,2023-05-06,Bolívar,Cartagena,19,M,2,Bachiller,Conductor/Repartidor,1780000.0,App orgánico,370.0,False,2,Web,hash_823911
+CL01291,2025-04-04,Santander,Bucaramanga,40,F,2,Bachiller,Desempleado,620000.0,App orgánico,524.0,False,3,Android,hash_735536
+CL01292,2024-06-18,Valle del Cauca,Cali,61,F,2,Universitario,Estudiante,850000.0,App orgánico,498.0,False,0,Android,hash_962735
+CL01293,2025-10-24,Atlántico,Barranquilla,36,M,3,Bachiller,Conductor/Repartidor,2300000.0,App orgánico,,False,0,Android,hash_862380
+CL01294,2025-07-25,Bogotá D.C.,Bogotá,44,M,2,Universitario,Estudiante,1420000.0,App orgánico,521.0,False,1,Android,hash_853222
+CL01295,2023-05-08,Atlántico,Barranquilla,37,F,2,Bachiller,Empleado,4010000.0,Referido,606.0,False,2,Android,hash_647403
+CL01296,2024-07-20,Atlántico,Barranquilla,35,F,2,Técnico/Tecnólogo,Empleado,3340000.0,App orgánico,543.0,True,0,Android,hash_991293
+CL01297,2024-09-01,Cundinamarca,Soacha,45,M,3,Universitario,Empleado,1060000.0,Call center,577.0,False,0,Web,hash_720877
+CL01298,2026-01-07,Antioquia,Medellín,33,M,1,Técnico/Tecnólogo,Desempleado,370000.0,Campaña digital,486.0,False,1,Android,hash_855823
+CL01299,2024-08-09,Valle del Cauca,Cali,39,F,3,Sin información,Empleado,2390000.0,Campaña digital,579.0,False,1,Android,hash_677697
+CL01300,2025-03-18,Bogotá D.C.,Bogotá,39,M,2,Bachiller,Independiente,800000.0,App orgánico,502.0,False,2,Android,hash_170160
+CL01301,2024-03-24,Bogotá D.C.,Bogotá,29,M,3,Bachiller,Empleado,2510000.0,App orgánico,491.0,False,0,Android,hash_123838
+CL01302,2024-05-22,Norte de Santander,Cúcuta,46,F,4,Bachiller,Conductor/Repartidor,2970000.0,Campaña digital,609.0,False,1,Android,hash_841693
+CL01303,2023-08-09,Santander,Bucaramanga,34,F,3,Técnico/Tecnólogo,Empleado,2220000.0,App orgánico,518.0,True,3,Android,hash_357177
+CL01304,2024-03-05,Bogotá D.C.,Bogotá,28,M,3,Sin información,Desempleado,,Campaña digital,490.0,False,1,Android,hash_570258
+CL01305,2025-07-19,Valle del Cauca,Cali,41,F,2,Técnico/Tecnólogo,Comerciante,1820000.0,Campaña digital,570.0,False,2,Android,hash_310994
+CL01306,2025-09-26,Cundinamarca,Soacha,27,M,5,Universitario,Empleado,3990000.0,App orgánico,623.0,False,1,Android,hash_713143
+CL01307,2023-08-19,Santander,Bucaramanga,36,F,2,Técnico/Tecnólogo,Independiente,1660000.0,Campaña digital,561.0,True,1,iOS,hash_638363
+CL01308,2023-12-08,Antioquia,Medellín,36,M,5,Bachiller,Comerciante,3900000.0,Campaña digital,595.0,False,0,Android,hash_717722
+CL01309,2025-03-26,Antioquia,Medellín,47,M,3,Posgrado,Independiente,2080000.0,Campaña digital,655.0,True,0,Android,hash_589554
+CL01310,2025-08-05,Antioquia,Medellín,41,F,3,Posgrado,Conductor/Repartidor,1990000.0,Call center,525.0,False,2,Web,hash_473254
+CL01311,2025-10-06,Norte de Santander,Cúcuta,36,M,4,Universitario,Estudiante,1100000.0,App orgánico,542.0,False,1,Android,hash_185263
+CL01312,2024-08-09,Bogotá D.C.,Bogotá,44,M,3,Sin información,Conductor/Repartidor,2340000.0,App orgánico,567.0,False,0,Android,hash_209777
+CL01313,2023-02-18,Cundinamarca,Soacha,50,M,1,Bachiller,Empleado,1820000.0,Campaña digital,580.0,False,0,Android,hash_604962
+CL01314,2023-04-19,Bogotá D.C.,Bogotá,42,M,4,Posgrado,Conductor/Repartidor,2530000.0,Aliado comercial,606.0,False,0,iOS,hash_253594
+CL01315,2023-12-27,Bogotá D.C.,Bogotá,36,M,1,Técnico/Tecnólogo,Empleado,830000.0,App orgánico,527.0,False,1,Android,hash_778787
+CL01316,2023-04-18,Bogotá D.C.,Bogotá,23,F,5,Bachiller,Estudiante,2130000.0,Aliado comercial,507.0,False,2,Android,hash_284933
+CL01317,2023-06-18,Bogotá D.C.,Bogotá,25,M,3,Bachiller,Empleado,5080000.0,Aliado comercial,531.0,True,1,iOS,hash_338344
+CL01318,2024-08-16,Atlántico,Barranquilla,33,M,6,Técnico/Tecnólogo,Empleado,5200000.0,App orgánico,753.0,False,3,Android,hash_686834
+CL01319,2025-05-24,Valle del Cauca,Cali,30,M,1,Universitario,Empleado,,App orgánico,573.0,False,3,iOS,hash_277980
+CL01320,2023-04-15,Bogotá D.C.,Bogotá,34,M,4,Universitario,Independiente,4390000.0,Campaña digital,658.0,False,1,Android,hash_140023
+CL01321,2024-03-30,Atlántico,Barranquilla,37,F,1,Sin información,Conductor/Repartidor,2300000.0,Campaña digital,510.0,True,4,iOS,hash_591564
+CL01322,2025-02-02,Antioquia,Medellín,41,F,3,Bachiller,Comerciante,3280000.0,App orgánico,587.0,False,1,iOS,hash_588295
+CL01323,2024-10-16,Antioquia,Medellín,35,M,1,Técnico/Tecnólogo,Empleado,2370000.0,App orgánico,573.0,False,0,Android,hash_246874
+CL01324,2023-08-07,Bogotá D.C.,Bogotá,41,M,1,Bachiller,Microempresario,2010000.0,Campaña digital,635.0,False,0,Android,hash_741729
+CL01325,2023-09-01,Bogotá D.C.,Bogotá,37,M,4,Sin información,Independiente,2000000.0,App orgánico,542.0,False,1,Android,hash_890099
+CL01326,2023-10-20,Santander,Bucaramanga,19,F,4,Sin información,Estudiante,1720000.0,Referido,,False,1,Android,hash_379818
+CL01327,2024-12-05,Antioquia,Medellín,27,F,3,Bachiller,Empleado,4440000.0,App orgánico,680.0,False,0,Android,hash_170500
+CL01328,2024-10-01,Bogotá D.C.,Bogotá,35,M,1,Técnico/Tecnólogo,Microempresario,1570000.0,Campaña digital,535.0,False,2,Android,hash_520869
+CL01329,2025-06-02,Bogotá D.C.,Bogotá,24,M,1,Bachiller,Comerciante,2030000.0,Aliado comercial,639.0,False,2,Android,hash_506810
+CL01330,2023-02-23,Antioquia,Medellín,42,F,3,Técnico/Tecnólogo,Empleado,2470000.0,Campaña digital,601.0,False,4,Android,hash_859950
+CL01331,2023-03-05,Antioquia,Medellín,51,M,3,Bachiller,Independiente,3110000.0,Referido,643.0,False,3,Android,hash_704483
+CL01332,2024-09-10,Bogotá D.C.,Bogotá,48,M,2,Universitario,Microempresario,2630000.0,Campaña digital,630.0,False,0,Android,hash_973953
+CL01333,2025-07-15,Atlántico,Barranquilla,34,F,2,Universitario,Empleado,4480000.0,Call center,588.0,False,2,Android,hash_261339
+CL01334,2025-06-21,Valle del Cauca,Cali,51,F,3,Bachiller,Independiente,3000000.0,App orgánico,559.0,False,0,iOS,hash_946261
+CL01335,2024-08-07,Bogotá D.C.,Bogotá,37,M,3,Técnico/Tecnólogo,Estudiante,600000.0,App orgánico,408.0,True,0,iOS,hash_798028
+CL01336,2023-02-28,Bolívar,Cartagena,33,M,1,Bachiller,Independiente,1070000.0,Aliado comercial,492.0,False,0,Android,hash_713835
+CL01337,2024-03-18,Bogotá D.C.,Bogotá,30,F,2,Técnico/Tecnólogo,Microempresario,3940000.0,Aliado comercial,677.0,False,2,Android,hash_960473
+CL01338,2023-03-10,Atlántico,Barranquilla,33,F,1,Bachiller,Empleado,2100000.0,Campaña digital,590.0,False,2,Android,hash_342070
+CL01339,2023-06-02,Cundinamarca,Soacha,17,F,2,Bachiller,Empleado,,Aliado comercial,583.0,False,2,Android,hash_585959
+CL01340,2024-07-04,Valle del Cauca,Cali,38,M,1,Técnico/Tecnólogo,Empleado,2080000.0,Referido,579.0,False,0,Web,hash_613060
+CL01341,2024-04-29,Antioquia,Medellín,38,F,3,Universitario,Comerciante,3780000.0,Referido,642.0,False,0,Android,hash_686623
+CL01342,2024-07-23,Santander,Bucaramanga,36,F,3,Bachiller,Empleado,3500000.0,Aliado comercial,588.0,False,0,Android,hash_397535
+CL01343,2025-10-28,Bolívar,Cartagena,40,M,1,Técnico/Tecnólogo,Empleado,2380000.0,Aliado comercial,573.0,False,0,iOS,hash_305207
+CL01344,2023-09-22,Antioquia,Medellín,48,F,1,Universitario,Empleado,2510000.0,Campaña digital,584.0,False,0,Android,hash_885931
+CL01345,2024-08-05,Risaralda,Pereira,45,M,3,Universitario,Empleado,2220000.0,App orgánico,587.0,False,2,Android,hash_697821
+CL01346,2024-01-02,Santander,Bucaramanga,21,F,2,Técnico/Tecnólogo,Independiente,1010000.0,Aliado comercial,510.0,False,2,Android,hash_619521
+CL01347,2025-08-28,Antioquia,Medellín,19,M,1,Sin información,Conductor/Repartidor,1950000.0,App orgánico,470.0,False,0,Android,hash_902542
+CL01348,2025-05-04,Bogotá D.C.,Bogotá,45,M,3,Bachiller,Pensionado,1580000.0,App orgánico,,False,0,Android,hash_669029
+CL01349,2024-12-07,Bogotá D.C.,Bogotá,22,M,2,Bachiller,Desempleado,770000.0,Referido,422.0,True,1,iOS,hash_811865
+CL01350,2025-08-12,Antioquia,Medellín,34,M,3,Técnico/Tecnólogo,Independiente,2180000.0,App orgánico,617.0,True,0,Android,hash_707398
+CL01351,2025-04-26,Atlántico,Barranquilla,24,M,1,Universitario,Pensionado,1980000.0,App orgánico,489.0,True,2,Android,hash_965028
+CL01352,2024-01-03,Antioquia,Medellín,19,F,3,Técnico/Tecnólogo,Pensionado,1200000.0,Campaña digital,414.0,False,2,Android,hash_166019
+CL01353,2024-12-19,Valle del Cauca,Cali,41,M,2,Universitario,Comerciante,2230000.0,Campaña digital,608.0,False,1,Android,hash_213388
+CL01354,2024-10-22,Cundinamarca,Soacha,44,M,4,Universitario,Independiente,3180000.0,Campaña digital,603.0,True,3,Android,hash_834755
+CL01355,2024-12-09,Valle del Cauca,Cali,30,M,2,Bachiller,Empleado,3420000.0,App orgánico,633.0,False,3,iOS,hash_114787
+CL01356,2025-07-26,Bogotá D.C.,Bogotá,19,M,5,Técnico/Tecnólogo,Empleado,4560000.0,Referido,696.0,False,0,Android,hash_680340
+CL01357,2023-11-17,Caldas,Manizales,31,F,2,Posgrado,Empleado,2660000.0,Campaña digital,630.0,False,3,Android,hash_463754
+CL01358,2023-10-08,Antioquia,Medellín,40,F,1,Bachiller,Microempresario,2560000.0,App orgánico,634.0,False,3,Web,hash_900629
+CL01359,2024-08-18,Bogotá D.C.,Bogotá,21,M,3,Universitario,Empleado,2780000.0,Call center,575.0,True,0,Web,hash_589775
+CL01360,2024-07-21,Bolívar,Cartagena,38,M,2,Técnico/Tecnólogo,Comerciante,,Referido,,False,2,iOS,hash_906878
+CL01361,2025-12-05,Tolima,Ibagué,36,M,3,Posgrado,Desempleado,1110000.0,App orgánico,464.0,False,3,Android,hash_468675
+CL01362,2025-12-31,Valle del Cauca,Cali,42,M,3,Bachiller,Empleado,,Referido,569.0,True,2,Android,hash_839316
+CL01363,2025-03-12,Valle del Cauca,Cali,37,F,1,Sin información,Empleado,3530000.0,Aliado comercial,615.0,False,1,Android,hash_901281
+CL01364,2025-06-02,Bogotá D.C.,Bogotá,26,M,2,Técnico/Tecnólogo,Empleado,2000000.0,App orgánico,617.0,False,0,iOS,hash_976218
+CL01365,2025-03-04,Antioquia,Medellín,48,M,1,Sin información,Comerciante,1660000.0,Campaña digital,550.0,False,2,Android,hash_661267
+CL01366,2024-10-03,Caldas,Manizales,34,F,3,Técnico/Tecnólogo,Empleado,3500000.0,Aliado comercial,,False,1,iOS,hash_307123
+CL01367,2026-01-06,Bogotá D.C.,Bogotá,36,M,3,Sin información,Microempresario,4400000.0,Aliado comercial,674.0,True,4,Android,hash_606218
+CL01368,2024-01-11,Bogotá D.C.,Bogotá,27,F,2,Técnico/Tecnólogo,Empleado,1840000.0,Aliado comercial,,False,1,Android,hash_295980
+CL01369,2023-11-19,Antioquia,Medellín,32,M,3,Bachiller,Empleado,2320000.0,Referido,547.0,False,1,iOS,hash_445508
+CL01370,2025-09-03,Santander,Bucaramanga,27,F,3,Técnico/Tecnólogo,Microempresario,3270000.0,Aliado comercial,552.0,False,0,iOS,hash_695605
+CL01371,2023-02-08,Bogotá D.C.,Bogotá,34,M,4,Técnico/Tecnólogo,Empleado,3390000.0,Referido,621.0,False,2,iOS,hash_143042
+CL01372,2025-10-08,Cundinamarca,Soacha,53,M,3,Bachiller,Empleado,2480000.0,Referido,598.0,False,3,iOS,hash_319712
+CL01373,2025-01-24,Valle del Cauca,Cali,22,M,1,Universitario,Comerciante,2490000.0,App orgánico,585.0,True,1,Android,hash_479928
+CL01374,2025-09-26,Atlántico,Barranquilla,20,M,3,Universitario,Independiente,2650000.0,App orgánico,582.0,False,2,iOS,hash_926083
+CL01375,2023-06-25,Caldas,Manizales,51,F,2,Bachiller,Conductor/Repartidor,2740000.0,Referido,500.0,False,0,Android,hash_673613
+CL01376,2025-09-17,Caldas,Manizales,34,M,3,Bachiller,Microempresario,5030000.0,Campaña digital,682.0,False,0,Android,hash_537586
+CL01377,2025-04-01,Antioquia,Medellín,29,F,3,Universitario,Microempresario,3100000.0,Referido,657.0,False,1,Android,hash_927766
+CL01378,2025-02-15,Meta,Villavicencio,46,F,3,Técnico/Tecnólogo,Independiente,1280000.0,App orgánico,531.0,False,0,iOS,hash_551180
+CL01379,2025-11-05,Risaralda,Pereira,30,M,3,Técnico/Tecnólogo,Pensionado,1910000.0,App orgánico,488.0,False,1,Android,hash_785621
+CL01380,2025-01-14,Antioquia,Medellín,54,F,2,Técnico/Tecnólogo,Empleado,3490000.0,App orgánico,622.0,False,2,Android,hash_298155
+CL01381,2024-04-05,Bogotá D.C.,Bogotá,43,F,1,Técnico/Tecnólogo,Empleado,1650000.0,App orgánico,560.0,True,1,Android,hash_816873
+CL01382,2023-02-19,Bogotá D.C.,Bogotá,31,M,4,Bachiller,Empleado,2730000.0,Aliado comercial,636.0,True,2,Android,hash_159278
+CL01383,2025-02-12,Bogotá D.C.,Bogotá,58,M,3,Bachiller,Comerciante,3480000.0,App orgánico,767.0,False,0,iOS,hash_676304
+CL01384,2025-03-05,Antioquia,Medellín,30,M,1,Técnico/Tecnólogo,Microempresario,1570000.0,Referido,471.0,False,0,Web,hash_175406
+CL01385,2024-07-10,Bogotá D.C.,Bogotá,43,F,4,Universitario,Empleado,4800000.0,Call center,700.0,False,1,Web,hash_950340
+CL01386,2025-02-26,Antioquia,Medellín,39,M,4,Bachiller,Conductor/Repartidor,1740000.0,Aliado comercial,485.0,False,2,iOS,hash_265438
+CL01387,2024-07-06,Cundinamarca,Soacha,49,F,3,Sin información,Empleado,2430000.0,Aliado comercial,572.0,False,1,Android,hash_614080
+CL01388,2024-07-24,Tolima,Ibagué,52,F,4,Bachiller,Empleado,3770000.0,Aliado comercial,710.0,False,3,Android,hash_428398
+CL01389,2025-07-26,Bogotá D.C.,Bogotá,36,M,2,Bachiller,Empleado,2070000.0,Referido,639.0,False,2,Android,hash_252947
+CL01390,2023-05-15,Antioquia,Medellín,28,M,1,Universitario,Desempleado,510000.0,App orgánico,482.0,False,0,Android,hash_432395
+CL01391,2025-01-25,Bogotá D.C.,Bogotá,41,M,3,Universitario,Empleado,2860000.0,Campaña digital,632.0,False,0,iOS,hash_364234
+CL01392,2025-09-30,Valle del Cauca,Cali,29,M,1,Técnico/Tecnólogo,Empleado,2450000.0,App orgánico,637.0,False,2,Android,hash_341411
+CL01393,2024-01-26,Bogotá D.C.,Bogotá,56,F,2,Universitario,Empleado,1400000.0,Campaña digital,559.0,False,2,Android,hash_551501
+CL01394,2024-07-04,Cundinamarca,Soacha,37,M,1,Universitario,Empleado,2380000.0,App orgánico,,False,0,Android,hash_544400
+CL01395,2023-07-28,Cundinamarca,Soacha,32,M,1,Bachiller,Microempresario,2850000.0,Referido,530.0,True,0,Android,hash_613955
+CL01396,2023-02-07,Meta,Villavicencio,38,M,5,Bachiller,Independiente,5040000.0,App orgánico,659.0,False,0,Web,hash_163327
+CL01397,2023-12-10,Antioquia,Medellín,23,M,1,Universitario,Empleado,2040000.0,App orgánico,,False,3,Android,hash_184533
+CL01398,2023-04-22,Bolívar,Cartagena,26,F,2,Bachiller,Comerciante,4460000.0,Aliado comercial,680.0,True,1,Android,hash_276221
+CL01399,2024-12-16,Santander,Bucaramanga,48,F,2,Técnico/Tecnólogo,Microempresario,4520000.0,Referido,578.0,False,3,iOS,hash_333403
+CL01400,2023-10-05,Bolívar,Cartagena,29,F,2,Universitario,Independiente,2460000.0,Referido,575.0,False,0,Android,hash_948248

@@ -1,0 +1,1528 @@
+﻿credito_id,cliente_id,fecha_desembolso,producto_credito,monto_credito,plazo_meses,tasa_interes_mensual,valor_cuota_pactada,canal_originacion,score_interno_originacion,relacion_cuota_ingreso,politica_aprobacion,estado_credito_operativo
+CR000001,CL00001,2025-03-25,Crédito libre inversión,2000000,9,0.0301,257000,App,677,0.1606,Automática,Finalizado
+CR000002,CL00002,2025-09-08,Avance de nómina,2150000,3,0.0261,754000,Web,859,0.2278,Automática,Finalizado
+CR000003,CL00003,2024-06-28,Microcrédito,4350000,6,0.0398,829000,Aliado,805,0.3528,Manual,Mora moderada
+CR000004,CL00003,2024-03-22,Avance de nómina,950000,12,0.0233,92000,App,861,0.0391,Automática,Finalizado
+CR000005,CL00003,2026-01-30,Crédito consumo digital,1450000,9,0.0211,179000,Aliado,865,0.0762,Automática,Activo
+CR000006,CL00005,2026-01-28,Microcrédito,1300000,6,0.0253,236000,App,776,0.2593,Automática,Mora moderada
+CR000007,CL00006,2024-08-11,Crédito libre inversión,3800000,12,0.0293,380000,Web,867,0.1105,Automática,Finalizado
+CR000008,CL00007,2025-06-24,Crédito libre inversión,10800000,12,0.0319,1098000,Aliado,875,0.2845,Automática,Mora severa
+CR000009,CL00008,2024-10-19,Microcrédito,1300000,18,0.0314,96000,App,606,0.064,Manual,Mora severa
+CR000010,CL00010,2025-04-16,Crédito libre inversión,2100000,24,0.0336,129000,App,874,0.0502,Automática,Mora moderada
+CR000011,CL00011,2025-09-11,Crédito consumo digital,350000,12,0.0252,34000,App,783,0.0262,Automática,Activo
+CR000012,CL00011,2026-01-11,Crédito libre inversión,1300000,12,0.0315,132000,Web,756,0.1015,Automática,Activo
+CR000013,CL00012,2025-03-29,Crédito libre inversión,6300000,9,0.0268,797000,Web,870,0.2271,Automática,Finalizado
+CR000014,CL00013,2026-01-19,Crédito consumo digital,1700000,6,0.0259,310000,App,866,0.0664,Automática,Activo
+CR000015,CL00014,2026-02-12,Crédito consumo digital,600000,3,0.0222,209000,Web,610,0.275,Manual,Activo
+CR000016,CL00015,2025-12-14,Crédito consumo digital,1400000,12,0.0286,139000,App,836,0.0468,Automática,Activo
+CR000017,CL00015,2025-12-13,Crédito libre inversión,4400000,6,0.022,791000,Web,727,0.2663,Automática,Mora severa
+CR000018,CL00015,2025-12-05,Crédito consumo digital,1450000,9,0.0377,193000,App,868,0.065,Automática,Activo
+CR000019,CL00016,2024-11-14,Crédito libre inversión,4350000,9,0.0309,561000,App,857,0.2397,Automática,Finalizado
+CR000020,CL00017,2025-10-17,Crédito consumo digital,4200000,9,0.0275,533000,App,894,0.1444,Automática,Activo
+CR000021,CL00018,2024-11-27,Crédito consumo digital,850000,6,0.0234,154000,Call center,874,0.0533,Automática,Finalizado
+CR000022,CL00020,2025-04-07,Crédito consumo digital,1950000,3,0.034,695000,Aliado,900,0.1421,Automática,Finalizado
+CR000023,CL00023,2026-01-26,Crédito consumo digital,4100000,9,0.0322,532000,App,900,0.1354,Automática,Activo
+CR000024,CL00026,2025-10-28,Crédito consumo digital,2050000,12,0.0308,207000,App,867,0.0674,Automática,Activo
+CR000025,CL00027,2024-03-03,Crédito consumo digital,1300000,12,0.0248,127000,App,845,0.0357,Automática,Mora severa
+CR000026,CL00028,2025-05-15,Crédito consumo digital,850000,12,0.0212,81000,Aliado,708,0.075,Automática,Mora severa
+CR000027,CL00028,2025-10-03,Crédito libre inversión,1950000,6,0.0311,361000,Aliado,667,0.3343,Automática,Finalizado
+CR000028,CL00028,2025-12-20,Crédito libre inversión,2550000,6,0.0284,468000,App,661,0.4333,Manual,Activo
+CR000029,CL00029,2025-10-10,Crédito consumo digital,3300000,6,0.0322,614000,App,877,0.1616,Automática,Finalizado
+CR000030,CL00030,2025-12-18,Crédito libre inversión,4350000,12,0.0217,416000,App,864,0.1195,Automática,Activo
+CR000031,CL00031,2026-01-29,Crédito libre inversión,9600000,18,0.0204,643000,Aliado,900,0.1448,Automática,Activo
+CR000032,CL00033,2025-08-11,Crédito consumo digital,4000000,12,0.0383,422000,App,900,0.1275,Automática,Activo
+CR000033,CL00034,2026-02-01,Microcrédito,700000,6,0.0255,127000,App,811,0.083,Automática,Activo
+CR000034,CL00034,2025-08-01,Crédito libre inversión,1200000,12,0.0332,123000,Web,730,0.0804,Automática,Mora moderada
+CR000035,CL00035,2025-03-21,Crédito consumo digital,4050000,6,0.0373,766000,Web,900,0.152,Automática,Finalizado
+CR000036,CL00036,2025-09-29,Crédito consumo digital,950000,12,0.0211,90000,Aliado,572,0.0448,Manual,Activo
+CR000037,CL00036,2025-11-03,Crédito libre inversión,6550000,6,0.0248,1188000,App,462,0.591,Excepción,Activo
+CR000038,CL00037,2025-10-10,Crédito libre inversión,6450000,6,0.0267,1178000,Web,889,0.5746,Excepción,Mora moderada
+CR000039,CL00038,2025-09-19,Crédito consumo digital,1900000,12,0.0338,195000,App,679,0.0759,Automática,Mora severa
+CR000040,CL00039,2025-11-29,Crédito consumo digital,2650000,6,0.0263,483000,App,854,0.1543,Automática,Activo
+CR000041,CL00039,2024-06-27,Crédito libre inversión,4450000,12,0.0183,417000,App,864,0.1332,Automática,Mora moderada
+CR000042,CL00040,2025-09-01,Microcrédito,2350000,3,0.0408,848000,App,900,0.2024,Automática,Mora severa
+CR000043,CL00040,2026-01-09,Avance de nómina,1800000,6,0.0187,320000,Web,840,0.0764,Automática,Activo
+CR000044,CL00041,2023-10-04,Microcrédito,3800000,3,0.0396,1368000,App,827,0.45,Manual,Finalizado
+CR000045,CL00042,2026-03-26,Microcrédito,700000,18,0.036,53000,Aliado,750,0.0296,Automática,Activo
+CR000046,CL00043,2025-03-30,Crédito consumo digital,1550000,9,0.0294,199000,Call center,900,0.0812,Automática,Finalizado
+CR000047,CL00044,2026-01-05,Crédito consumo digital,1150000,12,0.0308,116000,Aliado,900,0.0391,Automática,Activo
+CR000048,CL00044,2025-09-09,Avance de nómina,900000,3,0.0192,312000,Aliado,900,0.1051,Automática,Finalizado
+CR000049,CL00045,2024-11-13,Crédito consumo digital,700000,3,0.0224,244000,App,787,0.0949,Automática,Finalizado
+CR000050,CL00046,2025-07-23,Crédito consumo digital,1850000,12,0.0298,186000,App,811,0.0724,Automática,Activo
+CR000051,CL00047,2025-10-26,Crédito libre inversión,3250000,18,0.0247,226000,Call center,786,0.1378,Automática,Activo
+CR000052,CL00048,2026-01-30,Crédito consumo digital,1650000,6,0.027,302000,Call center,800,0.1175,Automática,Activo
+CR000053,CL00050,2025-05-11,Crédito libre inversión,3750000,12,0.0186,351000,App,803,0.1526,Automática,Mora moderada
+CR000054,CL00051,2025-12-12,Crédito libre inversión,7550000,3,0.0335,2687000,App,726,0.9842,Excepción,Mora moderada
+CR000055,CL00052,2025-06-28,Crédito consumo digital,3250000,6,0.0325,605000,Aliado,782,0.1576,Automática,Mora moderada
+CR000056,CL00054,2025-01-05,Crédito consumo digital,1400000,12,0.0252,137000,Web,809,0.0628,Automática,Mora moderada
+CR000057,CL00056,2025-10-23,Crédito consumo digital,2050000,6,0.0217,368000,App,900,0.1553,Automática,Finalizado
+CR000058,CL00056,2026-03-30,Avance de nómina,1050000,6,0.0314,195000,App,874,0.0823,Automática,Activo
+CR000059,CL00057,2024-11-12,Microcrédito,1100000,9,0.0389,147000,Web,775,0.0739,Automática,Mora moderada
+CR000060,CL00058,2024-05-02,Microcrédito,3300000,6,0.0263,602000,App,849,0.2427,Automática,Finalizado
+CR000061,CL00059,2026-01-05,Crédito consumo digital,1750000,9,0.0346,230000,Call center,860,0.105,Automática,Activo
+CR000062,CL00059,2025-06-27,Avance de nómina,1400000,12,0.0273,138000,App,815,0.063,Automática,Activo
+CR000063,CL00059,2026-03-27,Crédito libre inversión,1600000,12,0.0306,161000,App,886,0.0735,Automática,Activo
+CR000064,CL00060,2026-02-06,Crédito consumo digital,3350000,9,0.0228,416000,App,900,0.1115,Automática,Activo
+CR000065,CL00061,2024-03-09,Crédito consumo digital,1150000,6,0.0321,214000,App,848,0.096,Automática,Finalizado
+CR000066,CL00062,2025-12-17,Avance de nómina,700000,9,0.0229,87000,App,870,0.0361,Automática,Activo
+CR000067,CL00063,2023-08-08,Crédito consumo digital,2150000,12,0.0305,217000,App,748,0.0702,Automática,Mora moderada
+CR000068,CL00064,2025-08-03,Crédito libre inversión,7800000,12,0.0309,788000,App,808,0.2765,Automática,Mora severa
+CR000069,CL00065,2026-03-20,Microcrédito,5200000,6,0.033,969000,App,900,0.1541,Automática,Activo
+CR000070,CL00065,2025-04-08,Crédito consumo digital,5500000,3,0.0355,1965000,App,900,0.3124,Automática,Mora severa
+CR000071,CL00067,2025-07-07,Crédito consumo digital,2800000,9,0.024,350000,Aliado,900,0.0882,Automática,Finalizado
+CR000072,CL00067,2025-01-16,Crédito consumo digital,2600000,6,0.0301,480000,Aliado,900,0.1209,Automática,Finalizado
+CR000073,CL00068,2024-10-03,Crédito consumo digital,3200000,12,0.0333,328000,Call center,900,0.0682,Automática,Finalizado
+CR000074,CL00069,2024-05-11,Crédito libre inversión,2900000,6,0.0266,529000,Aliado,754,0.258,Automática,Finalizado
+CR000075,CL00072,2025-08-31,Crédito libre inversión,3350000,9,0.0259,422000,App,889,0.1796,Automática,Activo
+CR000076,CL00073,2026-01-07,Avance de nómina,800000,12,0.0265,79000,Web,844,1.2,Automática,Mora moderada
+CR000077,CL00074,2025-06-24,Crédito consumo digital,4300000,9,0.0383,574000,Call center,900,0.0939,Automática,Finalizado
+CR000078,CL00075,2026-01-08,Crédito consumo digital,1400000,6,0.0293,258000,Call center,880,0.0733,Automática,Activo
+CR000079,CL00076,2024-10-22,Microcrédito,900000,12,0.0306,91000,App,810,0.0384,Automática,Mora moderada
+CR000080,CL00077,2025-05-15,Crédito consumo digital,650000,6,0.0277,119000,App,725,0.0613,Automática,Mora severa
+CR000081,CL00077,2025-08-25,Avance de nómina,1000000,12,0.0296,100000,App,870,0.0515,Automática,Activo
+CR000082,CL00078,2025-11-06,Crédito consumo digital,1850000,6,0.0227,333000,Aliado,900,0.1041,Automática,Activo
+CR000083,CL00079,2025-08-17,Microcrédito,600000,6,0.0343,112000,App,832,0.0457,Automática,Finalizado
+CR000084,CL00080,2026-03-12,Crédito libre inversión,7700000,9,0.0264,973000,Call center,798,0.4746,Manual,Activo
+CR000085,CL00081,2025-12-29,Crédito consumo digital,1450000,12,0.0388,153000,App,608,0.0827,Manual,Activo
+CR000086,CL00082,2023-06-24,Crédito libre inversión,5550000,9,0.0304,714000,App,846,0.2412,Automática,Mora severa
+CR000087,CL00083,2025-12-01,Crédito libre inversión,2350000,6,0.0254,427000,Aliado,759,0.1787,Automática,Activo
+CR000088,CL00086,2025-06-13,Crédito libre inversión,4050000,3,0.0306,1433000,Call center,675,0.549,Manual,Finalizado
+CR000089,CL00088,2025-07-04,Crédito consumo digital,1100000,6,0.0284,202000,App,863,0.1074,Automática,Finalizado
+CR000090,CL00089,2025-12-13,Crédito consumo digital,1600000,3,0.0282,564000,App,617,0.5127,Manual,Finalizado
+CR000091,CL00089,2026-03-03,Crédito libre inversión,1050000,18,0.0204,70000,Web,628,0.0636,Automática,Activo
+CR000092,CL00091,2026-02-07,Crédito consumo digital,1000000,3,0.0202,347000,Aliado,864,0.1896,Automática,Activo
+CR000093,CL00092,2024-08-16,Crédito consumo digital,6950000,6,0.0213,1246000,Aliado,900,0.2351,Automática,Finalizado
+CR000094,CL00093,2023-10-03,Crédito libre inversión,5400000,9,0.0225,669000,App,900,0.1436,Automática,Finalizado
+CR000095,CL00093,2024-08-04,Microcrédito,4150000,12,0.0325,423000,App,900,0.0908,Automática,Finalizado
+CR000096,CL00093,2025-12-15,Crédito consumo digital,2450000,12,0.023,236000,Aliado,900,0.0506,Automática,Activo
+CR000097,CL00094,2025-07-21,Crédito consumo digital,450000,3,0.0247,157000,Aliado,760,0.1256,Automática,Finalizado
+CR000098,CL00095,2025-10-31,Crédito libre inversión,3300000,24,0.0327,200000,App,877,0.0778,Automática,Mora moderada
+CR000099,CL00095,2023-09-10,Crédito libre inversión,2950000,18,0.0181,194000,App,859,0.0755,Automática,Finalizado
+CR000100,CL00096,2026-01-27,Crédito consumo digital,2950000,3,0.0289,1041000,Web,891,0.2361,Automática,Finalizado
+CR000101,CL00096,2024-12-09,Crédito libre inversión,4850000,6,0.0235,876000,Aliado,900,0.1986,Automática,Finalizado
+CR000102,CL00097,2024-10-01,Microcrédito,3350000,9,0.0413,453000,Call center,724,0.2157,Automática,Mora severa
+CR000103,CL00099,2026-01-16,Avance de nómina,1000000,9,0.0211,123000,App,886,0.0355,Automática,Activo
+CR000104,CL00100,2024-03-01,Avance de nómina,1000000,9,0.0219,124000,App,900,0.0286,Automática,Mora severa
+CR000105,CL00101,2025-09-03,Avance de nómina,1950000,9,0.0267,247000,Web,858,0.0911,Automática,Activo
+CR000106,CL00102,2025-07-27,Avance de nómina,550000,12,0.0262,54000,App,707,0.0482,Automática,Activo
+CR000107,CL00103,2025-04-11,Microcrédito,1850000,12,0.0273,183000,Aliado,853,0.0614,Automática,Mora moderada
+CR000108,CL00104,2025-10-12,Crédito consumo digital,1000000,3,0.0254,350000,Aliado,852,0.1311,Automática,Finalizado
+CR000109,CL00104,2026-03-21,Crédito consumo digital,1500000,6,0.0308,278000,Aliado,885,0.1041,Automática,Activo
+CR000110,CL00105,2025-08-24,Microcrédito,4750000,24,0.0391,309000,App,883,0.1202,Automática,Activo
+CR000111,CL00106,2025-09-25,Microcrédito,3150000,12,0.0385,333000,Web,900,0.0626,Automática,Activo
+CR000112,CL00107,2025-09-10,Microcrédito,1800000,12,0.0272,178000,App,885,0.0693,Automática,Activo
+CR000113,CL00108,2026-01-06,Crédito libre inversión,2400000,24,0.0217,129000,Web,831,0.0502,Automática,Activo
+CR000114,CL00108,2026-02-08,Crédito consumo digital,900000,12,0.035,93000,Web,876,0.0362,Automática,Activo
+CR000115,CL00108,2025-07-13,Microcrédito,3500000,12,0.0371,367000,App,853,0.1428,Automática,Activo
+CR000116,CL00109,2025-01-07,Crédito consumo digital,750000,9,0.0343,98000,App,838,0.0402,Automática,Finalizado
+CR000117,CL00109,2025-05-15,Crédito consumo digital,750000,6,0.0247,136000,Aliado,895,0.0557,Automática,Mora severa
+CR000118,CL00110,2025-11-12,Crédito libre inversión,1400000,9,0.0195,171000,App,746,0.0847,Automática,Activo
+CR000119,CL00111,2024-05-11,Crédito consumo digital,900000,9,0.0356,119000,Web,742,0.0753,Automática,Mora moderada
+CR000120,CL00113,2025-08-04,Microcrédito,2050000,3,0.0379,736000,Call center,850,0.1524,Automática,Finalizado
+CR000121,CL00114,2023-07-09,Crédito libre inversión,7800000,9,0.0181,947000,Aliado,900,0.1821,Automática,Finalizado
+CR000122,CL00115,2025-06-25,Microcrédito,7950000,12,0.0319,808000,Aliado,715,0.2825,Automática,Mora moderada
+CR000123,CL00116,2024-11-29,Crédito libre inversión,1450000,3,0.0243,507000,Aliado,609,0.1928,Manual,Finalizado
+CR000124,CL00117,2025-06-26,Crédito libre inversión,2150000,12,0.0276,213000,App,853,0.0734,Automática,Activo
+CR000125,CL00119,2025-06-12,Crédito libre inversión,2700000,18,0.0267,191000,Call center,889,0.099,Automática,Mora moderada
+CR000126,CL00120,2026-03-10,Crédito libre inversión,4200000,12,0.0339,432000,Aliado,900,0.1681,Automática,Activo
+CR000127,CL00121,2025-09-03,Microcrédito,1250000,6,0.0399,238000,App,657,0.2674,Automática,Mora moderada
+CR000128,CL00123,2025-08-14,Microcrédito,6400000,12,0.0312,648000,Aliado,900,0.1403,Automática,Activo
+CR000129,CL00123,2024-09-27,Crédito consumo digital,1950000,12,0.0255,191000,Aliado,900,0.0413,Automática,Finalizado
+CR000130,CL00125,2025-07-17,Crédito consumo digital,2250000,9,0.0252,283000,App,865,0.0515,Automática,Finalizado
+CR000131,CL00126,2025-08-03,Crédito consumo digital,750000,9,0.0213,92000,Web,855,0.0398,Automática,Mora severa
+CR000132,CL00127,2024-06-22,Crédito consumo digital,1850000,6,0.0255,336000,App,858,0.1057,Automática,Mora severa
+CR000133,CL00127,2025-01-14,Crédito consumo digital,900000,3,0.0309,319000,App,803,0.1003,Automática,Finalizado
+CR000134,CL00128,2024-07-03,Crédito consumo digital,1150000,6,0.0239,208000,App,804,0.0589,Automática,Finalizado
+CR000135,CL00130,2024-07-22,Crédito consumo digital,600000,3,0.0324,213000,App,822,0.1392,Automática,Finalizado
+CR000136,CL00131,2024-12-21,Crédito consumo digital,1150000,24,0.0337,71000,App,840,0.0281,Automática,Mora moderada
+CR000137,CL00133,2024-05-09,Crédito consumo digital,700000,6,0.0362,132000,App,798,0.066,Automática,Mora moderada
+CR000138,CL00134,2025-03-05,Crédito consumo digital,2800000,12,0.0348,289000,App,777,0.1055,Automática,Finalizado
+CR000139,CL00135,2026-01-01,Crédito consumo digital,2250000,12,0.0206,214000,App,900,0.0575,Automática,Activo
+CR000140,CL00137,2026-02-04,Microcrédito,2000000,12,0.0334,205000,App,658,0.1694,Automática,Activo
+CR000141,CL00138,2025-12-31,Crédito consumo digital,1600000,3,0.0322,568000,Web,900,0.1919,Automática,Finalizado
+CR000142,CL00139,2023-09-06,Microcrédito,2250000,24,0.0297,132000,App,723,0.0545,Automática,Mora severa
+CR000143,CL00140,2024-04-21,Microcrédito,3500000,9,0.0434,478000,Aliado,806,0.1382,Automática,Finalizado
+CR000144,CL00140,2024-02-27,Avance de nómina,900000,6,0.0262,164000,Web,861,0.0474,Automática,Finalizado
+CR000145,CL00141,2025-08-27,Microcrédito,2000000,6,0.0406,382000,App,705,0.1882,Automática,Mora severa
+CR000146,CL00142,2025-09-06,Microcrédito,10200000,12,0.0385,1078000,Web,900,0.1939,Automática,Activo
+CR000147,CL00142,2025-10-04,Crédito consumo digital,3300000,18,0.0371,255000,Aliado,900,0.0459,Automática,Activo
+CR000148,CL00144,2026-01-16,Crédito consumo digital,550000,24,0.023,30000,Call center,821,0.0101,Automática,Activo
+CR000149,CL00145,2024-04-20,Crédito consumo digital,1350000,12,0.0291,135000,Web,834,0.0823,Automática,Mora severa
+CR000150,CL00146,2024-07-13,Crédito consumo digital,1150000,12,0.0382,121000,App,829,0.042,Automática,Mora severa
+CR000151,CL00146,2024-02-09,Crédito consumo digital,550000,9,0.0388,74000,App,874,0.0257,Automática,Mora severa
+CR000152,CL00148,2025-04-25,Avance de nómina,1500000,12,0.0237,145000,App,776,0.0665,Automática,Mora moderada
+CR000153,CL00149,2026-01-08,Microcrédito,1850000,3,0.031,655000,Web,831,0.1809,Automática,Finalizado
+CR000154,CL00150,2025-07-16,Microcrédito,3700000,6,0.0448,717000,App,874,0.1707,Automática,Finalizado
+CR000155,CL00151,2026-01-05,Microcrédito,3250000,6,0.0273,595000,Web,678,0.3814,Manual,Activo
+CR000156,CL00152,2026-01-23,Avance de nómina,400000,6,0.0206,72000,App,819,0.0266,Automática,Activo
+CR000157,CL00152,2025-05-08,Crédito consumo digital,1050000,12,0.0233,101000,App,900,0.0373,Automática,Activo
+CR000158,CL00153,2025-10-18,Avance de nómina,250000,9,0.021,31000,Call center,808,0.0156,Automática,Activo
+CR000159,CL00153,2024-04-20,Crédito libre inversión,1500000,9,0.0239,187000,App,800,0.094,Automática,Mora moderada
+CR000160,CL00154,2025-08-09,Avance de nómina,450000,6,0.0291,83000,App,828,0.0324,Automática,Finalizado
+CR000161,CL00154,2024-11-02,Crédito consumo digital,2000000,9,0.0243,250000,Aliado,826,0.0977,Automática,Finalizado
+CR000162,CL00155,2025-11-22,Crédito libre inversión,3700000,12,0.0329,378000,App,750,0.1919,Automática,Activo
+CR000163,CL00155,2025-12-05,Crédito consumo digital,1000000,9,0.0241,125000,App,823,0.0635,Automática,Activo
+CR000164,CL00156,2026-02-15,Crédito consumo digital,2350000,12,0.03,236000,Web,888,0.0626,Automática,Activo
+CR000165,CL00158,2025-06-21,Crédito libre inversión,11500000,6,0.0297,2121000,Web,900,0.3754,Manual,Mora severa
+CR000166,CL00159,2023-11-16,Avance de nómina,400000,3,0.022,139000,App,861,0.0891,Automática,Finalizado
+CR000167,CL00161,2025-11-12,Microcrédito,1400000,3,0.0289,494000,App,828,0.3088,Automática,Finalizado
+CR000168,CL00163,2025-11-04,Crédito libre inversión,4900000,6,0.0294,903000,Call center,834,0.2648,Automática,Finalizado
+CR000169,CL00164,2025-07-13,Microcrédito,1950000,12,0.0364,203000,Aliado,900,0.0781,Automática,Activo
+CR000170,CL00165,2024-06-06,Microcrédito,2200000,3,0.0274,774000,App,899,0.2538,Automática,Finalizado
+CR000171,CL00165,2024-12-01,Crédito consumo digital,1450000,18,0.0389,113000,App,900,0.037,Automática,Activo
+CR000172,CL00166,2026-02-17,Crédito consumo digital,1400000,3,0.0329,498000,App,900,0.1586,Automática,Activo
+CR000173,CL00167,2024-09-01,Microcrédito,1950000,3,0.0351,696000,Aliado,746,0.2559,Automática,Finalizado
+CR000174,CL00167,2023-05-29,Crédito consumo digital,850000,9,0.0291,109000,Aliado,765,0.0401,Automática,Mora moderada
+CR000175,CL00168,2024-04-25,Crédito consumo digital,1400000,6,0.0324,261000,Call center,900,0.0942,Automática,Finalizado
+CR000176,CL00169,2025-01-24,Avance de nómina,550000,6,0.0195,98000,Aliado,860,0.0274,Automática,Finalizado
+CR000177,CL00170,2024-10-14,Crédito libre inversión,3100000,6,0.0198,553000,App,793,0.2333,Automática,Finalizado
+CR000178,CL00172,2025-10-24,Avance de nómina,1650000,6,0.0319,306000,Aliado,873,0.0789,Automática,Finalizado
+CR000179,CL00173,2025-03-25,Crédito consumo digital,1700000,6,0.0298,314000,Call center,896,0.1303,Automática,Finalizado
+CR000180,CL00173,2023-11-06,Microcrédito,1550000,6,0.0361,292000,Web,762,0.1212,Automática,Finalizado
+CR000181,CL00174,2024-09-03,Crédito consumo digital,650000,3,0.0223,226000,App,761,0.1412,Automática,Finalizado
+CR000182,CL00175,2026-01-15,Crédito libre inversión,1350000,3,0.0273,475000,App,758,0.2411,Automática,Activo
+CR000183,CL00176,2025-05-19,Crédito consumo digital,1350000,12,0.0314,137000,App,900,0.0521,Automática,Activo
+CR000184,CL00178,2024-09-05,Avance de nómina,1300000,24,0.0318,78000,App,831,0.0263,Automática,Activo
+CR000185,CL00180,2025-10-26,Crédito libre inversión,2350000,6,0.0182,417000,Web,875,0.1404,Automática,Finalizado
+CR000186,CL00181,2025-11-28,Crédito libre inversión,4400000,12,0.0203,417000,Aliado,900,0.086,Automática,Activo
+CR000187,CL00182,2024-10-29,Crédito consumo digital,7650000,3,0.0271,2689000,Web,787,0.693,Excepción,Mora moderada
+CR000188,CL00183,2025-11-11,Crédito consumo digital,400000,12,0.0246,39000,App,804,0.0639,Automática,Activo
+CR000189,CL00183,2025-03-17,Microcrédito,1050000,12,0.0308,106000,Web,673,0.1738,Automática,Mora moderada
+CR000190,CL00183,2025-05-22,Crédito consumo digital,250000,9,0.0342,33000,App,786,0.0541,Automática,Finalizado
+CR000191,CL00184,2024-05-09,Avance de nómina,650000,12,0.0262,64000,Web,728,0.0322,Automática,Finalizado
+CR000192,CL00185,2026-01-11,Crédito libre inversión,2400000,6,0.0306,444000,App,826,0.1362,Automática,Activo
+CR000193,CL00186,2025-01-26,Crédito consumo digital,1400000,18,0.025,98000,Call center,900,0.0222,Automática,Mora severa
+CR000194,CL00186,2024-05-04,Crédito consumo digital,4550000,6,0.0246,825000,App,836,0.1871,Automática,Finalizado
+CR000195,CL00188,2025-02-25,Crédito consumo digital,1450000,3,0.0291,512000,App,900,0.2107,Automática,Finalizado
+CR000196,CL00189,2024-03-24,Avance de nómina,900000,3,0.0312,319000,App,768,0.1498,Automática,Mora moderada
+CR000197,CL00190,2025-05-28,Crédito libre inversión,2150000,12,0.0269,212000,Call center,854,0.1065,Automática,Activo
+CR000198,CL00190,2025-09-21,Microcrédito,3100000,6,0.0433,598000,Aliado,868,0.3005,Automática,Mora moderada
+CR000199,CL00191,2025-11-06,Crédito libre inversión,3350000,12,0.022,321000,App,849,0.1249,Automática,Activo
+CR000200,CL00192,2024-06-18,Crédito consumo digital,700000,3,0.0331,249000,Web,839,0.0886,Automática,Mora moderada
+CR000201,CL00193,2025-11-07,Crédito libre inversión,3250000,6,0.0284,597000,App,682,0.4489,Manual,Mora severa
+CR000202,CL00194,2025-12-13,Crédito libre inversión,13800000,9,0.0244,1726000,App,900,0.3736,Manual,Activo
+CR000203,CL00194,2025-09-11,Crédito consumo digital,1700000,9,0.0277,216000,App,858,0.0468,Automática,Activo
+CR000204,CL00195,2025-06-07,Microcrédito,6950000,3,0.0341,2477000,App,809,0.7097,Excepción,Finalizado
+CR000205,CL00196,2024-08-04,Crédito consumo digital,1650000,12,0.0225,158000,App,770,0.0656,Automática,Mora moderada
+CR000206,CL00197,2024-02-28,Crédito consumo digital,2150000,12,0.0341,221000,App,900,0.05,Automática,Finalizado
+CR000207,CL00198,2024-03-30,Crédito consumo digital,800000,3,0.0253,280000,App,792,0.1167,Automática,Finalizado
+CR000208,CL00199,2026-03-19,Crédito libre inversión,1650000,12,0.0238,160000,Web,576,0.1231,Manual,Activo
+CR000209,CL00200,2025-11-17,Avance de nómina,250000,18,0.0293,18000,App,759,0.0178,Automática,Activo
+CR000210,CL00200,2025-12-19,Crédito libre inversión,250000,12,0.0216,24000,App,713,0.0238,Automática,Activo
+CR000211,CL00200,2024-11-13,Crédito libre inversión,1000000,6,0.0329,186000,Web,836,0.1842,Automática,Finalizado
+CR000212,CL00202,2025-11-24,Crédito libre inversión,5000000,12,0.0327,511000,Web,831,0.212,Automática,Activo
+CR000213,CL00203,2025-04-12,Crédito consumo digital,1400000,12,0.0234,135000,Aliado,900,0.0458,Automática,Finalizado
+CR000214,CL00204,2025-03-27,Crédito libre inversión,23300000,6,0.0239,4214000,App,900,0.548,Manual,Finalizado
+CR000215,CL00205,2024-08-26,Microcrédito,2900000,9,0.0278,369000,App,822,0.1597,Automática,Finalizado
+CR000216,CL00205,2024-04-11,Crédito consumo digital,550000,6,0.0288,101000,Aliado,900,0.0437,Automática,Finalizado
+CR000217,CL00206,2023-06-10,Crédito consumo digital,950000,6,0.0351,178000,App,888,0.0886,Automática,Finalizado
+CR000218,CL00207,2025-09-23,Crédito libre inversión,3350000,12,0.0244,325000,App,853,0.1236,Automática,Activo
+CR000219,CL00207,2025-03-23,Crédito libre inversión,4500000,6,0.0282,826000,App,868,0.3141,Automática,Finalizado
+CR000220,CL00208,2026-01-03,Crédito libre inversión,3500000,12,0.0274,346000,Web,816,0.1485,Automática,Mora moderada
+CR000221,CL00209,2024-08-23,Microcrédito,5000000,24,0.0346,310000,App,900,0.1319,Automática,Mora moderada
+CR000222,CL00210,2026-01-25,Crédito libre inversión,7300000,3,0.0226,2544000,Web,900,0.4855,Manual,Finalizado
+CR000223,CL00210,2026-01-20,Crédito libre inversión,5800000,3,0.0336,2065000,App,888,0.3941,Manual,Finalizado
+CR000224,CL00211,2025-11-10,Crédito consumo digital,1550000,6,0.0303,286000,Call center,861,0.0897,Automática,Activo
+CR000225,CL00212,2025-08-05,Crédito consumo digital,400000,12,0.0358,42000,App,746,0.0333,Automática,Mora moderada
+CR000226,CL00212,2026-02-16,Crédito libre inversión,1000000,3,0.0274,352000,App,721,0.2794,Automática,Activo
+CR000227,CL00214,2025-08-25,Microcrédito,2250000,6,0.0424,433000,Call center,874,0.1575,Automática,Finalizado
+CR000228,CL00214,2025-03-13,Crédito consumo digital,2350000,6,0.0236,425000,Aliado,860,0.1545,Automática,Mora moderada
+CR000229,CL00215,2025-11-21,Crédito consumo digital,500000,9,0.0222,62000,App,794,0.0405,Automática,Activo
+CR000230,CL00215,2026-02-06,Crédito consumo digital,550000,3,0.0384,198000,Web,780,0.1294,Automática,Activo
+CR000231,CL00216,2025-08-13,Crédito consumo digital,800000,6,0.0374,151000,App,800,0.0786,Automática,Mora moderada
+CR000232,CL00217,2024-02-24,Microcrédito,2650000,12,0.0332,271000,Aliado,844,0.0695,Automática,Mora moderada
+CR000233,CL00217,2024-02-07,Crédito libre inversión,7700000,18,0.0288,554000,Aliado,900,0.1421,Automática,Finalizado
+CR000234,CL00218,2024-10-05,Avance de nómina,250000,3,0.0307,88000,App,783,0.0579,Automática,Finalizado
+CR000235,CL00219,2023-11-06,Crédito libre inversión,5300000,24,0.031,316000,App,842,0.0806,Automática,Mora severa
+CR000236,CL00220,2024-01-20,Crédito consumo digital,1550000,9,0.0244,194000,Aliado,835,0.0956,Automática,Finalizado
+CR000237,CL00221,2025-12-28,Crédito consumo digital,3950000,6,0.0224,711000,App,855,0.1943,Automática,Activo
+CR000238,CL00221,2026-02-02,Crédito consumo digital,1200000,6,0.0357,226000,App,878,0.0617,Automática,Activo
+CR000239,CL00222,2023-11-04,Avance de nómina,650000,9,0.0214,80000,App,768,0.0964,Automática,Mora severa
+CR000240,CL00223,2025-11-19,Crédito consumo digital,1050000,6,0.0347,197000,Call center,726,0.1296,Automática,Activo
+CR000241,CL00224,2024-07-11,Microcrédito,4450000,6,0.0427,856000,Aliado,798,0.265,Automática,Finalizado
+CR000242,CL00224,2025-08-06,Microcrédito,3550000,18,0.0305,259000,App,847,0.0802,Automática,Mora moderada
+CR000243,CL00225,2026-02-01,Crédito consumo digital,2050000,9,0.0367,272000,Aliado,824,0.147,Automática,Activo
+CR000244,CL00226,2025-08-22,Crédito libre inversión,5150000,24,0.0237,284000,Web,900,0.0973,Automática,Activo
+CR000245,CL00226,2025-11-28,Microcrédito,2100000,12,0.0289,210000,Aliado,823,0.0719,Automática,Activo
+CR000246,CL00227,2025-02-04,Crédito consumo digital,2400000,18,0.0202,160000,App,771,0.0842,Automática,Activo
+CR000247,CL00228,2024-09-12,Microcrédito,2250000,12,0.0359,234000,Aliado,862,0.0576,Automática,Finalizado
+CR000248,CL00229,2026-01-25,Crédito libre inversión,5000000,12,0.0179,467000,App,789,0.2684,Automática,Mora moderada
+CR000249,CL00229,2025-09-09,Crédito consumo digital,1500000,12,0.0317,152000,Web,900,0.0874,Automática,Mora moderada
+CR000250,CL00230,2025-08-22,Crédito libre inversión,3900000,12,0.0324,397000,App,781,0.1521,Automática,Activo
+CR000251,CL00230,2026-01-30,Crédito consumo digital,750000,18,0.0285,54000,App,770,0.0207,Automática,Activo
+CR000252,CL00231,2024-11-21,Microcrédito,3050000,12,0.029,305000,App,804,0.1245,Automática,Mora moderada
+CR000253,CL00231,2024-11-26,Avance de nómina,1100000,3,0.0275,387000,Web,856,0.158,Automática,Finalizado
+CR000254,CL00232,2025-01-29,Crédito libre inversión,9200000,6,0.0194,1639000,App,900,0.4017,Manual,Finalizado
+CR000255,CL00232,2024-09-11,Crédito consumo digital,1450000,9,0.0286,185000,App,832,0.0453,Automática,Finalizado
+CR000256,CL00233,2024-01-26,Crédito libre inversión,3450000,9,0.026,435000,App,900,0.0946,Automática,Finalizado
+CR000257,CL00234,2023-09-02,Crédito consumo digital,1550000,9,0.0251,195000,App,706,0.1114,Automática,Finalizado
+CR000258,CL00234,2025-05-24,Crédito libre inversión,1350000,6,0.0253,245000,Aliado,776,0.14,Automática,Finalizado
+CR000259,CL00234,2023-05-15,Crédito libre inversión,3100000,6,0.025,563000,Aliado,682,0.3217,Automática,Mora severa
+CR000260,CL00235,2025-05-10,Microcrédito,2400000,6,0.0316,445000,Web,885,0.1382,Automática,Finalizado
+CR000261,CL00236,2024-10-15,Avance de nómina,650000,6,0.0301,120000,Aliado,873,0.0349,Automática,Finalizado
+CR000262,CL00236,2024-05-24,Crédito consumo digital,1600000,12,0.036,167000,Web,866,0.0485,Automática,Finalizado
+CR000263,CL00237,2024-07-05,Crédito consumo digital,1900000,6,0.0204,340000,Call center,838,0.1429,Automática,Mora severa
+CR000264,CL00238,2025-06-23,Crédito libre inversión,5450000,6,0.019,970000,App,814,0.2608,Automática,Finalizado
+CR000265,CL00239,2025-08-12,Crédito consumo digital,2850000,12,0.0268,281000,App,900,0.0376,Automática,Activo
+CR000266,CL00239,2026-03-20,Crédito libre inversión,14050000,6,0.0289,2584000,App,900,0.3455,Automática,Activo
+CR000267,CL00241,2025-04-11,Crédito consumo digital,3150000,6,0.0367,594000,App,859,0.1619,Automática,Finalizado
+CR000268,CL00241,2024-07-29,Crédito libre inversión,3100000,6,0.019,552000,Aliado,861,0.1504,Automática,Finalizado
+CR000269,CL00243,2025-09-07,Crédito consumo digital,450000,12,0.0224,43000,App,764,0.0341,Automática,Mora moderada
+CR000270,CL00244,2025-01-21,Crédito consumo digital,1500000,6,0.0256,273000,App,861,0.1062,Automática,Mora severa
+CR000271,CL00245,2025-08-26,Avance de nómina,1300000,6,0.0188,231000,App,892,0.0589,Automática,Finalizado
+CR000272,CL00245,2025-08-07,Crédito consumo digital,2750000,6,0.0342,515000,App,799,0.1314,Automática,Finalizado
+CR000273,CL00245,2026-01-15,Crédito libre inversión,3950000,9,0.0256,497000,Web,870,0.1268,Automática,Activo
+CR000274,CL00246,2026-03-27,Crédito libre inversión,1200000,3,0.0242,419000,App,755,0.3521,Manual,Activo
+CR000275,CL00246,2024-12-11,Avance de nómina,250000,3,0.0213,87000,App,795,0.0731,Automática,Finalizado
+CR000276,CL00249,2025-09-20,Crédito libre inversión,4950000,12,0.026,486000,App,831,0.1136,Automática,Activo
+CR000277,CL00249,2025-10-19,Crédito libre inversión,8000000,6,0.0201,1429000,App,897,0.3339,Automática,Finalizado
+CR000278,CL00250,2024-05-27,Microcrédito,4100000,6,0.0304,758000,App,864,0.1909,Automática,Finalizado
+CR000279,CL00252,2025-02-05,Crédito consumo digital,550000,6,0.0305,102000,App,879,0.0368,Automática,Finalizado
+CR000280,CL00252,2025-08-08,Crédito consumo digital,2250000,3,0.0339,801000,App,857,0.2892,Automática,Finalizado
+CR000281,CL00253,2025-06-01,Microcrédito,1750000,3,0.0354,625000,App,851,0.1766,Automática,Finalizado
+CR000282,CL00254,2024-06-17,Crédito libre inversión,2850000,9,0.033,371000,Call center,768,0.132,Automática,Finalizado
+CR000283,CL00255,2025-08-24,Crédito consumo digital,4500000,3,0.0323,1598000,Aliado,900,0.3115,Automática,Finalizado
+CR000284,CL00256,2023-08-14,Crédito libre inversión,2750000,3,0.0251,963000,App,840,0.5016,Manual,Finalizado
+CR000285,CL00258,2025-10-16,Crédito consumo digital,6050000,3,0.0249,2118000,App,900,0.2353,Automática,Finalizado
+CR000286,CL00258,2025-08-26,Crédito libre inversión,15100000,6,0.0329,2814000,App,900,0.3127,Automática,Finalizado
+CR000287,CL00259,2026-03-08,Microcrédito,4500000,24,0.0318,271000,Web,900,0.085,Automática,Activo
+CR000288,CL00261,2025-12-31,Crédito libre inversión,3800000,3,0.026,1333000,Call center,695,0.6409,Excepción,Finalizado
+CR000289,CL00262,2026-01-09,Crédito consumo digital,2200000,6,0.0307,407000,App,882,0.1082,Automática,Activo
+CR000290,CL00263,2025-11-06,Crédito consumo digital,500000,12,0.0331,51000,Aliado,818,0.0345,Automática,Mora moderada
+CR000291,CL00264,2025-09-20,Avance de nómina,300000,6,0.0234,54000,App,717,1.8,Automática,Mora moderada
+CR000292,CL00264,2026-01-01,Crédito consumo digital,850000,9,0.029,109000,Aliado,696,0.1363,Automática,Activo
+CR000293,CL00265,2025-06-05,Crédito libre inversión,900000,9,0.0189,110000,App,789,0.1068,Automática,Mora moderada
+CR000294,CL00265,2024-09-07,Crédito consumo digital,450000,6,0.0297,83000,App,760,0.0806,Automática,Finalizado
+CR000295,CL00266,2026-01-01,Microcrédito,6900000,12,0.0359,718000,App,881,0.136,Automática,Activo
+CR000296,CL00268,2025-12-13,Crédito consumo digital,950000,9,0.0251,119000,App,811,0.0569,Automática,Activo
+CR000297,CL00268,2025-11-18,Microcrédito,1300000,12,0.028,129000,App,900,0.0617,Automática,Activo
+CR000298,CL00271,2024-12-20,Microcrédito,3650000,3,0.042,1320000,Aliado,782,0.6502,Excepción,Finalizado
+CR000299,CL00272,2025-05-29,Crédito consumo digital,1800000,12,0.0207,171000,Aliado,844,0.0834,Automática,Mora moderada
+CR000300,CL00273,2024-05-23,Crédito consumo digital,1150000,12,0.0334,118000,Web,900,0.0393,Automática,Finalizado
+CR000301,CL00274,2025-08-25,Crédito libre inversión,3350000,9,0.0239,418000,App,900,0.1263,Automática,Activo
+CR000302,CL00276,2025-06-13,Crédito libre inversión,800000,6,0.0187,142000,Aliado,604,0.1303,Manual,Mora moderada
+CR000303,CL00277,2025-10-08,Avance de nómina,400000,18,0.0231,27000,App,798,0.0175,Automática,Activo
+CR000304,CL00278,2025-10-08,Crédito libre inversión,11000000,18,0.0274,782000,App,887,0.2327,Automática,Activo
+CR000305,CL00278,2025-08-19,Crédito consumo digital,850000,9,0.0256,107000,Aliado,861,0.0318,Automática,Activo
+CR000306,CL00279,2024-07-24,Crédito libre inversión,8200000,12,0.029,819000,App,900,0.2834,Automática,Mora severa
+CR000307,CL00280,2026-01-19,Crédito libre inversión,19300000,6,0.0242,3494000,Web,900,0.5718,Excepción,Mora moderada
+CR000308,CL00281,2024-02-07,Microcrédito,4450000,6,0.0415,853000,Aliado,885,0.2666,Automática,Mora severa
+CR000309,CL00281,2024-07-08,Avance de nómina,900000,6,0.0249,163000,Call center,900,0.0509,Automática,Finalizado
+CR000310,CL00282,2025-12-21,Crédito consumo digital,1400000,6,0.0352,263000,Call center,863,0.0933,Automática,Activo
+CR000311,CL00283,2025-08-10,Crédito libre inversión,4150000,24,0.0327,252000,App,900,0.0773,Automática,Activo
+CR000312,CL00284,2024-10-26,Crédito consumo digital,1000000,9,0.0323,130000,Aliado,828,0.0546,Automática,Finalizado
+CR000313,CL00285,2023-09-01,Avance de nómina,2750000,9,0.0216,340000,Aliado,900,0.053,Automática,Finalizado
+CR000314,CL00285,2024-10-03,Crédito libre inversión,8350000,12,0.0249,813000,App,900,0.1266,Automática,Finalizado
+CR000315,CL00286,2025-08-15,Microcrédito,3200000,6,0.0265,584000,Aliado,616,0.1915,Manual,Mora moderada
+CR000316,CL00286,2026-02-06,Crédito consumo digital,2150000,12,0.0204,204000,Aliado,670,0.0669,Automática,Activo
+CR000317,CL00287,2025-09-10,Microcrédito,2500000,9,0.0292,320000,App,900,0.1049,Automática,Activo
+CR000318,CL00288,2024-09-30,Crédito libre inversión,2250000,9,0.0206,276000,Web,817,0.1015,Automática,Finalizado
+CR000319,CL00288,2025-06-24,Crédito consumo digital,1050000,24,0.021,56000,Aliado,805,0.0206,Automática,Mora moderada
+CR000320,CL00289,2025-09-05,Crédito consumo digital,650000,9,0.0354,86000,Aliado,367,0.1012,Excepción,Activo
+CR000321,CL00289,2024-09-03,Crédito consumo digital,250000,12,0.0317,25000,App,506,0.0294,Excepción,Finalizado
+CR000322,CL00290,2024-11-20,Crédito consumo digital,800000,3,0.0334,285000,App,761,0.1109,Automática,Finalizado
+CR000323,CL00291,2024-06-30,Crédito consumo digital,3100000,12,0.0296,311000,Web,900,0.0816,Automática,Mora moderada
+CR000324,CL00292,2024-03-16,Microcrédito,4100000,3,0.0265,1440000,Call center,900,0.2222,Automática,Finalizado
+CR000325,CL00292,2024-04-10,Crédito consumo digital,4450000,6,0.0329,829000,App,900,0.1279,Automática,Finalizado
+CR000326,CL00293,2025-07-11,Crédito libre inversión,7000000,9,0.0283,892000,Call center,900,0.1306,Automática,Finalizado
+CR000327,CL00294,2024-07-09,Microcrédito,1700000,12,0.0265,167000,App,889,1.2,Automática,Mora severa
+CR000328,CL00294,2025-04-19,Microcrédito,2650000,6,0.0278,486000,App,754,0.2068,Automática,Finalizado
+CR000329,CL00295,2025-11-15,Microcrédito,1250000,6,0.0447,242000,App,764,0.1192,Automática,Activo
+CR000330,CL00295,2024-05-01,Microcrédito,1650000,12,0.0279,164000,App,778,0.0808,Automática,Finalizado
+CR000331,CL00296,2025-09-27,Microcrédito,5800000,18,0.035,440000,Web,900,0.0837,Automática,Activo
+CR000332,CL00297,2025-08-20,Crédito consumo digital,2250000,24,0.0313,135000,App,885,0.0255,Automática,Activo
+CR000333,CL00298,2023-10-23,Crédito libre inversión,3450000,12,0.0241,335000,App,886,0.0985,Automática,Mora severa
+CR000334,CL00299,2025-11-20,Microcrédito,2500000,18,0.0354,190000,App,687,0.0617,Automática,Activo
+CR000335,CL00300,2026-02-26,Crédito consumo digital,1300000,12,0.0347,134000,App,862,0.0565,Automática,Activo
+CR000336,CL00301,2026-01-04,Crédito consumo digital,1550000,6,0.0359,292000,Web,543,0.0859,Manual,Activo
+CR000337,CL00305,2025-06-15,Crédito libre inversión,3750000,6,0.023,676000,App,804,0.2339,Automática,Finalizado
+CR000338,CL00305,2025-06-26,Crédito consumo digital,3900000,3,0.095,1355000,App,885,0.4689,Manual,Mora moderada
+CR000339,CL00306,2025-03-11,Crédito consumo digital,1000000,3,0.0377,359000,Web,878,0.1397,Automática,Finalizado
+CR000340,CL00307,2025-10-12,Microcrédito,3200000,12,0.0373,336000,App,766,0.1028,Automática,Activo
+CR000341,CL00308,2025-10-06,Crédito consumo digital,450000,24,0.0321,27000,Aliado,776,0.0173,Automática,Mora severa
+CR000342,CL00308,2026-02-15,Microcrédito,850000,6,0.044,164000,App,827,0.1051,Automática,Activo
+CR000343,CL00308,2025-09-11,Crédito consumo digital,500000,3,0.0381,180000,Web,837,0.1154,Automática,Finalizado
+CR000344,CL00309,2026-02-02,Microcrédito,4900000,3,0.0277,1725000,Web,742,0.4345,Manual,Activo
+CR000345,CL00310,2026-03-27,Crédito consumo digital,800000,3,0.0216,278000,Aliado,750,0.1917,Automática,Activo
+CR000346,CL00312,2025-03-04,Crédito libre inversión,3300000,6,0.0338,617000,Aliado,900,0.2742,Automática,Mora moderada
+CR000347,CL00312,2025-09-27,Crédito libre inversión,2300000,12,0.018,215000,App,853,0.0956,Automática,Activo
+CR000348,CL00313,2025-09-06,Crédito consumo digital,800000,6,0.0261,146000,App,886,0.0954,Automática,Finalizado
+CR000349,CL00314,2025-02-25,Crédito libre inversión,6000000,18,0.0329,447000,Web,900,0.1077,Automática,Mora moderada
+CR000350,CL00314,2026-03-07,Crédito libre inversión,6400000,18,0.0318,473000,App,900,0.114,Automática,Activo
+CR000351,CL00317,2025-10-13,Avance de nómina,2850000,6,0.0232,514000,App,900,0.1346,Automática,Mora moderada
+CR000352,CL00318,2023-09-26,Crédito consumo digital,4150000,6,0.0214,744000,App,858,0.1679,Automática,Finalizado
+CR000353,CL00319,2025-06-12,Microcrédito,1200000,24,0.0339,74000,App,832,0.0404,Automática,Activo
+CR000354,CL00319,2025-05-28,Crédito consumo digital,850000,9,0.0249,107000,Web,791,0.0585,Automática,Finalizado
+CR000355,CL00320,2025-10-03,Crédito consumo digital,3300000,9,0.0381,440000,Web,900,0.0743,Automática,Activo
+CR000356,CL00321,2025-10-01,Crédito consumo digital,1550000,6,0.0317,288000,Aliado,900,0.0567,Automática,Finalizado
+CR000357,CL00321,2025-08-05,Crédito libre inversión,5600000,3,0.0276,1971000,App,900,0.388,Manual,Finalizado
+CR000358,CL00322,2025-12-14,Crédito consumo digital,3750000,12,0.0336,385000,Web,767,0.1546,Automática,Activo
+CR000359,CL00322,2026-03-08,Microcrédito,3450000,3,0.0415,1247000,App,792,0.5008,Manual,Activo
+CR000360,CL00323,2024-09-29,Crédito libre inversión,8050000,6,0.0207,1440000,App,750,0.5333,Manual,Finalizado
+CR000361,CL00324,2025-07-01,Microcrédito,2500000,3,0.0358,894000,Aliado,900,0.3679,Manual,Finalizado
+CR000362,CL00325,2024-08-22,Crédito libre inversión,7200000,3,0.0335,2563000,Web,296,1.5821,Excepción,Mora moderada
+CR000363,CL00327,2024-09-30,Crédito libre inversión,1200000,3,0.0274,422000,App,731,0.6594,Excepción,Mora moderada
+CR000364,CL00328,2025-03-12,Microcrédito,2500000,3,0.0382,898000,Call center,860,0.2897,Automática,Finalizado
+CR000365,CL00328,2024-09-19,Crédito consumo digital,1950000,6,0.0266,356000,App,896,0.1148,Automática,Finalizado
+CR000366,CL00328,2025-04-09,Crédito consumo digital,1150000,6,0.0306,213000,App,900,0.0687,Automática,Finalizado
+CR000367,CL00329,2025-12-22,Crédito consumo digital,2050000,9,0.0209,252000,Web,900,0.0708,Automática,Activo
+CR000368,CL00332,2024-05-11,Crédito consumo digital,1750000,6,0.0352,329000,App,767,0.1388,Automática,Finalizado
+CR000369,CL00333,2025-01-25,Avance de nómina,1250000,3,0.0308,443000,Web,781,0.2395,Automática,Mora moderada
+CR000370,CL00334,2024-03-15,Crédito consumo digital,1000000,6,0.0322,186000,App,704,0.0886,Automática,Finalizado
+CR000371,CL00335,2026-02-08,Crédito consumo digital,1400000,3,0.0271,492000,Aliado,900,0.1386,Automática,Activo
+CR000372,CL00336,2024-10-04,Microcrédito,2800000,12,0.0414,301000,Aliado,830,0.1091,Automática,Finalizado
+CR000373,CL00340,2024-01-01,Microcrédito,5450000,9,0.0359,719000,App,900,0.1692,Automática,Finalizado
+CR000374,CL00341,2025-07-26,Microcrédito,950000,9,0.0435,130000,Web,699,0.0818,Automática,Mora severa
+CR000375,CL00341,2026-02-23,Crédito libre inversión,2600000,9,0.0278,330000,Aliado,748,0.2075,Automática,Activo
+CR000376,CL00344,2025-05-11,Crédito consumo digital,1650000,6,0.0255,300000,App,881,0.1887,Automática,Finalizado
+CR000377,CL00344,2025-12-18,Crédito consumo digital,900000,9,0.033,117000,Aliado,838,0.0736,Automática,Activo
+CR000378,CL00345,2025-09-11,Microcrédito,850000,9,0.0445,117000,Call center,585,0.2089,Manual,Mora moderada
+CR000379,CL00345,2026-01-29,Crédito consumo digital,550000,12,0.0202,52000,Aliado,694,0.0929,Automática,Mora moderada
+CR000380,CL00346,2026-02-19,Crédito consumo digital,3200000,12,0.0305,322000,Call center,827,0.1253,Automática,Activo
+CR000381,CL00347,2026-02-12,Microcrédito,2100000,9,0.04,282000,App,805,0.1097,Automática,Mora moderada
+CR000382,CL00348,2025-08-09,Crédito libre inversión,1950000,6,0.0305,361000,App,797,0.1778,Automática,Mora moderada
+CR000383,CL00349,2025-06-17,Crédito consumo digital,1700000,12,0.0306,171000,App,900,0.052,Automática,Mora moderada
+CR000384,CL00351,2024-11-15,Avance de nómina,700000,6,0.0309,130000,Web,778,0.0553,Automática,Mora moderada
+CR000385,CL00352,2025-03-05,Crédito consumo digital,1300000,6,0.0206,233000,App,822,0.1438,Automática,Finalizado
+CR000386,CL00353,2023-06-02,Crédito libre inversión,18800000,6,0.017,3323000,Aliado,900,0.3323,Automática,Finalizado
+CR000387,CL00354,2025-05-30,Crédito consumo digital,1950000,9,0.0309,252000,App,844,0.0881,Automática,Finalizado
+CR000388,CL00355,2025-03-06,Crédito consumo digital,1600000,18,0.0311,117000,Call center,891,0.06,Automática,Activo
+CR000389,CL00356,2025-11-13,Crédito consumo digital,1250000,18,0.0303,91000,Aliado,820,0.0446,Automática,Activo
+CR000390,CL00357,2025-06-25,Crédito libre inversión,950000,3,0.0258,333000,Aliado,719,0.2622,Automática,Finalizado
+CR000391,CL00357,2024-10-17,Microcrédito,1050000,12,0.0269,104000,Web,740,0.0819,Automática,Mora severa
+CR000392,CL00358,2024-02-24,Microcrédito,8050000,9,0.0333,1050000,App,878,0.3088,Automática,Finalizado
+CR000393,CL00359,2026-03-23,Crédito libre inversión,6700000,24,0.0273,384000,App,874,0.1333,Automática,Activo
+CR000394,CL00362,2024-10-25,Avance de nómina,800000,12,0.0244,78000,App,820,0.0438,Automática,Mora severa
+CR000395,CL00363,2024-08-01,Crédito libre inversión,2950000,6,0.0202,527000,Aliado,900,0.1514,Automática,Finalizado
+CR000396,CL00363,2024-02-13,Avance de nómina,1700000,12,0.0214,162000,Aliado,900,0.0466,Automática,Finalizado
+CR000397,CL00364,2026-02-13,Crédito consumo digital,2250000,6,0.0323,418000,App,884,0.1614,Automática,Activo
+CR000398,CL00364,2026-03-10,Crédito consumo digital,700000,9,0.026,88000,Aliado,791,0.034,Automática,Activo
+CR000399,CL00366,2026-01-06,Avance de nómina,1200000,12,0.0214,114000,App,897,0.0432,Automática,Activo
+CR000400,CL00366,2025-10-23,Crédito consumo digital,1750000,18,0.0321,130000,Web,877,0.0492,Automática,Activo
+CR000401,CL00368,2025-11-17,Microcrédito,2300000,12,0.0428,249000,Web,571,0.1215,Manual,Activo
+CR000402,CL00369,2025-12-28,Crédito consumo digital,1250000,12,0.0363,130000,App,795,0.0588,Automática,Activo
+CR000403,CL00369,2025-02-07,Crédito libre inversión,3550000,9,0.0277,451000,Web,816,0.2041,Automática,Mora moderada
+CR000404,CL00369,2024-09-10,Avance de nómina,850000,9,0.0261,107000,Aliado,900,0.0484,Automática,Finalizado
+CR000405,CL00371,2026-02-20,Crédito consumo digital,2300000,9,0.0351,303000,App,695,0.0723,Automática,Activo
+CR000406,CL00372,2024-07-11,Crédito consumo digital,1700000,9,0.033,221000,Aliado,900,0.0505,Automática,Finalizado
+CR000407,CL00374,2024-05-02,Crédito libre inversión,1700000,18,0.0171,110000,Web,566,0.0618,Manual,Finalizado
+CR000408,CL00375,2023-04-11,Microcrédito,3200000,12,0.0251,312000,App,851,0.1345,Automática,Mora severa
+CR000409,CL00375,2023-08-07,Microcrédito,2700000,6,0.0374,511000,App,787,0.2203,Automática,Mora moderada
+CR000410,CL00376,2024-06-26,Avance de nómina,450000,12,0.029,45000,Call center,883,0.015,Automática,Finalizado
+CR000411,CL00376,2025-08-11,Crédito consumo digital,800000,9,0.0319,104000,Aliado,790,0.0346,Automática,Activo
+CR000412,CL00376,2023-05-02,Crédito libre inversión,1750000,3,0.0196,606000,Aliado,860,0.2013,Automática,Finalizado
+CR000413,CL00377,2026-03-15,Crédito consumo digital,1400000,12,0.0246,136000,App,831,0.0469,Automática,Activo
+CR000414,CL00378,2026-01-06,Crédito consumo digital,900000,12,0.0225,86000,Aliado,704,0.0497,Automática,Activo
+CR000415,CL00378,2026-01-18,Crédito libre inversión,1800000,3,0.017,621000,Web,677,0.359,Manual,Mora moderada
+CR000416,CL00379,2024-10-31,Crédito libre inversión,2950000,9,0.0246,369000,Web,873,0.0979,Automática,Mora moderada
+CR000417,CL00380,2025-11-24,Crédito consumo digital,2700000,9,0.0341,353000,App,786,0.1293,Automática,Activo
+CR000418,CL00380,2025-10-23,Crédito libre inversión,3000000,6,0.018,532000,App,867,0.1949,Automática,Finalizado
+CR000419,CL00380,2026-03-10,Crédito consumo digital,2100000,9,0.035,276000,Web,857,0.1011,Automática,Activo
+CR000420,CL00381,2023-11-22,Crédito consumo digital,900000,9,0.0223,111000,Aliado,747,0.073,Automática,Mora severa
+CR000421,CL00382,2025-09-27,Crédito libre inversión,6800000,3,0.0339,2422000,App,900,0.3387,Automática,Finalizado
+CR000422,CL00383,2025-07-18,Microcrédito,3350000,9,0.0324,435000,App,869,0.1154,Automática,Mora moderada
+CR000423,CL00383,2026-01-02,Crédito consumo digital,1350000,9,0.0356,178000,Web,795,0.0472,Automática,Activo
+CR000424,CL00384,2025-05-22,Crédito consumo digital,4150000,18,0.0323,308000,Aliado,877,0.0725,Automática,Activo
+CR000425,CL00384,2026-02-13,Microcrédito,2950000,12,0.0289,294000,App,900,0.0692,Automática,Activo
+CR000426,CL00385,2026-01-13,Crédito consumo digital,1300000,12,0.0269,128000,Aliado,848,0.0604,Automática,Activo
+CR000427,CL00386,2024-03-09,Crédito consumo digital,2100000,6,0.0237,380000,Web,780,0.1467,Automática,Mora severa
+CR000428,CL00386,2025-10-15,Crédito consumo digital,1150000,18,0.036,88000,App,794,0.034,Automática,Mora moderada
+CR000429,CL00387,2025-12-26,Crédito libre inversión,3700000,6,0.028,678000,App,679,0.2638,Automática,Mora moderada
+CR000430,CL00389,2025-08-31,Crédito libre inversión,6650000,24,0.0221,360000,App,877,0.1682,Automática,Activo
+CR000431,CL00390,2024-11-02,Avance de nómina,1050000,6,0.0291,193000,Aliado,900,0.039,Automática,Finalizado
+CR000432,CL00391,2025-07-12,Avance de nómina,350000,6,0.0195,62000,App,797,0.0323,Automática,Finalizado
+CR000433,CL00393,2026-02-22,Avance de nómina,250000,6,0.0241,45000,Aliado,720,0.0616,Automática,Activo
+CR000434,CL00394,2025-11-16,Crédito consumo digital,1950000,12,0.0294,195000,Aliado,727,0.1147,Automática,Activo
+CR000435,CL00394,2025-10-22,Crédito consumo digital,1350000,9,0.0309,174000,Web,769,0.1024,Automática,Activo
+CR000436,CL00395,2025-09-11,Crédito libre inversión,4650000,12,0.0228,447000,App,803,0.1437,Automática,Activo
+CR000437,CL00395,2024-02-22,Crédito consumo digital,1550000,9,0.0352,204000,Web,834,0.0656,Automática,Finalizado
+CR000438,CL00395,2025-03-28,Crédito consumo digital,1950000,9,0.0329,254000,App,842,0.0817,Automática,Finalizado
+CR000439,CL00397,2026-03-09,Microcrédito,1850000,3,0.0287,652000,Aliado,741,0.3622,Manual,Activo
+CR000440,CL00398,2025-07-24,Crédito consumo digital,550000,12,0.0278,55000,App,719,0.1222,Automática,Mora severa
+CR000441,CL00399,2025-01-03,Microcrédito,1100000,6,0.0346,206000,App,798,0.1177,Automática,Mora moderada
+CR000442,CL00399,2025-01-03,Crédito consumo digital,1350000,18,0.0367,104000,App,829,0.0594,Automática,Mora severa
+CR000443,CL00400,2025-07-30,Crédito consumo digital,1850000,12,0.0258,181000,App,900,0.087,Automática,Activo
+CR000444,CL00401,2025-02-12,Crédito libre inversión,6000000,3,0.0312,2126000,App,708,0.9325,Excepción,Finalizado
+CR000445,CL00401,2026-03-27,Crédito consumo digital,1400000,6,0.0232,253000,App,783,0.111,Automática,Activo
+CR000446,CL00402,2025-12-18,Avance de nómina,1400000,9,0.0284,178000,App,827,0.048,Automática,Activo
+CR000447,CL00404,2026-03-02,Microcrédito,2750000,6,0.0315,510000,Web,673,0.2656,Automática,Activo
+CR000448,CL00405,2025-10-03,Crédito libre inversión,1950000,6,0.0243,353000,App,798,0.1374,Automática,Mora moderada
+CR000449,CL00406,2023-07-09,Crédito consumo digital,950000,6,0.12,176000,Call center,854,0.0765,Automática,Finalizado
+CR000450,CL00406,2024-07-27,Crédito consumo digital,3300000,3,0.0344,1177000,App,836,0.5117,Manual,Finalizado
+CR000451,CL00407,2025-05-14,Microcrédito,1500000,12,0.0352,155000,App,783,0.0622,Automática,Activo
+CR000452,CL00408,2025-07-10,Crédito consumo digital,1250000,6,0.0319,232000,App,884,0.072,Automática,Finalizado
+CR000453,CL00410,2024-10-13,Microcrédito,3550000,12,0.0359,369000,Call center,804,0.1157,Automática,Finalizado
+CR000454,CL00411,2025-09-01,Crédito consumo digital,4050000,3,0.0303,1433000,App,900,0.2334,Automática,Finalizado
+CR000455,CL00412,2026-01-15,Crédito consumo digital,800000,6,0.029,147000,App,873,0.0782,Automática,Activo
+CR000456,CL00412,2026-02-12,Microcrédito,1500000,12,0.0279,149000,App,805,0.0793,Automática,Activo
+CR000457,CL00413,2024-05-27,Crédito libre inversión,1250000,3,0.0243,437000,App,719,0.2241,Automática,Finalizado
+CR000458,CL00413,2025-04-17,Crédito consumo digital,1450000,6,0.0238,262000,Aliado,811,0.1344,Automática,Mora moderada
+CR000459,CL00414,2025-07-31,Microcrédito,4800000,12,0.031,485000,App,623,0.1488,Automática,Activo
+CR000460,CL00415,2024-06-24,Crédito consumo digital,900000,24,0.0228,49000,Web,758,0.0206,Automática,Activo
+CR000461,CL00415,2025-08-21,Microcrédito,3400000,6,0.0389,646000,Web,774,0.2714,Automática,Finalizado
+CR000462,CL00416,2025-06-01,Crédito consumo digital,1650000,12,0.0358,172000,Aliado,874,0.0435,Automática,Activo
+CR000463,CL00416,2023-11-20,Avance de nómina,1200000,12,0.0249,117000,App,900,0.0296,Automática,Finalizado
+CR000464,CL00417,2024-05-27,Microcrédito,2500000,6,0.0302,462000,App,900,0.14,Automática,Mora severa
+CR000465,CL00417,2023-10-15,Crédito consumo digital,450000,18,0.0355,34000,Aliado,900,0.0103,Automática,Finalizado
+CR000466,CL00417,2026-01-26,Microcrédito,2050000,6,0.0385,389000,Call center,869,0.1179,Automática,Activo
+CR000467,CL00418,2025-12-31,Crédito libre inversión,1650000,6,0.0269,301000,App,815,0.0865,Automática,Activo
+CR000468,CL00420,2024-06-15,Crédito consumo digital,1550000,12,0.0203,147000,App,789,0.0735,Automática,Finalizado
+CR000469,CL00421,2026-02-16,Microcrédito,1550000,9,0.0335,202000,Web,814,0.0774,Automática,Activo
+CR000470,CL00422,2025-12-12,Crédito consumo digital,3550000,6,0.0223,639000,App,900,0.1551,Automática,Activo
+CR000471,CL00424,2025-09-02,Microcrédito,2500000,9,0.0303,322000,Aliado,776,0.1188,Automática,Activo
+CR000472,CL00424,2025-12-20,Crédito libre inversión,7150000,24,0.0325,434000,App,810,0.1601,Automática,Mora moderada
+CR000473,CL00425,2025-07-24,Avance de nómina,1850000,3,0.0224,644000,App,900,0.1651,Automática,Finalizado
+CR000474,CL00426,2025-10-13,Crédito consumo digital,1800000,9,0.0278,229000,Web,819,0.1487,Automática,Activo
+CR000475,CL00427,2025-09-05,Crédito consumo digital,1800000,9,0.0303,232000,Web,831,0.0875,Automática,Activo
+CR000476,CL00427,2025-11-11,Microcrédito,800000,6,0.0449,155000,Aliado,812,0.0585,Automática,Mora severa
+CR000477,CL00428,2025-04-22,Avance de nómina,750000,3,0.028,264000,App,591,0.1217,Manual,Finalizado
+CR000478,CL00430,2025-09-10,Crédito consumo digital,2650000,12,0.0381,279000,Call center,826,0.0813,Automática,Mora moderada
+CR000479,CL00430,2026-01-18,Avance de nómina,1150000,9,0.0267,145000,App,900,0.0423,Automática,Activo
+CR000480,CL00430,2025-11-03,Avance de nómina,1900000,3,0.0285,670000,Aliado,881,0.1953,Automática,Finalizado
+CR000481,CL00431,2023-12-15,Crédito libre inversión,5200000,3,0.0199,1803000,App,763,0.6703,Excepción,Finalizado
+CR000482,CL00431,2025-09-27,Microcrédito,1250000,18,0.0383,97000,App,732,0.0361,Automática,Activo
+CR000483,CL00431,2025-09-21,Crédito consumo digital,800000,3,0.0201,277000,Aliado,820,0.103,Automática,Finalizado
+CR000484,CL00433,2025-12-24,Crédito consumo digital,1800000,6,0.0323,335000,Web,831,0.0748,Automática,Activo
+CR000485,CL00434,2025-08-06,Crédito libre inversión,2350000,12,0.0309,237000,App,569,0.0905,Manual,Activo
+CR000486,CL00434,2026-03-22,Crédito consumo digital,1650000,6,0.0386,313000,App,658,0.1195,Automática,Activo
+CR000487,CL00436,2025-07-27,Crédito consumo digital,700000,3,0.0281,247000,App,774,0.135,Automática,Finalizado
+CR000488,CL00437,2025-04-28,Crédito consumo digital,850000,6,0.0277,156000,Call center,814,0.0796,Automática,Finalizado
+CR000489,CL00438,2024-08-27,Crédito consumo digital,1500000,6,0.0201,268000,App,900,0.077,Automática,Finalizado
+CR000490,CL00438,2025-07-27,Avance de nómina,1000000,6,0.0238,181000,Aliado,900,0.052,Automática,Finalizado
+CR000491,CL00439,2024-10-27,Crédito consumo digital,2000000,3,0.0299,707000,App,874,0.1817,Automática,Mora moderada
+CR000492,CL00440,2025-07-19,Microcrédito,1600000,18,0.0424,129000,App,766,0.1554,Automática,Mora moderada
+CR000493,CL00441,2025-10-24,Microcrédito,500000,6,0.0285,92000,Aliado,756,0.1484,Automática,Mora severa
+CR000494,CL00441,2026-03-22,Microcrédito,550000,12,0.0326,56000,App,738,0.0903,Automática,Activo
+CR000495,CL00442,2025-10-06,Crédito consumo digital,900000,3,0.0335,320000,App,548,0.1208,Manual,Mora moderada
+CR000496,CL00442,2025-07-04,Crédito consumo digital,1600000,6,0.0229,288000,Aliado,598,0.1087,Manual,Mora moderada
+CR000497,CL00443,2025-11-13,Microcrédito,2550000,12,0.0445,279000,Call center,878,0.0883,Automática,Activo
+CR000498,CL00443,2026-01-10,Crédito libre inversión,2800000,3,0.0289,988000,App,859,0.3127,Automática,Mora moderada
+CR000499,CL00444,2025-09-06,Microcrédito,5000000,9,0.0315,647000,App,898,0.1609,Automática,Activo
+CR000500,CL00445,2026-02-14,Crédito libre inversión,5050000,9,0.0268,639000,App,825,0.2708,Automática,Activo
+CR000501,CL00446,2026-03-02,Avance de nómina,1100000,3,0.095,381000,Web,900,0.1406,Automática,Activo
+CR000502,CL00447,2025-07-02,Crédito libre inversión,9450000,12,0.0199,893000,Aliado,900,0.1436,Automática,Activo
+CR000503,CL00447,2024-10-17,Crédito consumo digital,2700000,3,0.0299,954000,App,900,0.1534,Automática,Finalizado
+CR000504,CL00449,2025-12-16,Crédito consumo digital,500000,12,0.0376,53000,App,628,0.0791,Automática,Mora moderada
+CR000505,CL00449,2025-12-26,Crédito libre inversión,400000,3,0.0214,139000,App,689,0.2075,Automática,Finalizado
+CR000506,CL00450,2026-02-23,Crédito libre inversión,3050000,12,0.0325,311000,Aliado,864,0.1115,Automática,Mora moderada
+CR000507,CL00450,2025-06-12,Crédito consumo digital,1750000,9,0.0212,216000,App,860,0.0774,Automática,Finalizado
+CR000508,CL00451,2024-11-22,Crédito consumo digital,1100000,6,0.0374,208000,Aliado,900,0.1189,Automática,Finalizado
+CR000509,CL00452,2025-11-01,Crédito consumo digital,650000,12,0.0326,66000,App,897,0.0278,Automática,Activo
+CR000510,CL00453,2024-03-01,Crédito consumo digital,1450000,6,0.0219,261000,App,795,0.0853,Automática,Finalizado
+CR000511,CL00453,2023-12-29,Crédito libre inversión,3500000,12,0.0246,340000,Web,861,0.1111,Automática,Finalizado
+CR000512,CL00454,2025-06-24,Avance de nómina,2150000,12,0.0263,211000,App,887,0.0643,Automática,Activo
+CR000513,CL00456,2025-06-16,Crédito libre inversión,8850000,6,0.0245,1604000,Aliado,854,1.2,Manual,Mora severa
+CR000514,CL00458,2026-01-26,Microcrédito,4450000,9,0.0428,606000,Web,900,0.115,Automática,Activo
+CR000515,CL00458,2026-01-28,Crédito consumo digital,3050000,18,0.0202,204000,Web,900,0.0387,Automática,Activo
+CR000516,CL00459,2025-10-15,Avance de nómina,4100000,12,0.0231,395000,Aliado,900,0.0434,Automática,Activo
+CR000517,CL00460,2025-12-01,Avance de nómina,550000,9,0.0218,68000,App,803,0.0289,Automática,Activo
+CR000518,CL00461,2025-08-20,Avance de nómina,1350000,6,0.0215,242000,App,867,0.1407,Automática,Finalizado
+CR000519,CL00462,2025-07-03,Microcrédito,2150000,9,0.0261,271000,App,838,0.0968,Automática,Finalizado
+CR000520,CL00463,2025-05-24,Crédito libre inversión,3350000,18,0.0242,232000,App,839,0.0856,Automática,Activo
+CR000521,CL00464,2025-07-06,Crédito libre inversión,2050000,12,0.03,206000,Aliado,895,0.1205,Automática,Mora moderada
+CR000522,CL00467,2025-05-18,Crédito libre inversión,3150000,9,0.019,384000,App,787,0.2021,Automática,Mora moderada
+CR000523,CL00467,2024-06-30,Microcrédito,3100000,3,0.0357,1108000,App,665,0.5832,Excepción,Mora severa
+CR000524,CL00468,2026-02-12,Crédito libre inversión,4000000,12,0.0273,395000,App,900,0.0766,Automática,Activo
+CR000525,CL00469,2024-05-12,Crédito libre inversión,1100000,12,0.0306,111000,App,648,0.1078,Automática,Mora severa
+CR000526,CL00471,2024-10-30,Crédito consumo digital,450000,3,0.0321,160000,Web,646,0.1758,Automática,Finalizado
+CR000527,CL00472,2025-10-24,Crédito consumo digital,1550000,6,0.0202,277000,Web,787,0.0972,Automática,Activo
+CR000528,CL00473,2026-03-30,Crédito consumo digital,1300000,6,0.0373,246000,App,847,0.0953,Automática,Activo
+CR000529,CL00474,2025-06-16,Microcrédito,2200000,6,0.0254,400000,Web,806,0.2235,Automática,Finalizado
+CR000530,CL00475,2024-02-28,Crédito consumo digital,1050000,6,0.0371,198000,App,756,0.0975,Automática,Finalizado
+CR000531,CL00477,2023-10-28,Crédito libre inversión,2550000,6,0.018,452000,App,900,0.1759,Automática,Finalizado
+CR000532,CL00478,2024-11-06,Crédito libre inversión,2300000,9,0.017,278000,App,820,0.1173,Automática,Mora severa
+CR000533,CL00479,2025-10-03,Crédito consumo digital,3150000,9,0.0281,401000,App,869,0.1315,Automática,Activo
+CR000534,CL00480,2025-09-03,Crédito consumo digital,2550000,6,0.0223,459000,Aliado,897,0.1622,Automática,Finalizado
+CR000535,CL00482,2025-06-03,Microcrédito,2750000,12,0.0385,290000,App,900,0.097,Automática,Activo
+CR000536,CL00482,2025-12-19,Crédito libre inversión,3200000,3,0.0205,1111000,Aliado,815,0.3716,Manual,Finalizado
+CR000537,CL00482,2025-09-15,Crédito consumo digital,2050000,24,0.0373,131000,App,833,0.0438,Automática,Activo
+CR000538,CL00483,2024-12-25,Microcrédito,6300000,3,0.0378,2261000,App,900,0.4172,Manual,Finalizado
+CR000539,CL00485,2025-03-23,Crédito consumo digital,1450000,12,0.0265,143000,App,814,0.0586,Automática,Mora moderada
+CR000540,CL00485,2023-11-28,Crédito consumo digital,950000,9,0.0303,122000,App,845,0.05,Automática,Finalizado
+CR000541,CL00486,2024-10-15,Crédito consumo digital,1400000,9,0.0343,183000,App,900,0.032,Automática,Finalizado
+CR000542,CL00487,2024-12-26,Crédito consumo digital,1450000,3,0.0331,516000,App,900,0.2177,Automática,Finalizado
+CR000543,CL00488,2024-05-16,Microcrédito,650000,12,0.0301,65000,App,712,0.067,Automática,Mora moderada
+CR000544,CL00489,2024-08-27,Microcrédito,5900000,18,0.0362,452000,App,900,0.0873,Automática,Finalizado
+CR000545,CL00489,2024-09-22,Avance de nómina,1700000,12,0.0219,163000,App,900,0.0315,Automática,Finalizado
+CR000546,CL00490,2024-02-05,Crédito libre inversión,5750000,6,0.0258,1047000,Aliado,838,0.3739,Manual,Finalizado
+CR000547,CL00491,2026-02-22,Crédito libre inversión,1650000,6,0.0317,306000,App,804,0.3517,Manual,Activo
+CR000548,CL00492,2025-08-06,Microcrédito,4250000,9,0.0307,548000,App,900,0.1243,Automática,Activo
+CR000549,CL00492,2025-02-25,Crédito consumo digital,3450000,18,0.0373,267000,Web,900,0.0605,Automática,Activo
+CR000550,CL00493,2024-01-05,Crédito consumo digital,25000000,12,0.035,2587000,App,900,0.0216,Automática,Mora moderada
+CR000551,CL00495,2024-08-01,Microcrédito,1900000,12,0.0404,203000,App,873,0.0796,Automática,Finalizado
+CR000552,CL00496,2024-04-09,Crédito libre inversión,5300000,6,0.0261,966000,App,799,0.2825,Automática,Finalizado
+CR000553,CL00497,2024-02-16,Crédito libre inversión,10050000,18,0.0219,681000,Aliado,900,0.1214,Automática,Mora severa
+CR000554,CL00499,2023-08-20,Crédito consumo digital,600000,6,0.0319,111000,App,702,0.0816,Automática,Mora severa
+CR000555,CL00500,2024-01-20,Crédito consumo digital,1800000,6,0.0323,335000,App,812,0.1701,Automática,Mora severa
+CR000556,CL00500,2025-07-17,Crédito consumo digital,450000,3,0.0351,161000,App,898,0.0817,Automática,Finalizado
+CR000557,CL00501,2025-11-18,Crédito consumo digital,350000,3,0.0231,122000,Aliado,751,0.1743,Automática,Finalizado
+CR000558,CL00503,2026-03-22,Crédito consumo digital,2300000,12,0.0249,224000,App,848,0.0707,Automática,Activo
+CR000559,CL00504,2025-01-17,Crédito libre inversión,12800000,6,0.0172,2264000,App,900,0.266,Automática,Finalizado
+CR000560,CL00504,2024-07-30,Crédito consumo digital,3900000,9,0.0373,518000,App,900,0.0609,Automática,Finalizado
+CR000561,CL00505,2025-02-17,Crédito libre inversión,7950000,12,0.0236,769000,Web,900,0.1732,Automática,Mora severa
+CR000562,CL00506,2024-10-05,Crédito consumo digital,2350000,3,0.0272,826000,App,780,0.3153,Automática,Finalizado
+CR000563,CL00507,2025-06-25,Crédito consumo digital,2000000,24,0.0219,108000,App,900,0.033,Automática,Activo
+CR000564,CL00507,2025-07-04,Crédito libre inversión,7400000,9,0.0276,940000,Call center,841,0.2875,Automática,Mora moderada
+CR000565,CL00508,2026-02-27,Crédito consumo digital,1400000,12,0.0371,147000,Aliado,811,0.047,Automática,Activo
+CR000566,CL00508,2025-09-22,Crédito consumo digital,1300000,24,0.0204,69000,App,882,0.022,Automática,Activo
+CR000567,CL00508,2026-03-19,Crédito libre inversión,5450000,3,0.0173,1880000,App,656,0.6006,Excepción,Activo
+CR000568,CL00509,2025-02-08,Crédito consumo digital,2300000,6,0.0292,423000,App,900,0.0733,Automática,Finalizado
+CR000569,CL00510,2026-03-29,Crédito consumo digital,1800000,12,0.0302,181000,App,821,0.0567,Automática,Activo
+CR000570,CL00510,2026-03-12,Crédito consumo digital,1550000,6,0.0356,291000,App,889,0.0912,Automática,Activo
+CR000571,CL00511,2025-01-20,Crédito consumo digital,1650000,9,0.0212,203000,Aliado,807,0.1293,Automática,Mora moderada
+CR000572,CL00511,2026-01-06,Crédito libre inversión,2100000,12,0.0277,208000,Aliado,797,0.1325,Automática,Mora moderada
+CR000573,CL00512,2025-10-27,Crédito consumo digital,5700000,18,0.0378,442000,Web,873,0.1245,Automática,Activo
+CR000574,CL00513,2025-05-19,Avance de nómina,550000,3,0.019,190000,Web,803,0.1218,Automática,Finalizado
+CR000575,CL00514,2025-12-18,Crédito consumo digital,950000,9,0.0274,121000,Call center,892,0.0366,Automática,Activo
+CR000576,CL00515,2025-04-20,Crédito consumo digital,1900000,6,0.0336,355000,Aliado,900,0.1707,Automática,Finalizado
+CR000577,CL00516,2024-06-10,Avance de nómina,2100000,24,0.0231,115000,App,900,0.0256,Automática,Activo
+CR000578,CL00517,2026-01-01,Crédito consumo digital,1950000,3,0.0349,696000,App,798,0.2864,Automática,Finalizado
+CR000579,CL00519,2025-07-14,Crédito libre inversión,3300000,6,0.0273,604000,App,783,0.2822,Automática,Mora severa
+CR000580,CL00520,2026-03-11,Crédito consumo digital,850000,9,0.0224,105000,Web,816,0.0618,Automática,Activo
+CR000581,CL00521,2024-01-23,Crédito consumo digital,3100000,9,0.0209,381000,Web,900,0.0564,Automática,Finalizado
+CR000582,CL00522,2025-01-22,Crédito consumo digital,1050000,18,0.0266,74000,Web,662,0.074,Automática,Activo
+CR000583,CL00524,2025-03-26,Crédito consumo digital,750000,6,0.0358,141000,Web,736,0.0571,Automática,Finalizado
+CR000584,CL00524,2026-03-03,Crédito consumo digital,1000000,3,0.0296,353000,App,762,0.1429,Automática,Activo
+CR000585,CL00525,2025-08-03,Crédito consumo digital,5600000,24,0.0271,320000,App,856,0.0825,Automática,Activo
+CR000586,CL00525,2026-01-17,Avance de nómina,1500000,3,0.0291,529000,App,900,0.1363,Automática,Finalizado
+CR000587,CL00526,2025-06-20,Crédito libre inversión,2350000,6,0.0287,432000,Aliado,873,0.3064,Automática,Finalizado
+CR000588,CL00527,2024-01-18,Crédito consumo digital,900000,6,0.0361,170000,App,750,0.0885,Automática,Finalizado
+CR000589,CL00529,2025-02-22,Crédito libre inversión,2200000,12,0.0195,207000,Aliado,682,0.1362,Automática,Mora moderada
+CR000590,CL00531,2025-07-03,Crédito consumo digital,1650000,12,0.0,166000,App,878,0.0787,Automática,Activo
+CR000591,CL00532,2025-10-22,Crédito consumo digital,1200000,18,0.0367,92000,App,786,0.0492,Automática,Activo
+CR000592,CL00533,2024-06-15,Microcrédito,450000,9,0.0383,60000,Web,716,0.0732,Automática,Mora severa
+CR000593,CL00534,2024-07-07,Crédito consumo digital,950000,6,0.0221,171000,Web,842,0.066,Automática,Finalizado
+CR000594,CL00535,2025-09-06,Microcrédito,1000000,12,0.0282,99000,Aliado,653,0.1414,Automática,Mora severa
+CR000595,CL00537,2023-02-23,Crédito libre inversión,2100000,6,0.0235,379000,App,847,0.1414,Automática,Mora severa
+CR000596,CL00538,2024-02-06,Microcrédito,6650000,12,0.0357,691000,App,900,0.1997,Automática,Mora moderada
+CR000597,CL00539,2025-12-29,Crédito consumo digital,650000,3,0.0249,228000,App,900,0.087,Automática,Finalizado
+CR000598,CL00539,2025-08-19,Crédito libre inversión,6550000,18,0.0255,458000,Web,868,0.1748,Automática,Activo
+CR000599,CL00540,2023-02-06,Avance de nómina,1350000,9,0.0313,174000,Call center,900,0.0537,Automática,Finalizado
+CR000600,CL00540,2025-06-27,Microcrédito,4100000,9,0.0449,564000,Aliado,900,0.1741,Automática,Finalizado
+CR000601,CL00541,2024-04-29,Microcrédito,950000,9,0.0366,126000,Web,886,0.049,Automática,Mora moderada
+CR000602,CL00541,2024-11-18,Microcrédito,1600000,9,0.0334,209000,Aliado,900,0.0813,Automática,Mora severa
+CR000603,CL00542,2025-06-07,Crédito consumo digital,750000,24,0.0344,46000,App,820,0.0196,Automática,Mora moderada
+CR000604,CL00543,2026-01-11,Crédito libre inversión,7500000,6,0.028,1375000,Aliado,890,0.3235,Automática,Activo
+CR000605,CL00544,2025-12-25,Crédito libre inversión,8900000,9,0.0234,1108000,App,803,0.3929,Manual,Activo
+CR000606,CL00544,2026-01-07,Crédito consumo digital,2700000,6,0.0288,496000,Aliado,900,0.1759,Automática,Activo
+CR000607,CL00545,2023-06-27,Crédito libre inversión,3250000,12,0.0207,309000,App,900,0.1618,Automática,Finalizado
+CR000608,CL00546,2025-04-14,Microcrédito,2800000,9,0.0431,382000,App,900,0.0803,Automática,Finalizado
+CR000609,CL00547,2025-08-30,Crédito consumo digital,1400000,9,0.0327,182000,Web,823,0.0719,Automática,Activo
+CR000610,CL00548,2025-10-07,Microcrédito,1550000,12,0.0434,168000,App,817,0.0903,Automática,Activo
+CR000611,CL00548,2025-10-20,Crédito libre inversión,3350000,24,0.0214,180000,Aliado,809,0.0968,Automática,Activo
+CR000612,CL00548,2025-09-29,Crédito libre inversión,4700000,9,0.0338,614000,App,741,0.3301,Automática,Activo
+CR000613,CL00550,2025-08-29,Crédito consumo digital,3150000,18,0.0215,213000,Aliado,897,0.0753,Automática,Activo
+CR000614,CL00550,2025-05-27,Crédito consumo digital,900000,12,0.0286,90000,App,900,0.0318,Automática,Activo
+CR000615,CL00551,2025-09-23,Avance de nómina,650000,9,0.0252,82000,Aliado,792,0.0254,Automática,Activo
+CR000616,CL00552,2025-12-09,Crédito consumo digital,2700000,9,0.0339,353000,Aliado,834,0.1569,Automática,Activo
+CR000617,CL00553,2025-07-07,Crédito consumo digital,650000,6,0.0283,119000,Aliado,859,0.0952,Automática,Finalizado
+CR000618,CL00554,2025-01-15,Microcrédito,4300000,9,0.0371,571000,App,766,0.2222,Automática,Mora severa
+CR000619,CL00554,2023-11-01,Avance de nómina,1150000,12,0.0282,114000,App,900,0.0444,Automática,Mora moderada
+CR000620,CL00555,2026-02-19,Crédito libre inversión,1500000,6,0.023,270000,Call center,766,0.1543,Automática,Activo
+CR000621,CL00555,2025-08-19,Microcrédito,1150000,6,0.025,209000,Call center,809,0.1194,Automática,Mora moderada
+CR000622,CL00556,2025-11-04,Crédito libre inversión,900000,24,0.0234,49000,App,696,0.1021,Automática,Mora moderada
+CR000623,CL00559,2026-02-03,Microcrédito,2900000,18,0.0293,210000,App,866,0.0541,Automática,Activo
+CR000624,CL00561,2025-06-18,Crédito libre inversión,6250000,6,0.0317,1160000,App,858,0.3946,Manual,Finalizado
+CR000625,CL00562,2025-12-09,Crédito consumo digital,5700000,6,0.0352,1070000,App,900,0.2082,Automática,Activo
+CR000626,CL00563,2024-03-02,Crédito consumo digital,1150000,6,0.0276,211000,Aliado,826,0.0821,Automática,Finalizado
+CR000627,CL00564,2026-03-27,Microcrédito,3100000,12,0.0341,319000,App,842,0.1241,Automática,Activo
+CR000628,CL00566,2025-05-26,Microcrédito,1300000,6,0.036,245000,App,677,0.1992,Automática,Mora moderada
+CR000629,CL00568,2025-06-10,Avance de nómina,800000,9,0.0185,97000,App,778,0.0377,Automática,Mora severa
+CR000630,CL00568,2025-07-01,Microcrédito,3500000,9,0.0331,456000,Web,805,0.1774,Automática,Finalizado
+CR000631,CL00569,2025-12-29,Crédito libre inversión,1250000,12,0.0203,118000,App,710,0.1439,Automática,Activo
+CR000632,CL00570,2025-09-09,Crédito libre inversión,3450000,9,0.0228,428000,Aliado,788,0.2028,Automática,Activo
+CR000633,CL00571,2026-02-23,Crédito consumo digital,1200000,6,0.0262,219000,Aliado,776,0.1171,Automática,Activo
+CR000634,CL00573,2025-12-01,Crédito libre inversión,1950000,9,0.0248,244000,App,889,0.0996,Automática,Activo
+CR000635,CL00574,2025-02-23,Avance de nómina,1650000,6,0.0307,305000,Call center,861,0.1406,Automática,Mora moderada
+CR000636,CL00575,2025-11-12,Microcrédito,3300000,9,0.0299,424000,Call center,789,0.1313,Automática,Mora moderada
+CR000637,CL00575,2025-10-19,Crédito consumo digital,3700000,3,0.0223,1289000,App,773,0.3991,Manual,Finalizado
+CR000638,CL00576,2026-01-14,Crédito libre inversión,9450000,12,0.0224,907000,App,900,0.2095,Automática,Activo
+CR000639,CL00578,2026-01-13,Microcrédito,2350000,18,0.0416,188000,App,900,0.1126,Automática,Activo
+CR000640,CL00578,2025-09-05,Microcrédito,1300000,12,0.0337,134000,Aliado,784,0.0802,Automática,Mora severa
+CR000641,CL00579,2024-06-17,Microcrédito,4000000,12,0.0274,396000,Aliado,841,0.0941,Automática,Mora moderada
+CR000642,CL00580,2025-10-09,Crédito libre inversión,3300000,12,0.0286,329000,App,900,0.1201,Automática,Activo
+CR000643,CL00582,2025-11-30,Microcrédito,3400000,6,0.0423,653000,Web,758,0.3473,Automática,Mora severa
+CR000644,CL00582,2025-06-20,Crédito consumo digital,850000,3,0.0309,301000,App,757,0.1601,Automática,Finalizado
+CR000645,CL00583,2025-09-21,Crédito libre inversión,2050000,3,0.0194,710000,App,799,0.3381,Automática,Finalizado
+CR000646,CL00584,2025-04-24,Crédito libre inversión,4500000,3,0.0224,1568000,App,772,0.4519,Manual,Finalizado
+CR000647,CL00585,2023-04-16,Crédito consumo digital,2350000,6,0.0219,422000,Aliado,893,0.1388,Automática,Mora moderada
+CR000648,CL00585,2024-05-31,Crédito libre inversión,5100000,18,0.0258,358000,App,781,0.1178,Automática,Finalizado
+CR000649,CL00585,2024-08-14,Crédito libre inversión,5500000,6,0.0193,979000,App,900,0.322,Automática,Mora moderada
+CR000650,CL00586,2024-05-23,Crédito libre inversión,3100000,9,0.0224,384000,App,843,0.2866,Automática,Mora moderada
+CR000651,CL00587,2023-11-20,Crédito consumo digital,250000,18,0.032,18000,App,793,0.0137,Automática,Finalizado
+CR000652,CL00587,2024-11-28,Microcrédito,650000,6,0.0261,118000,App,791,0.0901,Automática,Finalizado
+CR000653,CL00589,2025-05-19,Microcrédito,2800000,9,0.0382,374000,App,678,0.1716,Automática,Finalizado
+CR000654,CL00590,2025-12-22,Microcrédito,1750000,3,0.0283,617000,App,900,0.242,Automática,Finalizado
+CR000655,CL00591,2024-05-29,Avance de nómina,1000000,12,0.0197,94000,Aliado,678,0.0195,Automática,Mora moderada
+CR000656,CL00593,2025-11-10,Crédito consumo digital,550000,9,0.0216,68000,Web,523,0.0586,Excepción,Activo
+CR000657,CL00593,2025-09-14,Crédito libre inversión,1550000,12,0.0246,151000,Call center,423,0.1302,Excepción,Mora moderada
+CR000658,CL00593,2023-10-13,Microcrédito,550000,9,0.0266,70000,Web,488,0.0603,Excepción,Mora moderada
+CR000659,CL00594,2025-07-09,Crédito consumo digital,1000000,6,0.0251,182000,Aliado,817,0.0839,Automática,Mora severa
+CR000660,CL00594,2025-04-22,Crédito libre inversión,2550000,18,0.0289,184000,Aliado,749,0.0848,Automática,Mora severa
+CR000661,CL00594,2025-07-28,Microcrédito,2550000,9,0.0376,339000,App,822,0.1562,Automática,Finalizado
+CR000662,CL00597,2026-02-26,Crédito consumo digital,1750000,9,0.0283,223000,Aliado,826,0.0835,Automática,Activo
+CR000663,CL00598,2023-08-20,Crédito consumo digital,5650000,3,0.027,1986000,App,889,0.4262,Manual,Finalizado
+CR000664,CL00598,2024-05-15,Crédito libre inversión,17950000,12,0.0338,1845000,Aliado,900,0.3959,Manual,Mora severa
+CR000665,CL00599,2025-03-18,Avance de nómina,350000,18,0.0288,25000,App,877,0.0097,Automática,Activo
+CR000666,CL00600,2026-02-16,Crédito consumo digital,2750000,18,0.0352,209000,Web,900,0.052,Automática,Mora moderada
+CR000667,CL00600,2026-02-02,Crédito consumo digital,4100000,9,0.0243,513000,Aliado,900,0.1276,Automática,Activo
+CR000668,CL00601,2024-04-25,Microcrédito,1150000,18,0.0368,89000,App,862,0.0567,Automática,Finalizado
+CR000669,CL00602,2024-11-28,Crédito libre inversión,4750000,9,0.0232,591000,App,747,0.2173,Automática,Mora severa
+CR000670,CL00603,2026-01-06,Microcrédito,1550000,6,0.0268,283000,Aliado,788,0.1101,Automática,Mora moderada
+CR000671,CL00604,2025-12-26,Crédito consumo digital,1800000,6,0.0255,327000,App,764,0.138,Automática,Activo
+CR000672,CL00604,2026-03-27,Crédito consumo digital,850000,9,0.0317,110000,Aliado,852,0.0464,Automática,Activo
+CR000673,CL00606,2025-09-24,Microcrédito,3500000,12,0.0363,365000,App,796,0.129,Automática,Activo
+CR000674,CL00606,2025-08-23,Crédito consumo digital,650000,9,0.03,83000,Web,853,0.0293,Automática,Mora moderada
+CR000675,CL00607,2025-08-17,Crédito consumo digital,1800000,9,0.0239,225000,App,795,0.0682,Automática,Mora moderada
+CR000676,CL00607,2026-03-21,Crédito consumo digital,3850000,18,0.028,275000,App,862,0.0833,Automática,Activo
+CR000677,CL00609,2026-01-21,Crédito consumo digital,1400000,6,0.0364,264000,Web,776,0.1133,Automática,Activo
+CR000678,CL00611,2025-02-02,Crédito consumo digital,2150000,12,0.0291,215000,Aliado,879,0.1126,Automática,Mora severa
+CR000679,CL00612,2026-01-21,Crédito consumo digital,2050000,12,0.0257,201000,App,499,0.0782,Excepción,Activo
+CR000680,CL00613,2025-04-12,Microcrédito,2650000,6,0.0296,489000,App,812,0.137,Automática,Finalizado
+CR000681,CL00613,2026-03-20,Microcrédito,4650000,12,0.032,473000,App,841,0.1325,Automática,Activo
+CR000682,CL00614,2024-09-17,Microcrédito,7750000,6,0.031,1435000,Aliado,900,0.3225,Automática,Finalizado
+CR000683,CL00614,2025-07-04,Crédito libre inversión,6100000,6,0.0293,1123000,App,900,0.2524,Automática,Finalizado
+CR000684,CL00615,2024-05-05,Crédito libre inversión,2300000,18,0.0197,153000,App,565,0.0777,Manual,Mora severa
+CR000685,CL00616,2025-11-04,Microcrédito,4550000,3,0.0435,1650000,Call center,887,0.5893,Excepción,Finalizado
+CR000686,CL00616,2026-02-14,Crédito consumo digital,1450000,24,0.0257,82000,Web,889,0.0293,Automática,Activo
+CR000687,CL00617,2025-02-03,Crédito consumo digital,400000,12,0.0243,39000,App,731,0.0443,Automática,Mora moderada
+CR000688,CL00618,2026-01-11,Avance de nómina,500000,9,0.0219,62000,Web,740,0.04,Automática,Activo
+CR000689,CL00619,2026-03-24,Crédito consumo digital,1300000,3,0.0291,459000,App,741,0.2441,Automática,Activo
+CR000690,CL00622,2026-03-06,Crédito consumo digital,1450000,6,0.0211,260000,Aliado,876,0.1215,Automática,Activo
+CR000691,CL00622,2025-06-04,Crédito consumo digital,1150000,9,0.0227,143000,App,900,0.0668,Automática,Finalizado
+CR000692,CL00623,2025-12-24,Crédito consumo digital,1300000,12,0.0389,138000,App,800,0.068,Automática,Mora moderada
+CR000693,CL00623,2026-03-24,Crédito libre inversión,3200000,9,0.0227,397000,App,807,0.1956,Automática,Activo
+CR000694,CL00623,2024-09-24,Crédito consumo digital,1400000,6,0.0228,252000,App,799,0.1241,Automática,Finalizado
+CR000695,CL00624,2025-02-23,Avance de nómina,3200000,6,0.0318,594000,Aliado,900,0.0911,Automática,Finalizado
+CR000696,CL00625,2025-11-10,Crédito consumo digital,1750000,12,0.0313,177000,App,839,0.077,Automática,Activo
+CR000697,CL00627,2025-12-19,Crédito consumo digital,1200000,12,0.0295,120000,App,873,0.0358,Automática,Activo
+CR000698,CL00627,2025-10-19,Avance de nómina,2050000,9,0.0202,251000,App,799,0.0749,Automática,Activo
+CR000699,CL00628,2025-04-24,Crédito consumo digital,2000000,9,0.0328,260000,App,900,0.0613,Automática,Finalizado
+CR000700,CL00629,2025-01-01,Crédito consumo digital,1350000,12,0.0216,129000,App,880,0.0382,Automática,Finalizado
+CR000701,CL00630,2025-08-02,Microcrédito,1650000,3,0.0413,596000,App,842,0.1868,Automática,Finalizado
+CR000702,CL00630,2025-06-14,Avance de nómina,700000,6,0.0317,130000,Web,890,0.0408,Automática,Finalizado
+CR000703,CL00632,2026-03-24,Crédito libre inversión,5050000,6,0.0247,916000,App,791,0.3739,Manual,Activo
+CR000704,CL00634,2024-10-19,Crédito consumo digital,1450000,6,0.028,266000,Web,827,0.0836,Automática,Mora moderada
+CR000705,CL00635,2024-02-29,Crédito libre inversión,1500000,6,0.0195,267000,Web,797,0.1236,Automática,Finalizado
+CR000706,CL00635,2025-04-11,,2350000,9,0.0221,291000,Aliado,883,-0.1,Automática,Finalizado
+CR000707,CL00636,2025-02-21,Crédito libre inversión,4300000,3,0.0285,1516000,App,717,0.6451,Excepción,Mora moderada
+CR000708,CL00637,2025-10-04,Crédito libre inversión,3600000,18,0.0291,260000,App,846,0.1083,Automática,Activo
+CR000709,CL00637,2025-10-10,Crédito consumo digital,1450000,6,0.0222,261000,Aliado,842,0.1087,Automática,Finalizado
+CR000710,CL00639,2026-03-23,Crédito consumo digital,2500000,6,0.035,469000,App,703,0.1712,Automática,Activo
+CR000711,CL00640,2023-12-18,Crédito consumo digital,1800000,3,0.033,640000,Web,879,0.2184,Automática,Finalizado
+CR000712,CL00641,2026-03-28,Crédito consumo digital,2050000,6,0.0309,380000,App,797,0.1306,Automática,Activo
+CR000713,CL00642,2025-08-13,Crédito libre inversión,2850000,6,0.0192,507000,App,900,0.1331,Automática,Finalizado
+CR000714,CL00643,2025-08-21,Crédito libre inversión,5150000,9,0.0316,666000,App,792,0.333,Automática,Activo
+CR000715,CL00645,2025-12-09,Crédito consumo digital,700000,6,0.0379,133000,Web,825,0.0686,Automática,Activo
+CR000716,CL00646,2026-01-05,Crédito consumo digital,250000,12,0.0336,26000,App,642,0.0813,Automática,Activo
+CR000717,CL00647,2026-03-20,Crédito consumo digital,1200000,12,0.0325,122000,Aliado,556,0.0478,Manual,Activo
+CR000718,CL00648,2025-10-08,Microcrédito,2900000,6,0.0254,527000,Aliado,875,0.2474,Automática,Mora severa
+CR000719,CL00649,2025-10-02,Crédito libre inversión,1650000,9,0.0195,202000,App,844,0.1202,Automática,Activo
+CR000720,CL00652,2025-05-14,Crédito consumo digital,2000000,12,0.0265,197000,App,704,0.0437,Automática,Activo
+CR000721,CL00653,2023-12-11,Crédito libre inversión,1550000,9,0.0333,202000,App,900,0.108,Automática,Mora moderada
+CR000722,CL00653,2026-01-25,Crédito libre inversión,1900000,12,0.0259,186000,App,798,0.0995,Automática,Activo
+CR000723,CL00654,2025-10-18,Crédito consumo digital,3650000,12,0.0356,379000,Web,888,0.0806,Automática,Activo
+CR000724,CL00656,2024-07-26,Crédito consumo digital,1750000,6,0.0318,325000,Aliado,900,0.0874,Automática,Mora moderada
+CR000725,CL00656,2025-06-11,Crédito consumo digital,3200000,3,0.0268,1124000,Aliado,900,0.3022,Automática,Finalizado
+CR000726,CL00656,2025-12-31,Crédito consumo digital,2050000,12,0.0205,194000,App,891,0.0522,Automática,Activo
+CR000727,CL00657,2024-04-14,Crédito libre inversión,2900000,18,0.0175,189000,Web,841,0.1033,Automática,Mora moderada
+CR000728,CL00658,2023-09-30,Crédito consumo digital,1150000,6,0.0333,215000,Web,860,0.0907,Automática,Finalizado
+CR000729,CL00658,2024-11-28,Crédito libre inversión,2350000,24,0.0201,124000,App,822,0.0523,Automática,Activo
+CR000730,CL00659,2025-05-20,Avance de nómina,250000,6,0.0228,45000,Web,714,0.0517,Automática,Mora moderada
+CR000731,CL00659,2025-07-07,Crédito consumo digital,300000,6,0.0236,54000,App,704,0.0621,Automática,Mora severa
+CR000732,CL00660,2026-01-27,Crédito consumo digital,400000,18,0.034,30000,App,827,0.0194,Automática,Activo
+CR000733,CL00661,2025-08-29,Crédito libre inversión,15050000,6,0.0281,2761000,Aliado,849,0.6218,Excepción,Finalizado
+CR000734,CL00663,2025-08-24,Crédito libre inversión,3600000,9,0.0196,440000,App,793,0.129,Automática,Mora severa
+CR000735,CL00666,2023-09-14,Crédito consumo digital,2850000,6,0.0312,528000,Aliado,900,0.0805,Automática,Finalizado
+CR000736,CL00666,2025-01-26,Crédito consumo digital,3350000,12,0.0305,338000,App,900,0.0515,Automática,Finalizado
+CR000737,CL00666,2025-11-08,Avance de nómina,3950000,9,0.0282,503000,App,900,0.0767,Automática,Activo
+CR000738,CL00667,2025-11-10,Crédito libre inversión,2800000,9,0.0201,343000,App,829,0.1309,Automática,Activo
+CR000739,CL00667,2024-04-10,Crédito libre inversión,5500000,12,0.0212,524000,Web,891,0.2,Automática,Mora severa
+CR000740,CL00668,2025-03-15,Crédito libre inversión,1850000,12,0.0233,178000,Aliado,767,0.0957,Automática,Mora moderada
+CR000741,CL00668,2024-03-25,Crédito consumo digital,800000,6,0.0253,145000,Web,742,0.078,Automática,Finalizado
+CR000742,CL00670,2025-05-19,Crédito consumo digital,1200000,9,0.0363,159000,App,900,0.0292,Automática,Finalizado
+CR000743,CL00671,2025-12-17,Microcrédito,2650000,12,0.0268,261000,App,900,0.0967,Automática,Activo
+CR000744,CL00672,2026-02-11,Avance de nómina,2250000,6,0.0199,402000,App,900,0.0719,Automática,Activo
+CR000745,CL00673,2023-05-15,Crédito consumo digital,2350000,12,0.0266,231000,Web,900,0.0353,Automática,Finalizado
+CR000746,CL00674,2025-10-02,Crédito consumo digital,1450000,9,0.0294,186000,App,807,0.0916,Automática,Activo
+CR000747,CL00674,2024-11-09,Microcrédito,1000000,3,0.0439,363000,Web,737,0.1788,Automática,Finalizado
+CR000748,CL00677,2026-03-20,Microcrédito,4250000,18,0.027,301000,Aliado,829,0.0855,Automática,Activo
+CR000749,CL00677,2025-09-08,Crédito consumo digital,1550000,9,0.036,205000,App,900,0.0582,Automática,Activo
+CR000750,CL00678,2024-08-16,Crédito consumo digital,850000,6,0.0211,152000,App,900,0.071,Automática,Finalizado
+CR000751,CL00679,2025-06-04,Crédito consumo digital,650000,12,0.0348,67000,Web,780,0.0698,Automática,Mora severa
+CR000752,CL00680,2025-09-09,Avance de nómina,1550000,9,0.0251,195000,App,873,0.0714,Automática,Mora moderada
+CR000753,CL00680,2025-09-20,Crédito libre inversión,3200000,9,0.0238,399000,App,791,0.1462,Automática,Mora moderada
+CR000754,CL00682,2026-01-05,Crédito libre inversión,7200000,12,0.0198,680000,Web,794,0.1809,Automática,Activo
+CR000755,CL00683,2025-06-02,Microcrédito,1450000,3,0.0364,519000,App,819,0.2437,Automática,Finalizado
+CR000756,CL00685,2024-11-19,Avance de nómina,1050000,6,0.0205,188000,Web,789,0.1182,Automática,Mora severa
+CR000757,CL00687,2025-09-12,Crédito libre inversión,4950000,3,0.0301,1750000,Web,900,0.5087,Manual,Mora severa
+CR000758,CL00688,2026-02-11,Microcrédito,4450000,9,0.0265,562000,Web,900,0.0914,Automática,Activo
+CR000759,CL00689,2026-01-06,Crédito consumo digital,1800000,6,0.0367,340000,App,900,0.0688,Automática,Activo
+CR000760,CL00690,2025-02-01,Crédito libre inversión,4200000,12,0.0175,391000,App,748,0.1975,Automática,Finalizado
+CR000761,CL00691,2026-02-26,Avance de nómina,1400000,6,0.0318,260000,App,840,0.0823,Automática,Activo
+CR000762,CL00691,2025-09-18,Avance de nómina,400000,3,0.0234,140000,Web,850,0.0443,Automática,Finalizado
+CR000763,CL00691,2025-12-19,Crédito consumo digital,1950000,6,0.0255,355000,Aliado,807,0.1123,Automática,Activo
+CR000764,CL00692,2025-08-16,Crédito consumo digital,4300000,12,0.0369,450000,App,819,0.1475,Automática,Activo
+CR000765,CL00692,2026-03-11,Microcrédito,4550000,12,0.0411,488000,Web,788,0.16,Automática,Activo
+CR000766,CL00693,2025-05-21,Crédito consumo digital,3850000,9,0.0226,477000,App,745,0.1463,Automática,Finalizado
+CR000767,CL00694,2024-01-19,Crédito consumo digital,900000,9,0.038,120000,Aliado,786,0.0656,Automática,Finalizado
+CR000768,CL00695,2024-12-06,Microcrédito,1100000,18,0.0294,80000,Call center,763,0.0497,Automática,Mora moderada
+CR000769,CL00696,2025-02-13,Crédito libre inversión,4800000,12,0.0226,461000,Web,900,0.1368,Automática,Finalizado
+CR000770,CL00696,2024-10-01,Crédito libre inversión,4700000,12,0.029,469000,Aliado,876,0.1392,Automática,Mora moderada
+CR000771,CL00697,2025-01-27,Microcrédito,7850000,12,0.032,798000,App,900,0.1213,Automática,Mora moderada
+CR000772,CL00698,2025-10-13,Crédito consumo digital,650000,12,0.03,65000,Aliado,880,0.0253,Automática,Activo
+CR000773,CL00699,2025-09-23,Microcrédito,5550000,6,0.0423,1067000,Aliado,771,0.4917,Manual,Mora moderada
+CR000774,CL00700,2024-12-16,Avance de nómina,1650000,18,0.0277,118000,Aliado,877,0.0387,Automática,Activo
+CR000775,CL00701,2025-04-25,Crédito consumo digital,2300000,9,0.0276,292000,App,776,0.1136,Automática,Finalizado
+CR000776,CL00702,2024-10-04,Crédito consumo digital,1150000,6,0.0288,211000,Call center,900,0.0776,Automática,Finalizado
+CR000777,CL00703,2026-01-18,Microcrédito,950000,24,0.0405,63000,App,755,0.0229,Automática,Activo
+CR000778,CL00704,2025-06-25,Crédito consumo digital,950000,6,0.0276,174000,App,609,0.0677,Manual,Finalizado
+CR000779,CL00705,2025-01-10,Microcrédito,1800000,6,0.0356,338000,Web,792,0.0983,Automática,Mora moderada
+CR000780,CL00706,2025-05-14,Crédito libre inversión,1500000,3,0.033,533000,Aliado,850,0.3439,Automática,Finalizado
+CR000781,CL00707,2025-11-10,Avance de nómina,1450000,6,0.0254,264000,App,786,0.132,Automática,Activo
+CR000782,CL00708,2025-12-17,Crédito consumo digital,2500000,24,0.0379,160000,Aliado,900,0.0339,Automática,Activo
+CR000783,CL00709,2025-05-03,Crédito consumo digital,1500000,18,0.0228,102000,Aliado,785,0.0298,Automática,Mora moderada
+CR000784,CL00710,2025-09-28,Crédito consumo digital,450000,6,0.0269,82000,Web,722,0.0554,Automática,Finalizado
+CR000785,CL00710,2026-02-21,Crédito consumo digital,1000000,12,0.0253,98000,App,757,0.0662,Automática,Activo
+CR000786,CL00711,2025-04-11,Avance de nómina,500000,3,0.0199,173000,Aliado,890,0.0558,Automática,Finalizado
+CR000787,CL00711,2024-09-28,Microcrédito,3250000,12,0.0432,353000,Aliado,844,0.1139,Automática,Finalizado
+CR000788,CL00711,2025-02-24,Crédito libre inversión,1550000,6,0.0199,277000,App,893,0.0894,Automática,Finalizado
+CR000789,CL00712,2026-03-02,Crédito consumo digital,3550000,18,0.034,267000,App,900,0.0444,Automática,Activo
+CR000790,CL00713,2024-03-26,Microcrédito,7200000,3,0.0305,2548000,Web,893,0.4486,Manual,Finalizado
+CR000791,CL00714,2024-06-13,Crédito consumo digital,4550000,12,0.0319,462000,Aliado,900,0.073,Automática,Finalizado
+CR000792,CL00715,2025-10-04,Crédito libre inversión,800000,24,0.0323,48000,App,843,0.0495,Automática,Activo
+CR000793,CL00715,2026-03-30,Avance de nómina,400000,3,0.031,142000,App,785,0.1464,Automática,Activo
+CR000794,CL00716,2025-07-19,Microcrédito,14850000,12,0.0339,1527000,Web,616,0.2665,Manual,Activo
+CR000795,CL00718,2025-02-05,Crédito libre inversión,5100000,18,0.0185,336000,Web,900,0.1263,Automática,Activo
+CR000796,CL00719,2025-12-05,Crédito libre inversión,3000000,6,0.028,550000,App,900,1.8,Automática,Mora moderada
+CR000797,CL00720,2026-03-17,Crédito libre inversión,6400000,12,0.023,616000,Aliado,888,0.146,Automática,Activo
+CR000798,CL00722,2024-08-13,Microcrédito,2650000,9,0.0418,359000,Call center,703,1.2,Automática,Mora severa
+CR000799,CL00722,2024-12-08,Microcrédito,3150000,9,0.0381,420000,Call center,900,0.1453,Automática,Mora moderada
+CR000800,CL00723,2024-05-10,Microcrédito,2500000,6,0.0317,464000,App,882,0.0989,Automática,Mora severa
+CR000801,CL00724,2025-12-06,Crédito libre inversión,11050000,18,0.0195,734000,Aliado,900,0.1606,Automática,Activo
+CR000802,CL00724,2025-10-20,Crédito consumo digital,3350000,9,0.0312,433000,App,900,0.0947,Automática,Activo
+CR000803,CL00727,2024-07-16,Crédito consumo digital,350000,9,0.0258,44000,App,739,0.0733,Automática,Finalizado
+CR000804,CL00728,2025-12-01,Crédito consumo digital,1800000,6,0.0205,322000,App,704,0.2118,Automática,Mora moderada
+CR000805,CL00729,2025-10-31,Microcrédito,2350000,9,0.0252,295000,App,819,0.118,Automática,Activo
+CR000806,CL00730,2025-04-23,Crédito consumo digital,2600000,12,0.0203,246000,App,545,0.0969,Manual,Finalizado
+CR000807,CL00731,2025-12-24,Crédito consumo digital,1350000,3,0.0224,470000,App,837,0.3013,Automática,Finalizado
+CR000808,CL00732,2026-03-19,Avance de nómina,250000,3,0.0311,89000,App,747,0.1254,Automática,Activo
+CR000809,CL00733,2026-01-09,Crédito libre inversión,3450000,3,0.0288,1217000,App,711,0.5385,Manual,Activo
+CR000810,CL00733,2025-11-19,Crédito libre inversión,3650000,9,0.0178,442000,Aliado,807,0.1956,Automática,Mora moderada
+CR000811,CL00734,2023-09-21,Crédito consumo digital,3100000,6,0.034,580000,Web,900,0.1169,Automática,Finalizado
+CR000812,CL00735,2023-08-10,Avance de nómina,450000,9,0.0225,56000,App,847,0.0311,Automática,Finalizado
+CR000813,CL00736,2025-06-12,Crédito libre inversión,3950000,12,0.0306,398000,App,900,0.0911,Automática,Activo
+CR000814,CL00737,2024-02-25,Microcrédito,1100000,12,0.0319,112000,App,738,0.0762,Automática,Mora severa
+CR000815,CL00737,2025-11-30,Crédito libre inversión,3050000,9,0.0265,385000,Web,687,0.2619,Automática,Activo
+CR000816,CL00738,2023-12-07,Crédito libre inversión,1650000,9,0.0195,202000,App,778,0.1303,Automática,Finalizado
+CR000817,CL00739,2025-07-27,Crédito libre inversión,10700000,12,0.0196,1009000,Web,864,0.2352,Automática,Activo
+CR000818,CL00740,2026-03-10,Crédito libre inversión,10500000,6,0.0292,1933000,App,828,0.5702,Excepción,Activo
+CR000819,CL00742,2025-07-04,Crédito consumo digital,4000000,6,0.0345,749000,App,900,0.1265,Automática,Finalizado
+CR000820,CL00743,2025-06-12,Crédito consumo digital,1150000,9,0.0351,151000,App,845,0.0634,Automática,Finalizado
+CR000821,CL00746,2025-04-30,Crédito libre inversión,5100000,12,0.0205,484000,Web,868,0.1779,Automática,Finalizado
+CR000822,CL00747,2026-03-17,Crédito libre inversión,2550000,9,0.0189,311000,App,795,0.162,Automática,Activo
+CR000823,CL00748,2025-12-27,Crédito consumo digital,650000,6,0.0338,122000,App,818,0.0475,Automática,Mora moderada
+CR000824,CL00748,2024-10-17,Microcrédito,2300000,9,0.0337,301000,App,818,0.1171,Automática,Mora moderada
+CR000825,CL00748,2025-11-03,Microcrédito,1350000,12,0.0324,138000,App,885,0.0537,Automática,Activo
+CR000826,CL00749,2025-11-26,Crédito libre inversión,2050000,6,0.0301,379000,Call center,752,0.184,Automática,Activo
+CR000827,CL00750,2023-11-20,Avance de nómina,1800000,9,0.0189,219000,App,844,0.0852,Automática,Finalizado
+CR000828,CL00751,2025-01-27,Microcrédito,3150000,6,0.0428,606000,App,872,0.1599,Automática,Finalizado
+CR000829,CL00753,2025-08-09,Crédito libre inversión,2250000,24,0.0277,130000,Web,727,0.0774,Automática,Mora moderada
+CR000830,CL00754,2025-10-25,Crédito consumo digital,450000,9,0.0376,60000,Aliado,900,0.0233,Automática,Activo
+CR000831,CL00754,2025-11-26,Crédito consumo digital,2050000,12,0.0217,196000,App,867,0.0763,Automática,Activo
+CR000832,CL00755,2024-07-03,Crédito consumo digital,1200000,12,0.0204,114000,App,808,0.0481,Automática,Finalizado
+CR000833,CL00757,2025-02-27,Avance de nómina,1450000,3,0.0309,514000,App,886,0.1736,Automática,Finalizado
+CR000834,CL00758,2025-05-01,Microcrédito,3900000,3,0.04,1405000,Web,836,0.4145,Manual,Finalizado
+CR000835,CL00759,2024-09-10,Crédito libre inversión,5650000,12,0.0283,562000,Aliado,888,0.188,Automática,Finalizado
+CR000836,CL00761,2025-12-31,,4850000,9,0.0235,604000,App,900,0.1581,Automática,Activo
+CR000837,CL00762,2025-11-26,Crédito consumo digital,2050000,9,0.0258,258000,App,807,0.0711,Automática,Activo
+CR000838,CL00762,2025-08-03,Microcrédito,3050000,12,0.0395,324000,App,840,0.0893,Automática,Mora severa
+CR000839,CL00763,2026-02-18,Crédito consumo digital,1850000,6,0.0209,331000,Web,900,0.0721,Automática,Activo
+CR000840,CL00764,2025-12-05,Crédito consumo digital,2350000,3,0.0346,838000,App,841,0.2951,Automática,Mora moderada
+CR000841,CL00764,2025-10-26,Crédito consumo digital,1000000,6,0.0381,190000,Web,813,0.0669,Automática,Finalizado
+CR000842,CL00765,2025-08-27,Avance de nómina,450000,6,0.0184,80000,App,783,0.0449,Automática,Mora moderada
+CR000843,CL00766,2024-02-20,Crédito consumo digital,750000,3,0.0247,262000,App,894,0.1489,Automática,Finalizado
+CR000844,CL00767,2025-07-11,Crédito libre inversión,1550000,6,0.0211,278000,App,831,0.123,Automática,Mora moderada
+CR000845,CL00767,2025-02-22,Crédito libre inversión,5050000,6,0.0277,925000,Aliado,743,0.4093,Manual,Mora severa
+CR000846,CL00768,2024-01-30,Crédito consumo digital,2100000,9,0.0213,259000,App,900,0.0649,Automática,Finalizado
+CR000847,CL00768,2025-03-09,Crédito consumo digital,2650000,3,0.0283,934000,Web,900,0.2341,Automática,Finalizado
+CR000848,CL00769,2025-04-19,Crédito consumo digital,600000,6,0.0382,114000,Aliado,726,0.0974,Automática,Mora severa
+CR000849,CL00770,2024-07-22,Crédito consumo digital,1250000,12,0.0356,130000,Aliado,788,0.061,Automática,Mora severa
+CR000850,CL00773,2025-11-25,Crédito consumo digital,650000,3,0.0316,231000,Web,868,0.106,Automática,Finalizado
+CR000851,CL00774,2026-01-11,Crédito consumo digital,1350000,18,0.029,97000,App,726,0.0634,Automática,Activo
+CR000852,CL00775,2025-08-29,Crédito consumo digital,800000,6,0.0208,143000,App,701,0.1723,Automática,Mora severa
+CR000853,CL00775,2026-01-13,Crédito consumo digital,500000,9,0.0274,63000,App,655,0.0759,Automática,Activo
+CR000854,CL00776,2025-01-17,Crédito consumo digital,1450000,6,0.0385,275000,App,834,0.118,Automática,Finalizado
+CR000855,CL00777,2024-08-24,Crédito consumo digital,2150000,9,0.031,277000,Web,851,0.0737,Automática,Finalizado
+CR000856,CL00777,2025-01-03,Microcrédito,2200000,24,0.0449,152000,Web,827,0.0404,Automática,Activo
+CR000857,CL00778,2026-03-11,Crédito libre inversión,11700000,6,0.0173,2070000,Call center,838,0.5201,Manual,Activo
+CR000858,CL00780,2025-12-04,Crédito consumo digital,800000,6,0.025,145000,App,816,0.0924,Automática,Activo
+CR000859,CL00781,2025-08-20,Microcrédito,2550000,9,0.0363,337000,App,839,0.1311,Automática,Mora moderada
+CR000860,CL00781,2025-09-22,Crédito libre inversión,2700000,3,0.0178,932000,App,747,0.3626,Manual,Mora moderada
+CR000861,CL00781,2026-01-07,Crédito consumo digital,750000,6,0.0357,141000,Aliado,771,0.0549,Automática,Mora moderada
+CR000862,CL00782,2025-01-06,Microcrédito,1650000,6,0.0364,311000,Aliado,834,0.121,Automática,Mora moderada
+CR000863,CL00785,2026-03-05,Crédito consumo digital,4450000,6,0.0314,825000,Call center,864,0.2687,Automática,Activo
+CR000864,CL00786,2025-11-15,Crédito consumo digital,3550000,6,0.0206,635000,Web,852,0.1835,Automática,Activo
+CR000865,CL00788,2023-06-29,Crédito libre inversión,5750000,12,0.0211,548000,Web,829,0.1734,Automática,Finalizado
+CR000866,CL00788,2024-01-24,Microcrédito,2750000,6,0.0344,515000,Web,900,0.163,Automática,Finalizado
+CR000867,CL00788,2024-11-10,Avance de nómina,650000,9,0.0265,82000,Web,859,0.0259,Automática,Finalizado
+CR000868,CL00789,2025-07-07,Crédito consumo digital,3000000,6,0.0304,555000,App,892,0.2238,Automática,Finalizado
+CR000869,CL00789,2026-01-27,Crédito consumo digital,1200000,12,0.0383,127000,App,889,0.0512,Automática,Activo
+CR000870,CL00789,2025-12-30,Crédito libre inversión,3600000,3,0.0321,1278000,Web,829,0.5153,Manual,Finalizado
+CR000871,CL00790,2024-06-04,Crédito consumo digital,3100000,18,0.0298,225000,Web,819,0.0563,Automática,Mora severa
+CR000872,CL00791,2025-12-16,Crédito consumo digital,400000,6,0.0208,72000,Aliado,780,0.0439,Automática,Activo
+CR000873,CL00792,2025-04-19,Crédito consumo digital,1250000,24,0.0328,76000,App,900,0.0226,Automática,Activo
+CR000874,CL00793,2025-11-05,Crédito consumo digital,2900000,6,0.0352,545000,Aliado,900,0.1359,Automática,Activo
+CR000875,CL00794,2025-06-11,Crédito consumo digital,3900000,9,0.0335,509000,Aliado,898,0.1018,Automática,Mora severa
+CR000876,CL00795,2026-02-05,Crédito consumo digital,2150000,24,0.0228,117000,App,843,0.043,Automática,Activo
+CR000877,CL00796,2025-07-07,Crédito consumo digital,1100000,6,0.0321,205000,App,756,0.0798,Automática,Finalizado
+CR000878,CL00798,2025-02-23,Crédito consumo digital,1300000,18,0.0213,88000,App,900,0.0553,Automática,Activo
+CR000879,CL00799,2025-04-17,Crédito consumo digital,750000,6,0.0373,142000,App,876,0.0714,Automática,Finalizado
+CR000880,CL00799,2025-08-18,Crédito consumo digital,1300000,9,0.0216,161000,App,776,0.0809,Automática,Activo
+CR000881,CL00801,2025-03-10,Crédito consumo digital,250000,9,0.0388,33000,App,767,0.0413,Automática,Finalizado
+CR000882,CL00801,2025-10-11,Crédito consumo digital,900000,3,0.0383,323000,App,732,0.4037,Manual,Finalizado
+CR000883,CL00801,2023-09-10,Crédito libre inversión,1650000,6,0.0295,304000,Aliado,744,0.38,Manual,Mora moderada
+CR000884,CL00802,2025-07-13,Microcrédito,2100000,9,0.0274,266000,Call center,821,0.1209,Automática,Mora severa
+CR000885,CL00802,2023-12-15,Microcrédito,1450000,3,0.0441,527000,Web,748,0.2395,Automática,Finalizado
+CR000886,CL00803,2025-06-20,Crédito libre inversión,850000,3,0.0316,301000,Web,684,0.2467,Automática,Finalizado
+CR000887,CL00804,2026-03-24,Crédito consumo digital,2400000,3,0.0267,843000,Call center,631,0.2097,Automática,Activo
+CR000888,CL00806,2025-03-21,Crédito consumo digital,1250000,9,0.0226,155000,Aliado,900,0.0518,Automática,Finalizado
+CR000889,CL00806,2025-10-20,Avance de nómina,1400000,24,0.0258,79000,Call center,900,0.0264,Automática,Activo
+CR000890,CL00807,2024-12-30,Avance de nómina,2250000,18,0.0237,155000,Web,900,0.0341,Automática,Activo
+CR000891,CL00807,2026-03-24,Crédito libre inversión,8650000,6,0.0231,1561000,Web,856,0.3438,Automática,Activo
+CR000892,CL00808,2023-10-28,Microcrédito,3000000,6,0.0334,560000,App,822,0.1497,Automática,Finalizado
+CR000893,CL00808,2023-08-24,Crédito consumo digital,3750000,3,0.0256,1315000,App,858,0.3516,Manual,Mora severa
+CR000894,CL00809,2023-12-22,Avance de nómina,2200000,6,0.0206,394000,Aliado,900,0.0966,Automática,Finalizado
+CR000895,CL00809,2023-12-26,Crédito consumo digital,1650000,6,0.0223,297000,Web,854,0.0728,Automática,Finalizado
+CR000896,CL00811,2025-07-09,Crédito libre inversión,10600000,12,0.0214,1011000,Web,862,0.2824,Automática,Mora moderada
+CR000897,CL00812,2025-08-03,Crédito libre inversión,600000,24,0.0337,37000,App,795,0.0285,Automática,Mora moderada
+CR000898,CL00813,2025-10-13,Crédito consumo digital,2250000,6,0.0223,405000,App,900,0.1015,Automática,Mora moderada
+CR000899,CL00814,2025-05-31,Crédito consumo digital,1550000,9,0.0292,198000,App,820,0.1048,Automática,Mora moderada
+CR000900,CL00815,2024-11-06,Crédito consumo digital,2150000,6,0.0236,389000,App,897,0.1063,Automática,Finalizado
+CR000901,CL00816,2026-02-12,Crédito consumo digital,700000,6,0.0279,128000,App,877,0.0601,Automática,Activo
+CR000902,CL00817,2025-09-11,Crédito consumo digital,1100000,18,0.0258,77000,App,852,0.0399,Automática,Activo
+CR000903,CL00818,2023-10-03,Crédito libre inversión,2050000,12,0.0226,197000,App,803,0.0929,Automática,Mora moderada
+CR000904,CL00819,2025-10-25,Microcrédito,2200000,9,0.0334,287000,Aliado,807,0.1134,Automática,Activo
+CR000905,CL00822,2025-07-27,Crédito libre inversión,2200000,6,0.0264,401000,App,900,0.156,Automática,Finalizado
+CR000906,CL00822,2025-01-29,Crédito consumo digital,1400000,3,0.0234,489000,App,839,0.1903,Automática,Finalizado
+CR000907,CL00823,2026-03-03,Crédito libre inversión,3050000,6,0.031,565000,App,768,0.3717,Manual,Activo
+CR000908,CL00824,2026-02-28,Crédito consumo digital,300000,6,0.025,54000,Web,682,0.09,Automática,Activo
+CR000909,CL00825,2025-09-01,Crédito libre inversión,1600000,6,0.0183,284000,Web,816,0.115,Automática,Mora moderada
+CR000910,CL00826,2026-03-10,Crédito libre inversión,4800000,9,0.0188,585000,Web,839,0.3112,Automática,Activo
+CR000911,CL00827,2026-02-08,Crédito consumo digital,4100000,12,0.0332,420000,App,900,0.1029,Automática,Activo
+CR000912,CL00828,2024-11-13,Crédito consumo digital,1500000,6,0.12,284000,App,896,0.1048,Automática,Mora severa
+CR000913,CL00829,2025-09-19,Avance de nómina,250000,9,0.0256,31000,App,780,0.0193,Automática,Activo
+CR000914,CL00829,2024-06-06,Crédito libre inversión,3000000,6,0.018,532000,Web,619,0.3304,Manual,Mora moderada
+CR000915,CL00829,2025-02-17,Crédito consumo digital,1200000,3,0.0328,427000,App,740,0.2652,Automática,Finalizado
+CR000916,CL00830,2026-02-01,Crédito consumo digital,750000,9,0.03,96000,Web,780,0.05,Automática,Activo
+CR000917,CL00831,2025-07-02,Crédito libre inversión,6000000,9,0.0273,761000,Aliado,898,0.187,Automática,Finalizado
+CR000918,CL00832,2024-10-19,Crédito consumo digital,3500000,6,0.0211,627000,Web,810,0.2076,Automática,Finalizado
+CR000919,CL00834,2026-03-04,Crédito consumo digital,1250000,24,0.0259,71000,App,781,0.0284,Automática,Activo
+CR000920,CL00834,2026-02-08,Crédito consumo digital,1650000,12,0.028,164000,Aliado,835,1.8,Automática,Activo
+CR000921,CL00835,2025-07-20,Crédito libre inversión,2150000,18,0.0263,151000,Aliado,890,0.0637,Automática,Mora moderada
+CR000922,CL00835,2025-07-08,Microcrédito,1900000,9,0.0282,242000,Aliado,885,0.1021,Automática,Finalizado
+CR000923,CL00837,2025-03-07,Microcrédito,2400000,6,0.0427,462000,Web,889,0.211,Automática,Mora moderada
+CR000924,CL00838,2024-07-15,Crédito consumo digital,1400000,6,0.0205,250000,Call center,780,0.098,Automática,Mora moderada
+CR000925,CL00839,2025-01-28,Crédito libre inversión,3450000,6,0.0231,622000,Web,765,0.2603,Automática,Finalizado
+CR000926,CL00840,2025-10-08,Avance de nómina,700000,18,0.0257,49000,App,900,0.0196,Automática,Activo
+CR000927,CL00841,2025-10-06,Crédito consumo digital,2550000,6,0.0385,484000,App,900,0.072,Automática,Finalizado
+CR000928,CL00842,2025-05-13,Crédito consumo digital,800000,12,0.0223,77000,App,881,0.03,Automática,Activo
+CR000929,CL00842,2025-08-09,Crédito consumo digital,1400000,9,0.0311,181000,Call center,833,0.0704,Automática,Activo
+CR000930,CL00843,2025-10-20,Crédito consumo digital,1150000,3,0.0365,412000,Aliado,715,0.1981,Automática,Finalizado
+CR000931,CL00844,2026-03-02,Microcrédito,2350000,6,0.0293,433000,App,844,0.1933,Automática,Activo
+CR000932,CL00846,2026-02-03,Crédito consumo digital,800000,3,0.0366,286000,App,854,0.1799,Automática,Activo
+CR000933,CL00847,2025-08-11,Crédito libre inversión,3050000,24,0.032,184000,App,791,0.0716,Automática,Mora severa
+CR000934,CL00848,2025-06-18,Microcrédito,2150000,12,0.029,215000,Call center,874,0.0837,Automática,Mora moderada
+CR000935,CL00848,2025-06-30,Avance de nómina,450000,3,0.0296,159000,App,851,0.0619,Automática,Finalizado
+CR000936,CL00849,2026-01-29,Crédito libre inversión,1200000,3,0.0333,427000,Aliado,835,0.1959,Automática,Finalizado
+CR000937,CL00850,2025-05-12,Crédito consumo digital,3450000,6,0.0207,617000,Aliado,804,0.2036,Automática,Finalizado
+CR000938,CL00851,2025-06-02,Microcrédito,1550000,6,0.0338,290000,App,826,0.1062,Automática,Mora moderada
+CR000939,CL00852,2025-12-15,Crédito libre inversión,14550000,3,0.0182,5028000,App,900,0.6573,Excepción,Finalizado
+CR000940,CL00853,2025-07-12,Crédito consumo digital,750000,6,0.0207,134000,App,824,0.0709,Automática,Finalizado
+CR000941,CL00854,2025-10-26,Crédito consumo digital,400000,12,0.0208,38000,Call center,834,0.0215,Automática,Activo
+CR000942,CL00855,2025-12-01,,1050000,9,0.0274,133000,Web,900,0.0518,Automática,Activo
+CR000943,CL00857,2025-12-18,Microcrédito,1500000,6,0.03,277000,App,716,0.172,Automática,Mora moderada
+CR000944,CL00859,2025-02-06,Avance de nómina,3750000,6,0.0303,693000,Aliado,900,0.1006,Automática,Finalizado
+CR000945,CL00861,2024-02-16,Crédito consumo digital,1250000,24,0.0217,67000,Web,578,0.0295,Manual,Mora moderada
+CR000946,CL00862,2025-12-02,Microcrédito,1700000,6,0.0385,323000,Web,900,0.0907,Automática,Activo
+CR000947,CL00863,2024-06-27,Crédito consumo digital,1750000,12,0.0308,177000,App,861,0.0734,Automática,Finalizado
+CR000948,CL00864,2026-03-21,Crédito consumo digital,1650000,6,0.0222,297000,Web,831,0.0762,Automática,Activo
+CR000949,CL00865,2026-03-31,Crédito consumo digital,500000,9,0.0384,67000,App,660,0.0482,Automática,Activo
+CR000950,CL00866,2025-05-01,Crédito consumo digital,1400000,9,0.024,175000,App,873,0.0681,Automática,Finalizado
+CR000951,CL00868,2026-03-03,Microcrédito,1500000,9,0.0427,204000,Aliado,861,0.0662,Automática,Activo
+CR000952,CL00869,2025-08-10,Crédito consumo digital,2400000,18,0.0388,188000,App,805,0.1279,Automática,Mora moderada
+CR000953,CL00870,2025-01-12,Microcrédito,2600000,9,0.0418,353000,App,847,0.1374,Automática,Mora moderada
+CR000954,CL00870,2024-04-24,Microcrédito,1700000,6,0.045,330000,App,788,0.1284,Automática,Finalizado
+CR000955,CL00871,2023-09-19,Crédito libre inversión,3600000,18,0.0325,267000,App,822,0.1658,Automática,Finalizado
+CR000956,CL00873,2025-12-14,Crédito consumo digital,2600000,6,0.0313,482000,App,845,0.1535,Automática,Mora severa
+CR000957,CL00874,2025-05-22,Crédito consumo digital,3700000,6,0.0268,676000,Web,900,0.1653,Automática,Finalizado
+CR000958,CL00876,2025-09-04,Avance de nómina,1000000,12,0.0282,99000,App,887,0.0304,Automática,Activo
+CR000959,CL00876,2025-10-28,Microcrédito,3950000,18,0.0349,299000,App,876,0.0917,Automática,Activo
+CR000960,CL00877,2025-11-13,Crédito consumo digital,950000,6,0.0234,172000,App,748,0.1623,Automática,Mora moderada
+CR000961,CL00877,2025-07-10,Crédito consumo digital,650000,12,0.0331,67000,App,811,0.0632,Automática,Activo
+CR000962,CL00878,2025-05-07,Crédito consumo digital,400000,6,0.0285,73000,App,819,0.0408,Automática,Finalizado
+CR000963,CL00879,2025-03-20,Microcrédito,2350000,6,0.035,441000,App,893,0.1267,Automática,Finalizado
+CR000964,CL00879,2025-04-19,Crédito consumo digital,1800000,18,0.0385,140000,App,900,0.0402,Automática,Activo
+CR000965,CL00881,2025-10-16,Microcrédito,950000,9,0.0431,130000,App,810,0.0605,Automática,Activo
+CR000966,CL00882,2024-12-23,Crédito consumo digital,2500000,6,0.0329,466000,App,900,0.1043,Automática,Finalizado
+CR000967,CL00883,2025-03-30,Crédito consumo digital,400000,24,0.0267,23000,App,722,0.0365,Automática,Mora severa
+CR000968,CL00884,2025-08-20,Microcrédito,10450000,12,0.0259,1025000,Aliado,867,0.1795,Automática,Activo
+CR000969,CL00886,2025-12-17,Crédito consumo digital,1100000,6,0.0297,203000,App,794,0.1586,Automática,Activo
+CR000970,CL00887,2026-01-27,Crédito consumo digital,950000,12,0.0375,100000,App,817,0.0439,Automática,Activo
+CR000971,CL00889,2025-01-02,Crédito consumo digital,3150000,12,0.0231,304000,App,785,0.1126,Automática,Mora severa
+CR000972,CL00890,2025-02-10,Crédito consumo digital,1450000,12,0.0302,146000,Web,548,0.0664,Manual,Finalizado
+CR000973,CL00890,2025-12-16,Crédito consumo digital,1250000,9,0.0246,157000,App,528,0.0714,Excepción,Activo
+CR000974,CL00891,2024-08-22,Avance de nómina,1000000,6,0.0233,181000,Call center,831,0.0675,Automática,Mora moderada
+CR000975,CL00891,2024-12-24,Crédito consumo digital,800000,12,0.0322,81000,App,830,0.0302,Automática,Finalizado
+CR000976,CL00892,2026-03-31,Crédito consumo digital,1100000,6,0.0275,201000,App,856,0.0782,Automática,Activo
+CR000977,CL00892,2025-08-31,Crédito libre inversión,5150000,6,0.0202,920000,App,767,0.358,Manual,Mora moderada
+CR000978,CL00893,2025-10-05,Crédito consumo digital,2600000,6,0.035,488000,Aliado,622,0.2346,Automática,Finalizado
+CR000979,CL00893,2026-03-07,Crédito libre inversión,1250000,12,0.0244,121000,App,599,0.0582,Manual,Activo
+CR000980,CL00895,2025-07-28,Crédito libre inversión,3850000,9,0.0242,481000,App,900,0.0962,Automática,Finalizado
+CR000981,CL00896,2025-06-29,Crédito consumo digital,900000,12,0.0354,93000,Web,860,0.0363,Automática,Mora moderada
+CR000982,CL00897,2025-09-13,Microcrédito,1800000,12,0.0392,191000,App,744,0.1308,Automática,Mora severa
+CR000983,CL00898,2025-09-04,Crédito consumo digital,1800000,12,0.027,178000,App,831,0.1369,Automática,Activo
+CR000984,CL00900,2025-04-26,Microcrédito,5800000,6,0.0307,1073000,Call center,529,0.3989,Excepción,Finalizado
+CR000985,CL00900,2024-06-23,Microcrédito,2800000,12,0.0251,273000,App,617,0.1015,Manual,Finalizado
+CR000986,CL00900,2025-04-09,Crédito consumo digital,700000,9,0.0226,87000,App,634,0.0323,Automática,Finalizado
+CR000987,CL00904,2025-06-21,Microcrédito,650000,6,0.0311,120000,Aliado,801,0.0774,Automática,Mora moderada
+CR000988,CL00905,2025-07-17,Crédito consumo digital,650000,18,0.0305,47000,Web,815,0.0214,Automática,Mora severa
+CR000989,CL00906,2024-11-08,Crédito consumo digital,3150000,12,0.0208,299000,Web,889,0.0845,Automática,Mora moderada
+CR000990,CL00907,2025-05-22,Microcrédito,2800000,6,0.0448,543000,App,793,0.1655,Automática,Mora moderada
+CR000991,CL00908,2025-09-09,Crédito consumo digital,1250000,9,0.0243,156000,Aliado,856,0.0681,Automática,Activo
+CR000992,CL00908,2026-01-26,Crédito consumo digital,1200000,6,0.0292,221000,App,845,0.0965,Automática,Activo
+CR000993,CL00909,2023-11-28,Crédito consumo digital,1250000,12,0.0214,119000,Web,753,0.0721,Automática,Finalizado
+CR000994,CL00909,2026-01-26,Microcrédito,1850000,6,0.0323,344000,App,799,0.2085,Automática,Activo
+CR000995,CL00911,2025-05-21,Crédito consumo digital,1800000,12,0.0382,190000,Aliado,850,0.0696,Automática,Activo
+CR000996,CL00912,2025-07-09,Microcrédito,1750000,6,0.0266,319000,App,779,0.106,Automática,Finalizado
+CR000997,CL00912,2025-09-10,Microcrédito,2900000,3,0.0362,1037000,App,813,0.3445,Automática,Finalizado
+CR000998,CL00913,2025-09-22,Crédito consumo digital,550000,9,0.0335,72000,Aliado,785,0.059,Automática,Mora moderada
+CR000999,CL00914,2026-03-26,Crédito libre inversión,1650000,12,0.0277,163000,App,821,0.0634,Automática,Activo
+CR001000,CL00915,2025-08-03,Microcrédito,1400000,6,0.0285,257000,App,768,0.1272,Automática,Finalizado
+CR001001,CL00916,2025-02-19,Crédito consumo digital,1500000,24,0.0202,80000,Web,882,0.0233,Automática,Activo
+CR001002,CL00917,2026-01-03,Crédito consumo digital,1100000,24,0.0385,71000,Aliado,900,0.0216,Automática,Activo
+CR001003,CL00917,2025-08-23,Crédito consumo digital,1500000,6,0.0278,275000,Aliado,900,0.0838,Automática,Mora moderada
+CR001004,CL00918,2024-10-15,Avance de nómina,1150000,3,0.03,407000,Web,900,0.0604,Automática,Finalizado
+CR001005,CL00919,2024-12-12,Microcrédito,1150000,6,0.0365,217000,App,799,0.0844,Automática,Finalizado
+CR001006,CL00919,2025-10-07,Avance de nómina,950000,18,0.0296,69000,App,816,0.0268,Automática,Mora severa
+CR001007,CL00920,2024-08-24,Crédito consumo digital,1500000,9,0.0365,199000,Web,900,0.057,Automática,Finalizado
+CR001008,CL00921,2026-02-02,Crédito consumo digital,1300000,9,0.0302,167000,App,768,0.0746,Automática,Activo
+CR001009,CL00921,2025-04-12,Crédito consumo digital,1650000,9,0.033,215000,Call center,885,0.096,Automática,Finalizado
+CR001010,CL00923,2024-02-03,Crédito libre inversión,4250000,6,0.0307,786000,Aliado,772,0.2265,Automática,Finalizado
+CR001011,CL00925,2025-11-20,Crédito consumo digital,800000,9,0.025,100000,App,900,0.0356,Automática,Activo
+CR001012,CL00927,2026-03-06,Crédito libre inversión,5650000,12,0.0184,529000,Aliado,794,0.2727,Automática,Activo
+CR001013,CL00928,2024-02-10,Crédito consumo digital,600000,12,0.0322,61000,App,712,0.0526,Automática,Mora moderada
+CR001014,CL00929,2026-01-27,Crédito libre inversión,1500000,9,0.0289,192000,Web,723,0.1433,Automática,Activo
+CR001015,CL00930,2025-10-20,Crédito consumo digital,1600000,12,0.035,166000,Aliado,801,0.1129,Automática,Activo
+CR001016,CL00931,2025-10-09,Microcrédito,1400000,6,0.0346,262000,App,771,0.1489,Automática,Mora moderada
+CR001017,CL00932,2026-03-16,Crédito libre inversión,3950000,12,0.0237,382000,Web,882,0.142,Automática,Activo
+CR001018,CL00933,2025-02-01,Crédito libre inversión,1650000,12,0.0265,162000,Aliado,781,0.0827,Automática,Finalizado
+CR001019,CL00934,2025-04-09,Crédito libre inversión,5050000,6,0.0258,919000,App,777,0.2908,Automática,Mora severa
+CR001020,CL00937,2026-02-27,Crédito libre inversión,4750000,6,0.0283,872000,App,812,0.3028,Automática,Activo
+CR001021,CL00938,2025-12-10,Crédito consumo digital,850000,6,0.0374,161000,Web,791,1.8,Automática,Mora severa
+CR001022,CL00938,2026-01-15,Microcrédito,1850000,9,0.0301,238000,Aliado,808,0.0971,Automática,Activo
+CR001023,CL00939,2023-12-16,Crédito consumo digital,1800000,6,0.0273,329000,Call center,834,0.0991,Automática,Finalizado
+CR001024,CL00940,2024-02-17,Avance de nómina,1350000,6,0.0282,248000,Call center,900,0.0482,Automática,Finalizado
+CR001025,CL00940,2024-11-28,Crédito consumo digital,2350000,6,0.0345,440000,App,900,0.0854,Automática,Finalizado
+CR001026,CL00941,2024-03-27,Crédito consumo digital,2600000,6,0.0205,465000,App,892,0.1987,Automática,Finalizado
+CR001027,CL00941,2025-06-27,Crédito consumo digital,1150000,6,0.0277,211000,App,828,0.0902,Automática,Finalizado
+CR001028,CL00942,2026-01-08,Microcrédito,4100000,3,0.0302,1450000,App,856,0.4096,Manual,Activo
+CR001029,CL00942,2025-04-27,Crédito libre inversión,5900000,12,0.0226,567000,Aliado,868,0.1602,Automática,Finalizado
+CR001030,CL00943,2024-10-28,Crédito consumo digital,800000,6,0.0226,144000,App,856,0.0842,Automática,Finalizado
+CR001031,CL00944,2024-08-29,Crédito consumo digital,600000,3,0.0356,214000,App,637,0.1399,Automática,Finalizado
+CR001032,CL00944,2023-09-18,Crédito libre inversión,2750000,6,0.0293,506000,App,735,0.3307,Automática,Mora moderada
+CR001033,CL00944,2025-07-21,Crédito consumo digital,1200000,3,0.0213,417000,App,844,0.2725,Automática,Mora severa
+CR001034,CL00945,2025-10-21,Microcrédito,2400000,24,0.0295,141000,App,856,0.0472,Automática,Activo
+CR001035,CL00946,2025-10-20,Crédito consumo digital,1550000,12,0.0222,149000,Call center,833,0.0536,Automática,Activo
+CR001036,CL00947,2023-12-24,Crédito consumo digital,4800000,12,0.0285,478000,Aliado,900,0.1037,Automática,Finalizado
+CR001037,CL00947,2023-09-18,Crédito consumo digital,2950000,6,0.0341,552000,App,900,0.1197,Automática,Finalizado
+CR001038,CL00949,2025-08-08,Crédito consumo digital,1400000,9,0.0366,185000,App,875,0.1076,Automática,Activo
+CR001039,CL00950,2025-07-12,Avance de nómina,500000,6,0.0208,90000,App,876,0.0584,Automática,Mora severa
+CR001040,CL00950,2024-06-17,Avance de nómina,1150000,9,0.0276,146000,Web,766,0.0948,Automática,Mora severa
+CR001041,CL00951,2026-02-08,Crédito consumo digital,1050000,3,0.025,368000,Web,757,0.1786,Automática,Activo
+CR001042,CL00952,2024-01-12,Microcrédito,3900000,6,0.0296,719000,Web,789,0.2643,Automática,Mora moderada
+CR001043,CL00953,2025-07-23,Crédito libre inversión,1700000,6,0.018,301000,App,807,0.101,Automática,Mora moderada
+CR001044,CL00953,2025-12-23,Crédito consumo digital,1450000,9,0.0273,184000,Aliado,782,0.0617,Automática,Activo
+CR001045,CL00954,2024-11-05,Crédito libre inversión,3000000,12,0.0325,306000,App,900,0.1391,Automática,Finalizado
+CR001046,CL00956,2025-08-09,Crédito consumo digital,2150000,18,0.0246,149000,Aliado,900,0.0309,Automática,Activo
+CR001047,CL00957,2026-03-01,Crédito consumo digital,4850000,12,0.0239,470000,App,876,0.1047,Automática,Activo
+CR001048,CL00958,2025-05-07,Crédito libre inversión,5450000,12,0.0219,521000,App,565,0.1731,Manual,Activo
+CR001049,CL00958,2025-12-26,Crédito libre inversión,4850000,3,0.0282,1709000,Aliado,441,0.5678,Excepción,Finalizado
+CR001050,CL00958,2025-06-09,Crédito libre inversión,2300000,12,0.0223,221000,App,591,0.0734,Manual,Activo
+CR001051,CL00960,2024-03-21,Crédito consumo digital,2200000,6,0.035,413000,App,844,0.1229,Automática,Finalizado
+CR001052,CL00961,2025-06-30,Crédito libre inversión,3050000,12,0.022,292000,App,828,0.1106,Automática,Activo
+CR001053,CL00962,2026-03-06,Crédito libre inversión,5300000,6,0.0182,940000,App,900,0.2919,Automática,Activo
+CR001054,CL00962,2025-08-16,Crédito consumo digital,1950000,12,0.0256,191000,App,900,0.0593,Automática,Activo
+CR001055,CL00963,2024-05-29,Crédito libre inversión,3700000,12,0.0189,348000,Aliado,785,0.1822,Automática,Mora moderada
+CR001056,CL00964,2026-01-03,Crédito consumo digital,1050000,6,0.0314,195000,Web,893,0.101,Automática,Activo
+CR001057,CL00965,2024-04-17,Microcrédito,2600000,18,0.0406,206000,App,801,0.0802,Automática,Mora severa
+CR001058,CL00966,2026-03-12,Crédito consumo digital,950000,6,0.0308,176000,Call center,896,0.0685,Automática,Activo
+CR001059,CL00968,2025-05-25,Crédito consumo digital,2300000,9,0.0365,304000,Call center,846,0.1328,Automática,Finalizado
+CR001060,CL00969,2024-02-13,Avance de nómina,400000,6,0.0316,74000,App,862,0.0288,Automática,Finalizado
+CR001061,CL00970,2026-02-10,Avance de nómina,750000,3,0.095,263000,Aliado,813,0.1185,Automática,Activo
+CR001062,CL00971,2026-02-26,Crédito consumo digital,1800000,12,0.0316,183000,Aliado,773,0.0782,Automática,Activo
+CR001063,CL00972,2026-01-22,Crédito consumo digital,350000,12,0.0332,36000,App,641,0.0474,Automática,Mora moderada
+CR001064,CL00972,2025-05-15,Crédito consumo digital,450000,6,0.0267,82000,Aliado,792,0.1079,Automática,Mora severa
+CR001065,CL00973,2025-07-16,Avance de nómina,500000,18,0.0259,35000,Call center,893,0.0075,Automática,Activo
+CR001066,CL00973,2025-11-05,Crédito consumo digital,2150000,18,0.0268,152000,Aliado,900,0.0326,Automática,Activo
+CR001067,CL00975,2024-12-10,Crédito consumo digital,1600000,18,0.0348,121000,Call center,752,0.0699,Automática,Mora moderada
+CR001068,CL00978,2025-12-07,Crédito consumo digital,1350000,12,0.0317,137000,Call center,780,0.0533,Automática,Activo
+CR001069,CL00978,2025-10-16,Crédito libre inversión,2200000,12,0.0255,215000,Aliado,820,0.0837,Automática,Mora severa
+CR001070,CL00979,2023-11-08,Microcrédito,1700000,18,0.0405,135000,Web,757,0.1071,Automática,Mora severa
+CR001071,CL00979,2023-09-06,Crédito libre inversión,2300000,6,0.025,418000,App,773,0.3317,Automática,Mora moderada
+CR001072,CL00980,2025-06-28,Crédito consumo digital,1900000,9,0.0248,238000,Web,900,0.0829,Automática,Finalizado
+CR001073,CL00981,2025-11-03,Crédito consumo digital,3000000,9,0.0224,372000,Aliado,852,0.0869,Automática,Mora moderada
+CR001074,CL00982,2025-10-31,Crédito libre inversión,2400000,3,0.0199,832000,App,786,0.4597,Manual,Finalizado
+CR001075,CL00983,2025-06-29,Microcrédito,3850000,3,0.031,1364000,App,840,0.4624,Manual,Finalizado
+CR001076,CL00984,2024-03-12,Crédito libre inversión,2500000,3,0.0311,886000,App,795,0.4497,Manual,Finalizado
+CR001077,CL00985,2026-03-07,Crédito consumo digital,1450000,6,0.0317,269000,App,708,0.1234,Automática,Activo
+CR001078,CL00986,2025-08-11,Crédito consumo digital,1200000,12,0.0356,125000,App,587,0.0638,Manual,Activo
+CR001079,CL00986,2024-11-21,Crédito consumo digital,700000,24,0.0311,42000,Aliado,616,0.0214,Manual,Mora severa
+CR001080,CL00987,2025-12-03,Crédito consumo digital,400000,3,0.0361,143000,App,900,0.0633,Automática,Mora severa
+CR001081,CL00988,2025-11-14,Microcrédito,5900000,12,0.0297,592000,App,824,0.1741,Automática,Activo
+CR001082,CL00988,2025-12-01,Avance de nómina,1350000,6,0.0294,249000,App,786,0.0732,Automática,Activo
+CR001083,CL00989,2025-08-04,Microcrédito,1100000,12,0.0277,109000,App,800,0.044,Automática,Activo
+CR001084,CL00990,2025-09-26,Crédito libre inversión,1500000,12,0.0327,153000,App,582,0.0677,Manual,Activo
+CR001085,CL00991,2024-09-01,Crédito consumo digital,3100000,6,0.0359,584000,Aliado,900,0.1497,Automática,Finalizado
+CR001086,CL00992,2025-07-06,Crédito consumo digital,1050000,12,0.0336,108000,App,885,0.0403,Automática,Mora severa
+CR001087,CL00992,2025-10-27,Crédito libre inversión,7550000,24,0.0186,393000,App,876,0.1466,Automática,Activo
+CR001088,CL00992,2025-08-23,Microcrédito,2100000,9,0.0285,268000,Aliado,768,0.1,Automática,Mora severa
+CR001089,CL00994,2025-07-20,Crédito consumo digital,1750000,9,0.0264,221000,App,900,0.0619,Automática,Finalizado
+CR001090,CL00995,2025-06-25,Crédito consumo digital,1000000,12,0.0376,105000,App,705,0.0398,Automática,Activo
+CR001091,CL00995,2025-05-23,Crédito consumo digital,2450000,12,0.0231,236000,App,781,0.0894,Automática,Activo
+CR001092,CL00996,2025-06-04,Crédito consumo digital,850000,12,0.0388,90000,Aliado,826,0.0312,Automática,Activo
+CR001093,CL00999,2025-10-05,Crédito consumo digital,1200000,18,0.0227,82000,App,877,0.035,Automática,Activo
+CR001094,CL01000,2025-09-19,Crédito libre inversión,5000000,24,0.0332,306000,App,853,0.0818,Automática,Activo
+CR001095,CL01000,2025-12-29,Crédito libre inversión,5950000,9,0.0267,753000,App,900,0.2013,Automática,Activo
+CR001096,CL01000,2025-10-14,Crédito libre inversión,8100000,18,0.026,569000,App,900,0.1521,Automática,Activo
+CR001097,CL01001,2025-11-03,Crédito consumo digital,5050000,18,0.0203,338000,Web,900,0.0797,Automática,Activo
+CR001098,CL01002,2026-03-27,Crédito consumo digital,1450000,12,0.0274,143000,App,769,0.0856,Automática,Activo
+CR001099,CL01003,2025-10-19,Crédito consumo digital,6950000,3,0.0328,2470000,App,796,0.8125,Excepción,Finalizado
+CR001100,CL01003,2025-11-02,Crédito consumo digital,2150000,24,0.0346,133000,App,850,0.0437,Automática,Activo
+CR001101,CL01004,2025-11-27,Microcrédito,3700000,12,0.0424,400000,App,900,0.0694,Automática,Activo
+CR001102,CL01005,2025-01-03,Crédito consumo digital,950000,6,0.0305,176000,App,900,0.083,Automática,Finalizado
+CR001103,CL01006,2025-11-12,Crédito consumo digital,3550000,3,0.025,1243000,App,827,0.3482,Automática,Finalizado
+CR001104,CL01006,2024-04-20,Microcrédito,7450000,6,0.0359,1402000,Aliado,787,0.3927,Manual,Mora moderada
+CR001105,CL01007,2024-10-05,Crédito consumo digital,800000,9,0.0231,99000,Web,794,0.0471,Automática,Finalizado
+CR001106,CL01007,2025-08-01,Crédito consumo digital,1150000,12,0.0336,118000,Call center,851,0.0562,Automática,Mora moderada
+CR001107,CL01009,2025-05-18,Crédito libre inversión,2700000,9,0.0277,343000,App,786,0.1916,Automática,Finalizado
+CR001108,CL01010,2025-10-19,Avance de nómina,500000,6,0.0272,91000,Aliado,784,0.0548,Automática,Mora severa
+CR001109,CL01012,2026-02-20,Crédito libre inversión,2750000,12,0.0234,265000,Web,847,1.2,Automática,Mora moderada
+CR001110,CL01013,2026-01-18,Crédito libre inversión,6750000,12,0.0175,629000,App,863,0.2132,Automática,Activo
+CR001111,CL01013,2026-02-27,Microcrédito,3600000,3,0.0252,1261000,App,900,0.4275,Manual,Activo
+CR001112,CL01013,2025-09-18,Crédito libre inversión,6150000,6,0.0231,1110000,App,836,0.3763,Manual,Finalizado
+CR001113,CL01014,2023-07-18,Crédito consumo digital,1050000,12,0.0365,110000,App,783,0.0775,Automática,Mora severa
+CR001114,CL01015,2025-07-27,Crédito libre inversión,2700000,6,0.0281,495000,Web,571,0.7984,Excepción,Mora moderada
+CR001115,CL01015,2025-07-14,Crédito libre inversión,1950000,9,0.018,237000,App,585,0.3823,Manual,Mora severa
+CR001116,CL01016,2025-09-06,Crédito libre inversión,3250000,12,0.0182,304000,Web,900,0.0498,Automática,Activo
+CR001117,CL01017,2024-09-16,Crédito libre inversión,2600000,6,0.0178,461000,App,742,0.2058,Automática,Mora moderada
+CR001118,CL01018,2024-08-11,Crédito consumo digital,750000,12,0.0255,73000,Aliado,868,0.0315,Automática,Finalizado
+CR001119,CL01019,2024-08-22,Microcrédito,4500000,24,0.0274,258000,App,817,0.1004,Automática,Mora severa
+CR001120,CL01019,2025-11-09,Avance de nómina,500000,6,0.0279,92000,App,779,0.0358,Automática,Activo
+CR001121,CL01020,2026-01-04,Crédito consumo digital,1300000,12,0.0342,134000,Aliado,853,0.0381,Automática,Activo
+CR001122,CL01021,2025-12-02,Crédito libre inversión,6450000,18,0.026,453000,Aliado,840,0.2004,Automática,Activo
+CR001123,CL01022,2025-01-29,Crédito consumo digital,2250000,6,0.0336,420000,App,900,0.0959,Automática,Finalizado
+CR001124,CL01025,2025-12-01,Crédito libre inversión,5700000,6,0.0321,1059000,Call center,900,0.2179,Automática,Activo
+CR001125,CL01026,2024-09-18,Crédito consumo digital,4750000,6,0.03,877000,App,900,0.1491,Automática,Finalizado
+CR001126,CL01028,2025-01-27,Crédito libre inversión,1900000,9,0.0196,232000,App,799,0.1536,Automática,Finalizado
+CR001127,CL01029,2025-06-08,Crédito libre inversión,7550000,6,0.0272,1381000,Web,725,0.4384,Manual,Finalizado
+CR001128,CL01030,2025-07-13,Crédito consumo digital,600000,6,0.0267,110000,Aliado,756,0.0759,Automática,Finalizado
+CR001129,CL01031,2025-11-24,Crédito consumo digital,1750000,6,0.0258,319000,App,802,0.1208,Automática,Activo
+CR001130,CL01032,2024-10-10,Crédito libre inversión,8000000,24,0.0252,448000,App,862,0.1082,Automática,Mora severa
+CR001131,CL01032,2025-11-11,Microcrédito,2800000,12,0.0438,305000,Web,900,0.0737,Automática,Activo
+CR001132,CL01033,2024-11-18,Microcrédito,1450000,12,0.0258,142000,Aliado,692,0.1203,Automática,Mora severa
+CR001133,CL01033,2025-11-21,Avance de nómina,400000,6,0.0237,72000,Aliado,661,0.061,Automática,Activo
+CR001134,CL01035,2025-07-22,Crédito consumo digital,600000,9,0.0259,76000,Web,785,0.0455,Automática,Finalizado
+CR001135,CL01036,2025-02-25,Crédito libre inversión,2150000,6,0.0321,400000,App,695,0.5714,Excepción,Mora moderada
+CR001136,CL01037,2026-01-10,Crédito libre inversión,1900000,9,0.0285,242000,App,788,0.1551,Automática,Activo
+CR001137,CL01038,2024-05-10,Crédito consumo digital,750000,6,0.0208,134000,Web,729,0.2,Automática,Mora severa
+CR001138,CL01040,2026-02-01,Crédito libre inversión,4700000,6,0.021,842000,Call center,881,0.2934,Automática,Activo
+CR001139,CL01041,2025-04-16,Crédito libre inversión,4300000,12,0.0295,431000,App,849,0.189,Automática,Finalizado
+CR001140,CL01043,2024-10-30,Crédito libre inversión,1700000,24,0.0295,100000,App,886,0.0392,Automática,Mora moderada
+CR001141,CL01043,2025-01-24,Crédito consumo digital,2850000,6,0.0204,510000,Aliado,795,0.2,Automática,Mora severa
+CR001142,CL01043,2025-12-04,Avance de nómina,450000,9,0.0211,55000,Aliado,786,0.0216,Automática,Activo
+CR001143,CL01044,2024-08-12,Crédito libre inversión,5200000,9,0.0275,660000,App,804,0.2568,Automática,Mora severa
+CR001144,CL01045,2025-08-05,Crédito libre inversión,3250000,3,0.032,1153000,App,803,0.4486,Manual,Finalizado
+CR001145,CL01046,2025-04-16,Crédito libre inversión,13050000,6,0.0292,2403000,Call center,900,0.4401,Manual,Finalizado
+CR001146,CL01047,2025-02-10,Avance de nómina,1450000,6,0.0282,266000,App,805,0.1035,Automática,Finalizado
+CR001147,CL01048,2025-05-11,Avance de nómina,900000,18,0.0252,63000,App,767,0.0364,Automática,Mora severa
+CR001148,CL01051,2023-07-31,Microcrédito,1350000,24,0.0393,88000,Aliado,730,0.0807,Automática,Mora severa
+CR001149,CL01053,2025-11-04,Crédito consumo digital,800000,12,0.026,78000,App,789,0.0375,Automática,Mora moderada
+CR001150,CL01054,2025-10-04,Crédito libre inversión,2450000,9,0.0286,313000,App,891,0.119,Automática,Activo
+CR001151,CL01055,2026-02-13,Microcrédito,2250000,6,0.0276,412000,Web,769,0.1839,Automática,Activo
+CR001152,CL01056,2023-09-29,Microcrédito,1450000,6,0.0399,277000,Aliado,715,0.1937,Automática,Mora severa
+CR001153,CL01058,2023-12-20,Crédito consumo digital,250000,9,0.0261,32000,Call center,777,0.0492,Automática,Mora moderada
+CR001154,CL01059,2024-12-05,Crédito consumo digital,1550000,9,0.0214,191000,Web,900,0.0408,Automática,Finalizado
+CR001155,CL01061,2025-10-01,Crédito consumo digital,850000,9,0.037,113000,App,845,0.0897,Automática,Activo
+CR001156,CL01062,2025-07-07,Crédito consumo digital,1350000,18,0.0254,94000,App,867,0.0503,Automática,Mora moderada
+CR001157,CL01063,2024-07-05,Crédito consumo digital,1350000,12,0.0309,136000,App,852,0.0422,Automática,Finalizado
+CR001158,CL01064,2024-04-29,Crédito consumo digital,950000,6,0.0235,172000,App,830,0.0623,Automática,Finalizado
+CR001159,CL01065,2024-10-10,Crédito consumo digital,1750000,18,0.0382,136000,App,869,0.0971,Automática,Mora moderada
+CR001160,CL01066,2025-10-03,Avance de nómina,450000,12,0.0268,44000,App,859,0.0155,Automática,Activo
+CR001161,CL01067,2024-04-26,Microcrédito,2550000,6,0.0449,494000,Call center,793,0.2245,Automática,Finalizado
+CR001162,CL01070,2026-02-15,Crédito libre inversión,12450000,12,0.0233,1202000,App,900,0.3284,Automática,Activo
+CR001163,CL01070,2025-02-08,Crédito consumo digital,1900000,6,0.0254,345000,App,900,0.0943,Automática,Finalizado
+CR001164,CL01071,2026-03-07,Crédito consumo digital,1000000,6,0.0317,186000,Web,900,0.0637,Automática,Activo
+CR001165,CL01071,2026-02-01,Avance de nómina,500000,12,0.0212,48000,Aliado,900,0.0164,Automática,Activo
+CR001166,CL01072,2025-11-22,Crédito libre inversión,9700000,18,0.0335,726000,Aliado,873,0.1729,Automática,Activo
+CR001167,CL01073,2026-01-04,Crédito libre inversión,2200000,9,0.0301,283000,App,841,0.2081,Automática,Activo
+CR001168,CL01075,2024-11-05,Crédito consumo digital,3700000,3,0.0224,1289000,App,900,0.1876,Automática,Finalizado
+CR001169,CL01078,2025-01-09,Crédito consumo digital,3150000,6,0.0251,572000,Web,893,0.1238,Automática,Finalizado
+CR001170,CL01080,2025-05-14,Microcrédito,1850000,9,0.0349,243000,App,876,0.0745,Automática,Mora severa
+CR001171,CL01082,2025-04-22,Crédito libre inversión,2050000,12,0.0276,203000,Web,831,0.0668,Automática,Mora severa
+CR001172,CL01083,2024-11-07,Avance de nómina,350000,9,0.0239,44000,Web,779,0.0333,Automática,Mora severa
+CR001173,CL01083,2024-08-28,Crédito libre inversión,1700000,24,0.0178,88000,App,849,0.0667,Automática,Mora moderada
+CR001174,CL01084,2026-03-08,Crédito libre inversión,2300000,18,0.0264,162000,Web,747,0.0871,Automática,Activo
+CR001175,CL01084,2025-10-10,Crédito consumo digital,450000,9,0.0276,57000,Web,829,0.0306,Automática,Activo
+CR001176,CL01086,2023-10-05,Crédito consumo digital,800000,6,0.0343,150000,Call center,816,0.1027,Automática,Finalizado
+CR001177,CL01087,2023-07-02,Microcrédito,3600000,24,0.041,238000,App,883,0.0645,Automática,Finalizado
+CR001178,CL01087,2023-05-15,Microcrédito,1500000,9,0.0382,200000,App,868,0.0542,Automática,Finalizado
+CR001179,CL01089,2024-06-07,Crédito consumo digital,850000,9,0.0383,113000,Call center,695,0.0876,Automática,Mora moderada
+CR001180,CL01089,2025-12-11,Crédito consumo digital,600000,9,0.036,79000,App,785,0.0612,Automática,Activo
+CR001181,CL01093,2025-04-19,Crédito consumo digital,2850000,12,0.0358,296000,Call center,885,0.0753,Automática,Finalizado
+CR001182,CL01095,2023-08-03,Crédito consumo digital,1250000,12,0.0245,121000,App,829,0.0442,Automática,Finalizado
+CR001183,CL01095,2024-12-03,Microcrédito,6500000,6,0.043,1252000,Aliado,777,0.4569,Manual,Mora severa
+CR001184,CL01096,2025-01-18,Microcrédito,1000000,12,0.0308,101000,Call center,780,0.0687,Automática,Finalizado
+CR001185,CL01096,2025-09-10,Crédito libre inversión,1100000,12,0.0295,110000,Aliado,802,0.0748,Automática,Activo
+CR001186,CL01097,2025-11-24,Crédito libre inversión,1100000,12,0.03,111000,App,765,0.038,Automática,Activo
+CR001187,CL01098,2025-12-23,Crédito consumo digital,550000,6,0.0296,101000,App,840,0.0488,Automática,Activo
+CR001188,CL01099,2025-10-31,Avance de nómina,500000,3,0.0223,174000,App,868,0.1689,Automática,Finalizado
+CR001189,CL01099,2025-07-11,Crédito libre inversión,800000,6,0.0184,142000,Aliado,777,0.1379,Automática,Mora severa
+CR001190,CL01100,2025-09-01,Avance de nómina,3950000,6,0.0202,706000,Aliado,900,0.0767,Automática,Finalizado
+CR001191,CL01100,2026-01-10,Crédito libre inversión,9600000,6,0.0237,1735000,Aliado,900,0.1886,Automática,Activo
+CR001192,CL01101,2025-07-17,Crédito libre inversión,1350000,12,0.028,134000,App,792,0.0713,Automática,Mora severa
+CR001193,CL01101,2024-11-30,Microcrédito,1500000,12,0.028,149000,App,770,0.0793,Automática,Mora severa
+CR001194,CL01102,2026-03-01,Crédito libre inversión,3100000,18,0.0277,221000,App,679,0.159,Automática,Activo
+CR001195,CL01103,2025-10-21,Avance de nómina,1150000,12,0.0183,108000,App,848,0.0262,Automática,Activo
+CR001196,CL01104,2023-05-17,Crédito libre inversión,1050000,18,0.0271,75000,App,787,0.0636,Automática,Mora severa
+CR001197,CL01106,2025-08-16,Microcrédito,1300000,3,0.0369,466000,Aliado,779,0.3128,Automática,Mora moderada
+CR001198,CL01107,2024-01-06,Microcrédito,1350000,12,0.0325,138000,Call center,779,0.1211,Automática,Mora severa
+CR001199,CL01108,2023-05-18,Crédito consumo digital,450000,12,0.0322,46000,App,741,0.039,Automática,Mora moderada
+CR001200,CL01109,2025-02-01,Microcrédito,4850000,12,0.0354,503000,Web,666,0.2177,Automática,Finalizado
+CR001201,CL01111,2025-09-20,Crédito libre inversión,4500000,3,0.0172,1552000,App,760,0.7838,Excepción,Mora severa
+CR001202,CL01111,2025-10-24,Microcrédito,1500000,3,0.0328,533000,App,688,0.2692,Automática,Mora moderada
+CR001203,CL01112,2026-02-17,Crédito libre inversión,2100000,18,0.0249,146000,Web,704,0.0834,Automática,Activo
+CR001204,CL01113,2026-03-15,Avance de nómina,2450000,3,0.0184,847000,Call center,900,0.1149,Automática,Activo
+CR001205,CL01114,2025-12-12,Crédito libre inversión,4750000,12,0.0332,486000,Web,755,0.1442,Automática,Activo
+CR001206,CL01115,2023-11-24,Crédito consumo digital,1500000,12,0.0235,145000,App,653,0.0662,Automática,Mora severa
+CR001207,CL01116,2024-11-25,Microcrédito,2900000,6,0.0409,555000,App,679,0.216,Automática,Mora moderada
+CR001208,CL01116,2025-10-03,Microcrédito,2200000,9,0.0446,302000,App,720,0.1175,Automática,Mora severa
+CR001209,CL01117,2024-07-14,Microcrédito,3400000,3,0.039,1223000,App,798,0.4873,Manual,Mora moderada
+CR001210,CL01117,2025-08-26,Microcrédito,2950000,6,0.0438,570000,App,754,0.2271,Automática,Mora moderada
+CR001211,CL01118,2024-12-06,Microcrédito,900000,3,0.0312,319000,Aliado,726,0.1933,Automática,Mora severa
+CR001212,CL01119,2026-02-06,Crédito consumo digital,650000,18,0.0334,49000,App,749,0.0521,Automática,Mora moderada
+CR001213,CL01120,2024-12-07,Crédito consumo digital,650000,12,0.0267,64000,App,730,0.0464,Automática,Mora severa
+CR001214,CL01121,2025-07-27,Crédito consumo digital,600000,9,0.0384,80000,App,852,0.0452,Automática,Finalizado
+CR001215,CL01121,2024-03-02,Crédito consumo digital,1350000,6,0.0271,247000,App,900,0.1395,Automática,Finalizado
+CR001216,CL01122,2024-02-03,Crédito libre inversión,2250000,12,0.0262,221000,Web,623,0.1381,Automática,Mora severa
+CR001217,CL01123,2026-01-02,Crédito libre inversión,6500000,18,0.0231,445000,Web,900,0.0873,Automática,Activo
+CR001218,CL01124,2023-06-21,Crédito libre inversión,1400000,9,0.0257,176000,Call center,833,0.0786,Automática,Finalizado
+CR001219,CL01124,2025-05-28,Avance de nómina,1800000,6,0.0287,331000,App,899,0.1478,Automática,Mora moderada
+CR001220,CL01124,2023-11-16,Crédito consumo digital,1150000,6,0.0217,206000,Aliado,802,0.092,Automática,Finalizado
+CR001221,CL01125,2024-07-23,Crédito consumo digital,2750000,18,0.0376,213000,App,885,0.0819,Automática,Finalizado
+CR001222,CL01127,2025-06-29,Avance de nómina,500000,12,0.0296,50000,App,885,0.02,Automática,Activo
+CR001223,CL01127,2025-06-12,Microcrédito,4450000,3,0.095,1615000,App,871,0.646,Excepción,Mora moderada
+CR001224,CL01128,2024-09-17,Crédito libre inversión,5300000,6,0.017,937000,App,900,0.3052,Automática,Finalizado
+CR001225,CL01130,2023-04-17,Crédito consumo digital,4700000,9,0.0223,582000,Web,900,0.1302,Automática,Mora severa
+CR001226,CL01132,2025-12-26,Crédito consumo digital,1900000,9,0.0224,235000,App,763,0.0936,Automática,Activo
+CR001227,CL01133,2026-02-07,Microcrédito,3500000,6,0.0395,667000,App,845,0.2417,Automática,Activo
+CR001228,CL01134,2025-06-19,Crédito consumo digital,4600000,3,0.0257,1613000,App,835,0.4234,Manual,Finalizado
+CR001229,CL01135,2024-11-04,Crédito consumo digital,1050000,18,0.0285,75000,Web,847,0.0357,Automática,Activo
+CR001230,CL01136,2024-12-21,Crédito consumo digital,1350000,18,0.0221,92000,Web,888,0.0358,Automática,Activo
+CR001231,CL01136,2025-06-28,Crédito libre inversión,3250000,18,0.0206,218000,App,864,0.0848,Automática,Mora moderada
+CR001232,CL01137,2024-01-07,Crédito libre inversión,3450000,24,0.0335,212000,Web,769,0.1134,Automática,Mora severa
+CR001233,CL01137,2024-09-15,Crédito consumo digital,1000000,9,0.0216,123000,Web,805,0.0658,Automática,Finalizado
+CR001234,CL01138,2025-07-07,Crédito consumo digital,1350000,12,0.0366,141000,App,862,0.0515,Automática,Activo
+CR001235,CL01138,2025-12-30,Crédito consumo digital,1050000,12,0.0211,100000,App,805,0.0365,Automática,Activo
+CR001236,CL01139,2025-06-04,Avance de nómina,300000,12,0.0262,29000,App,838,0.023,Automática,Activo
+CR001237,CL01140,2024-08-25,Crédito libre inversión,3900000,18,0.02,260000,Call center,797,0.1187,Automática,Finalizado
+CR001238,CL01141,2025-11-13,Crédito consumo digital,2050000,9,0.03,263000,App,842,0.0802,Automática,Activo
+CR001239,CL01141,2023-11-18,Crédito consumo digital,1650000,18,0.0322,122000,Aliado,888,0.0372,Automática,Mora moderada
+CR001240,CL01142,2023-05-14,Crédito consumo digital,1250000,9,0.0341,164000,App,873,0.0522,Automática,Finalizado
+CR001241,CL01142,2023-12-07,Crédito consumo digital,1350000,9,0.0376,180000,App,852,0.0573,Automática,Finalizado
+CR001242,CL01142,2024-10-13,Crédito consumo digital,1200000,18,0.0217,81000,App,870,0.0258,Automática,Finalizado
+CR001243,CL01143,2025-05-13,Avance de nómina,650000,9,0.0192,79000,App,900,0.0282,Automática,Mora moderada
+CR001244,CL01144,2025-12-29,Crédito libre inversión,4400000,9,0.0262,555000,Web,881,0.2382,Automática,Activo
+CR001245,CL01145,2024-03-23,Crédito consumo digital,850000,9,0.0329,111000,Web,736,0.081,Automática,Mora moderada
+CR001246,CL01148,2024-12-06,Crédito consumo digital,4300000,6,0.038,815000,App,810,0.2763,Automática,Finalizado
+CR001247,CL01150,2024-06-04,Crédito consumo digital,1200000,6,0.032,223000,App,843,0.1077,Automática,Mora severa
+CR001248,CL01152,2025-09-09,Avance de nómina,600000,24,0.0189,31000,App,863,0.0128,Automática,Activo
+CR001249,CL01153,2024-05-06,,3000000,6,0.0358,564000,Aliado,900,0.1253,Automática,Finalizado
+CR001250,CL01155,2025-08-28,Avance de nómina,950000,9,0.0304,122000,Aliado,770,0.0498,Automática,Mora severa
+CR001251,CL01155,2026-01-30,Microcrédito,1600000,6,0.0311,296000,Aliado,824,0.1208,Automática,Activo
+CR001252,CL01155,2025-06-21,Crédito libre inversión,4700000,18,0.022,319000,Call center,816,0.1302,Automática,Mora severa
+CR001253,CL01156,2025-05-27,Avance de nómina,1050000,3,0.0287,370000,App,850,0.0976,Automática,Mora severa
+CR001254,CL01156,2024-01-27,Crédito libre inversión,4100000,6,0.0307,759000,Web,900,0.2003,Automática,Mora moderada
+CR001255,CL01156,2024-09-27,Crédito consumo digital,1950000,6,0.0296,359000,Aliado,886,0.0947,Automática,Mora severa
+CR001256,CL01158,2026-02-23,Crédito consumo digital,2100000,9,0.0346,276000,Aliado,881,0.103,Automática,Activo
+CR001257,CL01159,2024-04-19,Microcrédito,750000,12,0.0301,75000,Aliado,771,0.0551,Automática,Finalizado
+CR001258,CL01160,2024-06-20,Crédito consumo digital,2100000,3,0.0328,746000,App,854,0.1995,Automática,Finalizado
+CR001259,CL01161,2025-09-19,Crédito consumo digital,1900000,24,0.032,115000,App,900,0.0294,Automática,Activo
+CR001260,CL01162,2026-02-16,Microcrédito,1900000,12,0.0255,186000,Aliado,864,0.1005,Automática,Activo
+CR001261,CL01165,2024-12-31,Microcrédito,3150000,6,0.0336,588000,Aliado,790,0.3063,Automática,Mora moderada
+CR001262,CL01165,2025-05-13,Crédito consumo digital,1900000,6,0.0319,353000,App,716,0.1839,Automática,Finalizado
+CR001263,CL01166,2025-05-15,Crédito libre inversión,5050000,24,0.0238,279000,App,900,0.0779,Automática,Activo
+CR001264,CL01166,2023-10-05,Crédito consumo digital,2600000,3,0.0359,930000,Call center,900,0.2598,Automática,Finalizado
+CR001265,CL01166,2025-04-20,Crédito consumo digital,2600000,24,0.025,145000,Web,900,0.0405,Automática,Activo
+CR001266,CL01168,2025-06-21,Crédito consumo digital,4850000,6,0.0315,900000,App,900,0.163,Automática,Finalizado
+CR001267,CL01169,2024-02-17,Microcrédito,10650000,9,0.0292,1363000,Aliado,900,0.2776,Automática,Finalizado
+CR001268,CL01170,2025-04-07,Crédito consumo digital,2150000,6,0.0287,395000,App,819,0.1091,Automática,Finalizado
+CR001269,CL01171,2025-08-17,Avance de nómina,550000,6,0.0213,99000,App,755,0.0604,Automática,Finalizado
+CR001270,CL01172,2025-10-15,,2000000,9,0.0339,262000,Aliado,733,0.169,Automática,Activo
+CR001271,CL01173,2025-05-27,Crédito libre inversión,3000000,3,0.028,1057000,App,707,0.6525,Excepción,Finalizado
+CR001272,CL01174,2024-12-04,Crédito libre inversión,7250000,12,0.023,698000,App,900,0.1772,Automática,Mora moderada
+CR001273,CL01175,2025-06-13,Crédito libre inversión,3500000,12,0.0251,341000,App,862,0.0808,Automática,Activo
+CR001274,CL01175,2025-05-30,Avance de nómina,900000,9,0.0305,116000,Web,900,0.0275,Automática,Finalizado
+CR001275,CL01175,2024-11-15,Crédito consumo digital,5100000,6,0.0291,939000,App,880,0.2225,Automática,Mora severa
+CR001276,CL01177,2025-11-11,Crédito libre inversión,1600000,18,0.0294,116000,App,705,0.1234,Automática,Mora severa
+CR001277,CL01178,2024-08-11,Crédito consumo digital,1150000,6,0.0268,210000,Aliado,889,0.0764,Automática,Finalizado
+CR001278,CL01180,2024-04-07,Crédito libre inversión,4800000,18,0.0211,323000,App,900,0.0976,Automática,Mora moderada
+CR001279,CL01180,2024-07-23,Crédito libre inversión,2750000,9,0.0219,340000,App,892,0.1027,Automática,Finalizado
+CR001280,CL01181,2024-05-06,Microcrédito,2150000,9,0.0434,294000,Web,795,0.1633,Automática,Mora severa
+CR001281,CL01182,2026-03-16,Avance de nómina,2150000,6,0.032,399000,App,900,0.0484,Automática,Activo
+CR001282,CL01183,2024-03-11,Crédito consumo digital,1150000,18,0.0357,88000,App,792,0.0328,Automática,Mora moderada
+CR001283,CL01183,2024-02-03,Crédito consumo digital,900000,12,0.022,86000,App,809,0.0321,Automática,Mora severa
+CR001284,CL01184,2025-03-29,Crédito consumo digital,850000,6,0.0236,154000,Call center,814,0.1027,Automática,Mora moderada
+CR001285,CL01185,2025-08-12,Crédito libre inversión,5300000,6,0.027,969000,App,703,0.4195,Manual,Mora moderada
+CR001286,CL01186,2025-07-15,Crédito consumo digital,1400000,6,0.0228,252000,Web,811,0.0969,Automática,Mora severa
+CR001287,CL01187,2026-01-09,Microcrédito,5850000,12,0.0417,629000,Web,840,0.2321,Automática,Activo
+CR001288,CL01187,2025-07-18,Crédito libre inversión,2200000,12,0.0179,205000,Aliado,900,0.0756,Automática,Activo
+CR001289,CL01188,2026-02-03,Crédito libre inversión,3300000,3,0.0308,1169000,App,795,0.4549,Manual,Activo
+CR001290,CL01188,2023-12-31,Crédito consumo digital,1450000,3,0.0309,514000,Web,749,0.2,Automática,Finalizado
+CR001291,CL01189,2026-02-03,Microcrédito,250000,9,0.0256,31000,Web,625,0.0721,Automática,Activo
+CR001292,CL01190,2024-11-09,Crédito consumo digital,4500000,12,0.0228,433000,Aliado,900,0.0638,Automática,Mora moderada
+CR001293,CL01190,2024-02-05,Microcrédito,6050000,9,0.0263,764000,Aliado,900,0.1125,Automática,Finalizado
+CR001294,CL01191,2025-10-07,Crédito consumo digital,800000,18,0.0232,55000,Aliado,900,0.0299,Automática,Mora severa
+CR001295,CL01193,2026-02-05,Crédito consumo digital,1200000,12,0.0233,116000,Aliado,866,0.0396,Automática,Activo
+CR001296,CL01195,2024-08-07,Crédito consumo digital,1450000,6,0.0375,274000,Aliado,822,0.1015,Automática,Finalizado
+CR001297,CL01199,2025-11-25,Avance de nómina,1800000,6,0.024,326000,Aliado,821,0.1331,Automática,Mora moderada
+CR001298,CL01199,2026-02-12,Microcrédito,1050000,18,0.0,74000,Aliado,863,0.0302,Automática,Activo
+CR001299,CL01200,2025-07-26,Microcrédito,950000,12,0.0306,96000,Web,794,0.0578,Automática,Activo
+CR001300,CL01200,2025-12-18,Avance de nómina,350000,18,0.018,23000,App,810,0.0139,Automática,Activo
+CR001301,CL01201,2025-10-08,Crédito consumo digital,450000,18,0.0322,33000,App,795,0.0136,Automática,Activo
+CR001302,CL01202,2025-11-10,Microcrédito,8600000,3,0.0302,3042000,Aliado,808,0.6805,Excepción,Mora severa
+CR001303,CL01203,2025-10-03,Crédito consumo digital,1050000,18,0.0385,82000,Aliado,694,0.1051,Automática,Activo
+CR001304,CL01204,2026-01-09,Crédito consumo digital,5600000,18,0.0235,385000,Aliado,829,0.1024,Automática,Activo
+CR001305,CL01205,2024-09-10,Crédito libre inversión,3050000,9,0.0186,371000,Web,783,0.1775,Automática,Mora severa
+CR001306,CL01207,2025-09-19,Crédito libre inversión,2050000,9,0.0315,265000,Web,878,0.096,Automática,Activo
+CR001307,CL01208,2025-05-07,Microcrédito,1700000,3,0.0348,607000,App,682,0.2362,Automática,Finalizado
+CR001308,CL01209,2025-04-29,Crédito consumo digital,950000,24,0.0293,56000,App,866,0.0206,Automática,Mora moderada
+CR001309,CL01209,2023-09-09,Microcrédito,3150000,3,0.0391,1133000,Aliado,807,0.4165,Manual,Finalizado
+CR001310,CL01210,2025-12-20,Crédito libre inversión,1100000,24,0.0206,59000,Aliado,732,0.0573,Automática,Activo
+CR001311,CL01211,2025-03-12,Crédito libre inversión,4450000,9,0.0218,550000,App,753,0.3642,Manual,Mora severa
+CR001312,CL01211,2025-11-29,Crédito consumo digital,1150000,24,0.0255,65000,App,769,0.043,Automática,Mora moderada
+CR001313,CL01214,2024-04-26,Avance de nómina,550000,12,0.0308,56000,Web,900,0.0201,Automática,Finalizado
+CR001314,CL01214,2026-03-20,Avance de nómina,500000,18,0.0319,37000,App,827,0.0133,Automática,Activo
+CR001315,CL01214,2024-03-04,Crédito consumo digital,1700000,12,0.0253,166000,Aliado,882,0.0597,Automática,Finalizado
+CR001316,CL01215,2023-11-16,Crédito libre inversión,2850000,9,0.0263,360000,App,794,0.1731,Automática,Finalizado
+CR001317,CL01216,2025-08-10,Crédito libre inversión,9800000,9,0.0223,1214000,App,877,0.2836,Automática,Activo
+CR001318,CL01216,2025-12-28,Microcrédito,3850000,6,0.0386,731000,App,871,0.1708,Automática,Activo
+CR001319,CL01217,2025-10-03,Microcrédito,6000000,6,0.0408,1148000,Aliado,765,0.4467,Manual,Finalizado
+CR001320,CL01219,2026-01-22,Microcrédito,4450000,9,0.0335,581000,App,900,0.0937,Automática,Mora moderada
+CR001321,CL01219,2025-11-29,Crédito consumo digital,3600000,12,0.0258,353000,Aliado,900,0.0569,Automática,Activo
+CR001322,CL01220,2024-06-06,Crédito consumo digital,500000,12,0.0374,52000,App,705,0.0416,Automática,Mora severa
+CR001323,CL01220,2023-12-25,Crédito consumo digital,900000,9,0.0251,113000,App,723,0.0904,Automática,Mora moderada
+CR001324,CL01221,2023-12-29,Crédito consumo digital,1500000,6,0.0389,285000,Aliado,828,0.0916,Automática,Finalizado
+CR001325,CL01221,2024-07-25,Crédito consumo digital,1250000,9,0.0287,160000,App,855,0.0514,Automática,Mora moderada
+CR001326,CL01222,2025-04-16,Microcrédito,850000,6,0.0362,160000,App,699,0.1649,Automática,Finalizado
+CR001327,CL01224,2025-01-11,Crédito consumo digital,300000,12,0.0264,29000,App,766,0.058,Automática,Finalizado
+CR001328,CL01225,2025-07-25,Crédito consumo digital,1850000,6,0.0276,339000,Aliado,523,0.1389,Excepción,Finalizado
+CR001329,CL01226,2024-09-05,Crédito consumo digital,1600000,6,0.0265,292000,App,783,0.1321,Automática,Finalizado
+CR001330,CL01227,2024-01-16,Microcrédito,1800000,18,0.0333,135000,Call center,810,0.0443,Automática,Mora severa
+CR001331,CL01228,2024-12-14,Microcrédito,700000,12,0.0383,74000,App,692,0.1156,Automática,Finalizado
+CR001332,CL01229,2026-01-04,Crédito libre inversión,3400000,3,0.0204,1180000,App,873,0.3907,Manual,Finalizado
+CR001333,CL01230,2024-09-22,Microcrédito,5300000,6,0.0265,967000,Call center,779,0.3996,Manual,Mora moderada
+CR001334,CL01230,2023-10-01,Crédito libre inversión,5400000,24,0.0202,286000,Aliado,897,0.1182,Automática,Mora moderada
+CR001335,CL01233,2024-11-14,Crédito consumo digital,1150000,24,0.0351,72000,App,900,0.0321,Automática,Activo
+CR001336,CL01234,2025-04-12,Crédito consumo digital,2350000,6,0.032,437000,App,783,0.1917,Automática,Finalizado
+CR001337,CL01234,2025-12-13,Crédito consumo digital,1850000,24,0.0384,119000,Aliado,850,0.0522,Automática,Activo
+CR001338,CL01235,2025-01-18,Crédito libre inversión,2600000,3,0.0307,920000,Aliado,852,0.3206,Automática,Finalizado
+CR001339,CL01235,2026-02-11,Crédito consumo digital,2200000,6,0.037,416000,Call center,817,0.1449,Automática,Activo
+CR001340,CL01236,2025-05-22,Crédito consumo digital,550000,9,0.0214,68000,App,698,0.1046,Automática,Mora severa
+CR001341,CL01237,2025-07-12,Crédito consumo digital,2150000,6,0.0266,392000,App,900,0.1037,Automática,Finalizado
+CR001342,CL01237,2025-08-02,Microcrédito,3600000,6,0.0409,689000,App,889,0.1823,Automática,Finalizado
+CR001343,CL01238,2025-04-30,Crédito consumo digital,1600000,6,0.0215,287000,App,900,0.0744,Automática,Finalizado
+CR001344,CL01239,2025-09-21,Crédito consumo digital,950000,6,0.024,172000,Web,900,0.0669,Automática,Finalizado
+CR001345,CL01240,2025-10-28,Microcrédito,2700000,3,0.0369,967000,App,782,0.3719,Manual,Mora moderada
+CR001346,CL01240,2025-09-07,Crédito consumo digital,1050000,9,0.0379,140000,App,825,0.0538,Automática,Mora moderada
+CR001347,CL01241,2024-07-11,Microcrédito,1900000,9,0.0392,255000,Web,758,0.1294,Automática,Finalizado
+CR001348,CL01242,2023-12-18,Microcrédito,1500000,3,0.0407,541000,Aliado,698,0.2245,Automática,Finalizado
+CR001349,CL01243,2025-06-13,Crédito libre inversión,3050000,9,0.0315,394000,App,856,0.1615,Automática,Mora moderada
+CR001350,CL01244,2023-04-11,Microcrédito,2250000,3,0.0379,808000,App,748,0.4321,Manual,Mora moderada
+CR001351,CL01244,2023-06-04,Crédito libre inversión,3600000,12,0.0288,359000,Web,794,0.192,Automática,Mora moderada
+CR001352,CL01246,2025-11-08,Avance de nómina,700000,6,0.0216,126000,App,820,0.049,Automática,Activo
+CR001353,CL01246,2024-08-18,Microcrédito,1650000,9,0.0375,219000,App,751,0.0852,Automática,Finalizado
+CR001354,CL01246,2024-05-27,Microcrédito,3000000,3,0.0352,1071000,App,706,0.4167,Manual,Finalizado
+CR001355,CL01247,2024-04-17,Crédito consumo digital,650000,12,0.0306,66000,App,856,0.0282,Automática,Mora moderada
+CR001356,CL01249,2023-05-17,Microcrédito,1350000,18,0.0372,104000,App,726,0.0963,Automática,Mora severa
+CR001357,CL01249,2025-03-23,Crédito libre inversión,650000,12,0.0179,61000,App,744,0.0565,Automática,Finalizado
+CR001358,CL01250,2026-02-12,Crédito consumo digital,950000,6,0.0253,173000,App,609,0.0896,Manual,Activo
+CR001359,CL01252,2025-11-11,Microcrédito,1400000,9,0.0376,186000,Web,790,0.0974,Automática,Activo
+CR001360,CL01252,2025-10-30,Crédito consumo digital,1150000,6,0.0324,214000,App,900,0.112,Automática,Finalizado
+CR001361,CL01253,2024-02-16,Crédito consumo digital,1050000,6,0.0377,199000,Aliado,814,0.0732,Automática,Finalizado
+CR001362,CL01254,2025-03-24,Microcrédito,2550000,12,0.0286,254000,Web,853,0.0638,Automática,Mora moderada
+CR001363,CL01256,2023-04-28,Avance de nómina,2200000,6,0.0256,400000,App,849,0.125,Automática,Finalizado
+CR001364,CL01258,2024-03-17,Avance de nómina,700000,6,0.0269,128000,App,795,0.1,Automática,Finalizado
+CR001365,CL01259,2025-05-31,Crédito consumo digital,4900000,12,0.0332,502000,Call center,900,0.0864,Automática,Activo
+CR001366,CL01260,2025-08-05,Crédito libre inversión,2650000,18,0.02,177000,App,900,0.043,Automática,Activo
+CR001367,CL01260,2026-01-26,Crédito consumo digital,1150000,12,0.037,120000,Aliado,900,0.0291,Automática,Activo
+CR001368,CL01260,2025-07-25,Crédito libre inversión,10400000,6,0.0309,1926000,App,825,0.4675,Manual,Finalizado
+CR001369,CL01261,2024-03-10,Crédito consumo digital,1750000,12,0.0297,175000,App,837,0.0745,Automática,Mora severa
+CR001370,CL01262,2025-08-04,Crédito consumo digital,4750000,6,0.0275,870000,App,900,0.1299,Automática,Finalizado
+CR001371,CL01262,2025-12-15,Microcrédito,2600000,24,0.0299,153000,Call center,900,0.0228,Automática,Activo
+CR001372,CL01263,2025-06-16,Crédito consumo digital,2200000,12,0.0345,227000,App,855,0.0692,Automática,Activo
+CR001373,CL01264,2026-01-21,Crédito consumo digital,1000000,9,0.0267,126000,App,816,0.067,Automática,Activo
+CR001374,CL01266,2025-10-02,Crédito libre inversión,5650000,9,0.0174,684000,Aliado,844,0.2288,Automática,Mora severa
+CR001375,CL01266,2025-04-07,Crédito consumo digital,1750000,18,0.0353,133000,Call center,845,0.0445,Automática,Activo
+CR001376,CL01267,2025-12-26,Crédito consumo digital,2950000,18,0.0266,208000,App,865,0.0448,Automática,Activo
+CR001377,CL01268,2025-12-26,Crédito libre inversión,6350000,18,0.0216,429000,Web,873,0.1292,Automática,Mora moderada
+CR001378,CL01269,2024-09-07,Crédito consumo digital,400000,12,0.0229,39000,Aliado,749,0.0513,Automática,Finalizado
+CR001379,CL01270,2025-01-08,Crédito consumo digital,3400000,24,0.0311,203000,Aliado,900,0.0505,Automática,Activo
+CR001380,CL01270,2025-11-18,Crédito consumo digital,2100000,6,0.0296,387000,App,900,0.0963,Automática,Activo
+CR001381,CL01271,2025-07-14,Microcrédito,4700000,6,0.035,882000,App,900,0.1913,Automática,Finalizado
+CR001382,CL01272,2024-04-25,Crédito libre inversión,2150000,6,0.0298,397000,Web,737,0.3254,Automática,Mora severa
+CR001383,CL01273,2025-02-12,Crédito consumo digital,950000,18,0.0201,63000,App,900,0.0227,Automática,Activo
+CR001384,CL01273,2025-07-13,Crédito consumo digital,2050000,18,0.0348,155000,App,900,0.056,Automática,Activo
+CR001385,CL01273,2025-12-23,Microcrédito,1600000,18,0.0293,116000,App,767,0.0419,Automática,Activo
+CR001386,CL01274,2025-10-26,Crédito libre inversión,2950000,3,0.0266,1036000,App,776,0.3754,Manual,Finalizado
+CR001387,CL01275,2024-02-07,Crédito libre inversión,1800000,9,0.0215,222000,Aliado,866,0.0851,Automática,Finalizado
+CR001388,CL01275,2024-10-27,Crédito libre inversión,5550000,12,0.0278,550000,Aliado,824,0.2107,Automática,Finalizado
+CR001389,CL01276,2025-12-17,Microcrédito,2950000,6,0.0291,543000,Call center,832,0.1296,Automática,Activo
+CR001390,CL01277,2025-07-23,Avance de nómina,300000,3,0.0216,104000,App,758,0.1405,Automática,Mora severa
+CR001391,CL01279,2025-11-02,Microcrédito,1750000,12,0.0402,187000,Aliado,755,0.1062,Automática,Mora moderada
+CR001392,CL01280,2026-03-17,Microcrédito,2700000,18,0.0255,189000,App,900,0.0387,Automática,Activo
+CR001393,CL01282,2025-11-12,Crédito libre inversión,1950000,9,0.0269,247000,Web,574,0.358,Manual,Mora moderada
+CR001394,CL01283,2026-03-23,Crédito consumo digital,1600000,9,0.0355,211000,Aliado,767,0.1128,Automática,Activo
+CR001395,CL01283,2025-09-29,Crédito consumo digital,1300000,6,0.0235,235000,App,766,0.1257,Automática,Finalizado
+CR001396,CL01284,2025-08-01,Crédito consumo digital,4150000,24,0.0237,229000,App,900,0.0631,Automática,Activo
+CR001397,CL01284,2025-01-18,Crédito libre inversión,7150000,12,0.0257,700000,Call center,890,0.1928,Automática,Finalizado
+CR001398,CL01285,2025-11-28,Crédito libre inversión,4150000,6,0.033,774000,Aliado,895,0.2037,Automática,Activo
+CR001399,CL01285,2025-09-22,Avance de nómina,1500000,3,0.0199,520000,App,900,0.1368,Automática,Finalizado
+CR001400,CL01286,2026-01-08,Crédito libre inversión,1450000,12,0.0265,143000,App,857,0.0556,Automática,Activo
+CR001401,CL01287,2025-09-14,Crédito consumo digital,1750000,6,0.0331,326000,App,792,0.1567,Automática,Mora moderada
+CR001402,CL01288,2026-03-13,Crédito consumo digital,1500000,6,0.0298,277000,Aliado,900,0.0949,Automática,Activo
+CR001403,CL01288,2025-10-05,Crédito consumo digital,2050000,6,0.0361,386000,App,803,0.1322,Automática,Finalizado
+CR001404,CL01289,2026-01-21,Crédito libre inversión,2700000,3,0.0308,956000,App,646,0.6978,Excepción,Finalizado
+CR001405,CL01290,2025-08-04,Crédito consumo digital,850000,12,0.0214,81000,Call center,733,0.0455,Automática,Mora severa
+CR001406,CL01290,2024-09-17,Microcrédito,3000000,18,0.0407,238000,Web,694,0.1337,Automática,Mora moderada
+CR001407,CL01291,2025-09-23,Avance de nómina,250000,9,0.0234,31000,App,739,0.05,Automática,Activo
+CR001408,CL01294,2025-05-23,Microcrédito,850000,12,0.025,83000,Aliado,724,0.0585,Automática,Activo
+CR001409,CL01294,2025-05-31,Avance de nómina,650000,6,0.0223,117000,Web,787,0.0824,Automática,Finalizado
+CR001410,CL01294,2025-10-20,Crédito libre inversión,3700000,9,0.0295,474000,App,751,0.3338,Automática,Mora moderada
+CR001411,CL01295,2024-12-31,Crédito consumo digital,1600000,12,0.02,151000,App,891,0.0377,Automática,Finalizado
+CR001412,CL01296,2025-10-25,Crédito consumo digital,2200000,6,0.0361,414000,App,810,0.124,Automática,Finalizado
+CR001413,CL01297,2025-08-19,Crédito consumo digital,700000,18,0.0259,49000,Web,798,0.0462,Automática,Activo
+CR001414,CL01299,2025-12-08,Crédito libre inversión,2150000,6,0.0318,399000,App,848,0.1669,Automática,Activo
+CR001415,CL01300,2025-12-21,Crédito libre inversión,2150000,9,0.0182,261000,Web,760,0.3262,Automática,Mora moderada
+CR001416,CL01300,2026-03-18,Crédito consumo digital,250000,9,0.0304,32000,Aliado,828,0.04,Automática,Activo
+CR001417,CL01302,2025-05-15,Avance de nómina,1000000,6,0.0263,182000,Aliado,855,0.0613,Automática,Mora moderada
+CR001418,CL01303,2025-08-26,Avance de nómina,750000,6,0.0277,137000,Web,755,0.0617,Automática,Mora moderada
+CR001419,CL01303,2024-01-04,Crédito libre inversión,6250000,6,0.0333,1166000,App,827,0.5252,Manual,Mora moderada
+CR001420,CL01303,2025-07-05,Crédito consumo digital,1650000,12,0.0308,167000,Web,824,0.0752,Automática,Activo
+CR001421,CL01304,2025-08-14,Microcrédito,2700000,9,0.0427,368000,Web,721,0.1432,Automática,Mora moderada
+CR001422,CL01306,2025-08-08,Avance de nómina,1450000,12,0.0291,145000,Web,846,0.0363,Automática,Activo
+CR001423,CL01306,2025-12-09,Crédito consumo digital,2500000,9,0.0355,329000,App,900,0.0825,Automática,Activo
+CR001424,CL01307,2025-07-02,Crédito consumo digital,500000,6,0.0252,91000,Web,829,0.0548,Automática,Mora moderada
+CR001425,CL01308,2025-09-21,Avance de nómina,2200000,12,0.0251,215000,Aliado,807,0.0551,Automática,Activo
+CR001426,CL01308,2024-03-24,Crédito libre inversión,4500000,12,0.0236,435000,Aliado,824,0.1115,Automática,Finalizado
+CR001427,CL01309,2025-07-18,Crédito consumo digital,2350000,9,0.0389,315000,App,805,0.1514,Automática,Finalizado
+CR001428,CL01310,2026-02-06,Crédito consumo digital,1250000,9,0.0387,167000,App,827,0.0839,Automática,Mora moderada
+CR001429,CL01311,2026-01-23,Crédito consumo digital,750000,18,0.0253,52000,App,732,0.0473,Automática,Activo
+CR001430,CL01312,2025-06-25,Crédito consumo digital,950000,9,0.0342,124000,Aliado,831,0.053,Automática,Finalizado
+CR001431,CL01312,2025-03-20,Crédito consumo digital,750000,18,0.0279,54000,App,900,0.0231,Automática,Mora moderada
+CR001432,CL01313,2023-06-29,Crédito libre inversión,7100000,9,0.0306,915000,Aliado,757,0.5027,Manual,Mora moderada
+CR001433,CL01313,2023-05-12,Crédito consumo digital,1200000,6,0.0386,228000,App,799,0.1253,Automática,Finalizado
+CR001434,CL01313,2024-04-29,Crédito libre inversión,4050000,9,0.0228,503000,App,815,0.2764,Automática,Mora moderada
+CR001435,CL01314,2023-07-04,Crédito consumo digital,1300000,12,0.0254,127000,Web,893,0.0502,Automática,Finalizado
+CR001436,CL01314,2023-10-20,Avance de nómina,400000,18,0.0247,28000,Call center,900,0.0111,Automática,Mora severa
+CR001437,CL01315,2026-02-12,Crédito consumo digital,350000,6,0.0281,64000,App,742,0.0771,Automática,Activo
+CR001438,CL01316,2025-01-29,Crédito consumo digital,2050000,12,0.0226,197000,Aliado,762,0.0925,Automática,Finalizado
+CR001439,CL01317,2025-09-18,Crédito consumo digital,5550000,9,0.0338,726000,App,845,0.1429,Automática,Mora moderada
+CR001440,CL01318,2025-11-06,Microcrédito,2500000,12,0.027,247000,Call center,900,0.0475,Automática,Activo
+CR001441,CL01318,2026-01-06,Microcrédito,4100000,9,0.0385,548000,App,900,0.1054,Automática,Activo
+CR001442,CL01319,2025-06-22,Crédito consumo digital,1000000,6,0.0229,180000,Aliado,842,0.07,Automática,Finalizado
+CR001443,CL01319,2025-11-05,Crédito libre inversión,3400000,9,0.0253,427000,Call center,818,0.1661,Automática,Activo
+CR001444,CL01320,2025-03-29,Microcrédito,3250000,6,0.0363,612000,Aliado,847,0.1394,Automática,Finalizado
+CR001445,CL01320,2024-09-13,Microcrédito,3100000,6,0.036,584000,Aliado,879,0.133,Automática,Finalizado
+CR001446,CL01320,2024-01-10,Microcrédito,2600000,6,0.0279,477000,App,846,0.1087,Automática,Finalizado
+CR001447,CL01321,2025-09-24,Crédito libre inversión,5900000,18,0.0184,388000,Aliado,869,0.1687,Automática,Mora severa
+CR001448,CL01322,2025-06-21,Crédito libre inversión,2900000,3,0.0292,1024000,Call center,795,0.3122,Automática,Finalizado
+CR001449,CL01323,2025-08-25,Microcrédito,2300000,6,0.0402,439000,Aliado,787,0.1852,Automática,Finalizado
+CR001450,CL01325,2024-06-30,Microcrédito,2150000,12,0.0312,218000,Web,725,0.109,Automática,Finalizado
+CR001451,CL01326,2024-06-04,Crédito consumo digital,600000,12,0.0302,60000,App,551,0.0349,Manual,Mora moderada
+CR001452,CL01327,2026-01-13,Microcrédito,2300000,24,0.0396,150000,Aliado,900,0.0338,Automática,Activo
+CR001453,CL01327,2025-11-15,Avance de nómina,1650000,12,0.0245,160000,Call center,860,0.036,Automática,Activo
+CR001454,CL01328,2025-12-14,Crédito consumo digital,700000,9,0.0378,93000,App,842,0.0592,Automática,Activo
+CR001455,CL01328,2025-10-03,Crédito libre inversión,2450000,12,0.0265,241000,Aliado,759,0.1535,Automática,Mora moderada
+CR001456,CL01328,2025-02-12,Microcrédito,2500000,6,0.0278,458000,Web,834,0.2917,Automática,Mora moderada
+CR001457,CL01329,2025-05-31,Microcrédito,1450000,6,0.0385,275000,Aliado,900,0.1355,Automática,Finalizado
+CR001458,CL01329,2026-02-13,Crédito consumo digital,600000,9,0.0288,77000,App,846,0.0379,Automática,Activo
+CR001459,CL01330,2024-03-28,Crédito consumo digital,1350000,24,0.0277,78000,App,835,0.0316,Automática,Finalizado
+CR001460,CL01331,2023-06-04,Crédito libre inversión,4500000,12,0.0271,444000,App,844,0.1428,Automática,Finalizado
+CR001461,CL01332,2025-05-16,Microcrédito,2350000,12,0.0422,254000,App,900,0.0966,Automática,Activo
+CR001462,CL01333,2025-12-28,Crédito consumo digital,1850000,3,0.0289,653000,App,867,0.1458,Automática,Finalizado
+CR001463,CL01334,2026-03-06,Crédito consumo digital,2250000,9,0.0319,292000,Aliado,866,0.0973,Automática,Activo
+CR001464,CL01335,2025-10-06,Crédito libre inversión,450000,18,0.0321,33000,App,687,0.055,Automática,Activo
+CR001465,CL01336,2024-06-26,Avance de nómina,250000,12,0.0286,25000,Aliado,852,0.0234,Automática,Mora severa
+CR001466,CL01336,2024-04-19,Crédito consumo digital,250000,24,0.0336,15000,App,799,0.014,Automática,Mora moderada
+CR001467,CL01337,2025-12-02,Crédito libre inversión,7700000,6,0.0227,1387000,App,863,0.352,Manual,Activo
+CR001468,CL01338,2023-09-01,Crédito consumo digital,2100000,24,0.0249,117000,App,686,0.0557,Automática,Mora severa
+CR001469,CL01339,2023-07-11,Avance de nómina,600000,12,0.0183,56000,App,846,0.0218,Automática,Mora moderada
+CR001470,CL01340,2024-12-12,Crédito libre inversión,5950000,6,0.032,1106000,App,780,0.5317,Manual,Mora moderada
+CR001471,CL01341,2025-08-30,Crédito libre inversión,6350000,3,0.0311,2250000,App,830,0.5952,Excepción,Mora severa
+CR001472,CL01342,2025-10-17,Microcrédito,5000000,12,0.0366,522000,Call center,858,0.1491,Automática,Activo
+CR001473,CL01342,2025-03-14,Crédito consumo digital,1250000,6,0.0341,234000,App,820,0.0669,Automática,Finalizado
+CR001474,CL01343,2026-02-01,Crédito consumo digital,1800000,9,0.0342,236000,Call center,897,0.0992,Automática,Activo
+CR001475,CL01344,2024-08-11,Crédito consumo digital,1250000,3,0.0313,443000,Web,807,0.1765,Automática,Finalizado
+CR001476,CL01345,2025-06-01,Crédito libre inversión,2150000,9,0.0291,275000,App,818,0.1239,Automática,Mora moderada
+CR001477,CL01346,2024-11-27,Crédito libre inversión,750000,9,0.0172,91000,Aliado,798,0.0901,Automática,Mora moderada
+CR001478,CL01347,2025-07-31,Crédito libre inversión,1500000,6,0.0312,278000,App,779,0.1426,Automática,Finalizado
+CR001479,CL01347,2026-02-16,Crédito libre inversión,2450000,12,0.0224,235000,App,752,0.1205,Automática,Activo
+CR001480,CL01349,2026-01-05,Crédito libre inversión,1550000,9,0.0245,194000,Aliado,682,0.2519,Automática,Mora severa
+CR001481,CL01350,2025-07-06,Microcrédito,2000000,9,0.031,258000,App,848,0.1183,Automática,Mora moderada
+CR001482,CL01351,2025-10-20,Crédito consumo digital,1550000,6,0.0258,282000,Call center,835,0.1424,Automática,Finalizado
+CR001483,CL01351,2025-11-22,Crédito libre inversión,1350000,12,0.0182,126000,App,799,0.0636,Automática,Mora severa
+CR001484,CL01351,2025-08-04,Microcrédito,2800000,12,0.0337,287000,Aliado,758,0.1449,Automática,Mora moderada
+CR001485,CL01352,2025-02-08,Crédito libre inversión,1450000,3,0.0214,504000,App,743,0.42,Manual,Finalizado
+CR001486,CL01353,2026-01-05,Crédito libre inversión,1450000,6,0.0176,257000,Web,808,0.1152,Automática,Activo
+CR001487,CL01354,2025-09-21,Microcrédito,3500000,6,0.0352,657000,App,835,0.2066,Automática,Mora moderada
+CR001488,CL01356,2025-08-29,Microcrédito,4300000,9,0.0373,571000,Aliado,867,0.1252,Automática,Mora moderada
+CR001489,CL01356,2025-11-07,,3150000,9,0.0371,418000,App,900,0.0917,Automática,Activo
+CR001490,CL01359,2025-12-15,Microcrédito,3000000,18,0.0446,246000,App,751,0.0885,Automática,Mora moderada
+CR001491,CL01359,2025-11-15,Crédito consumo digital,1950000,6,0.025,354000,Call center,842,0.1273,Automática,Mora severa
+CR001492,CL01360,2026-01-17,Crédito consumo digital,750000,12,0.0343,77000,Aliado,588,0.03,Manual,Activo
+CR001493,CL01360,2024-09-25,Crédito consumo digital,700000,9,0.0317,91000,Aliado,603,0.0354,Manual,Mora moderada
+CR001494,CL01362,2025-09-05,Microcrédito,2150000,6,0.0391,409000,App,867,0.1591,Automática,Mora severa
+CR001495,CL01362,2025-11-22,Microcrédito,1050000,6,0.0318,195000,Web,811,0.0759,Automática,Activo
+CR001496,CL01363,2026-03-13,Avance de nómina,1900000,12,0.0299,191000,App,829,0.0541,Automática,Activo
+CR001497,CL01364,2025-07-12,Crédito consumo digital,1050000,3,0.0362,376000,Aliado,854,0.188,Automática,Finalizado
+CR001498,CL01365,2026-03-29,Crédito consumo digital,750000,3,0.0244,262000,App,841,0.1578,Automática,Activo
+CR001499,CL01366,2025-05-30,Crédito consumo digital,2100000,6,0.0298,387000,Web,607,0.1106,Manual,Mora moderada
+CR001500,CL01367,2025-07-05,Crédito libre inversión,7900000,6,0.026,1439000,App,857,0.327,Automática,Finalizado
+CR001501,CL01368,2024-07-15,Crédito consumo digital,650000,6,0.0293,120000,Web,497,0.0652,Excepción,Finalizado
+CR001502,CL01368,2025-04-28,Microcrédito,1850000,9,0.0388,247000,App,511,0.1342,Excepción,Finalizado
+CR001503,CL01369,2025-09-04,Crédito consumo digital,1550000,9,0.0206,190000,App,841,0.0819,Automática,Activo
+CR001504,CL01369,2026-03-20,Avance de nómina,350000,6,0.0316,65000,App,834,0.028,Automática,Activo
+CR001505,CL01371,2023-06-26,Crédito libre inversión,2700000,18,0.0336,202000,Web,900,0.0596,Automática,Finalizado
+CR001506,CL01372,2026-03-09,Crédito consumo digital,1600000,6,0.0214,287000,Web,876,0.1157,Automática,Activo
+CR001507,CL01373,2025-04-30,Avance de nómina,900000,12,0.0214,86000,App,900,0.0345,Automática,Finalizado
+CR001508,CL01373,2025-09-24,Microcrédito,1800000,6,0.0437,348000,App,887,0.1398,Automática,Mora moderada
+CR001509,CL01374,2025-11-16,Avance de nómina,450000,6,0.0248,82000,Aliado,900,0.0309,Automática,Activo
+CR001510,CL01375,2024-03-17,Crédito libre inversión,2000000,18,0.0286,144000,Call center,829,0.0526,Automática,Finalizado
+CR001511,CL01379,2025-12-14,Crédito consumo digital,850000,12,0.0229,82000,App,805,0.0429,Automática,Activo
+CR001512,CL01382,2023-08-20,Microcrédito,1150000,12,0.0271,114000,App,873,0.0418,Automática,Mora moderada
+CR001513,CL01383,2025-10-11,Crédito consumo digital,2050000,12,0.0218,196000,App,900,0.0563,Automática,Activo
+CR001514,CL01383,2025-12-12,Crédito libre inversión,3400000,18,0.0248,236000,Aliado,900,0.0678,Automática,Activo
+CR001515,CL01385,2025-10-13,Crédito consumo digital,2800000,18,0.0285,201000,App,900,0.0419,Automática,Activo
+CR001516,CL01386,2026-03-08,Crédito consumo digital,750000,12,0.0224,72000,App,854,0.0414,Automática,Activo
+CR001517,CL01386,2025-07-30,Crédito consumo digital,700000,9,0.0379,93000,Web,824,0.0534,Automática,Activo
+CR001518,CL01386,2025-11-26,Crédito libre inversión,1850000,9,0.0194,226000,App,755,0.1299,Automática,Activo
+CR001519,CL01388,2026-02-01,Crédito consumo digital,3600000,9,0.0384,481000,App,898,0.1276,Automática,Activo
+CR001520,CL01389,2026-02-14,Crédito consumo digital,850000,3,0.0351,303000,App,900,0.1464,Automática,Activo
+CR001521,CL01390,2024-04-25,Microcrédito,500000,6,0.0443,97000,Web,755,0.1902,Automática,Mora severa
+CR001522,CL01391,2025-11-01,Crédito libre inversión,3000000,6,0.0247,544000,Web,888,0.1902,Automática,Activo
+CR001523,CL01393,2026-03-14,Microcrédito,2250000,12,0.0333,230000,Web,730,0.1643,Automática,Activo
+CR001524,CL01394,2025-10-01,Crédito consumo digital,1050000,12,0.0321,107000,App,586,0.045,Manual,Activo
+CR001525,CL01394,2025-06-11,Crédito consumo digital,1150000,3,0.0226,401000,App,591,0.1685,Manual,Finalizado
+CR001526,CL01396,2025-07-04,Crédito consumo digital,3900000,6,0.0292,718000,App,900,0.1425,Automática,Finalizado
+CR001527,CL01400,2026-01-12,Crédito consumo digital,2100000,6,0.036,395000,App,900,0.1606,Automática,Activo

@@ -1,0 +1,15 @@
+{
+  "auc_lr_test": 0.7064,
+  "auc_rf_test": 0.6847,
+  "auc_lr_cv_mean": 0.7015,
+  "auc_lr_cv_std": 0.0437,
+  "auc_rf_cv_mean": 0.6972,
+  "auc_rf_cv_std": 0.0417,
+  "top5_features": [
+    "score_externo",
+    "score_interno_originacion",
+    "ingreso_mensual_estimado",
+    "relacion_cuota_ingreso",
+    "edad"
+  ]
+}
