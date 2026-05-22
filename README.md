@@ -34,8 +34,7 @@ tumipay/
 │   └── 03_modelado_ML.ipynb          # Features, modelos, evaluación, bandas de riesgo
 │
 ├── sql/
-│   └── consultas_analiticas.sql      # 10 consultas PostgreSQL documentadas                     
-│   
+│   └── consultas_analiticas.sql      # 10 consultas PostgreSQL documentadas                        
 ├── requirements.txt
 └── README.md
 ```
@@ -155,6 +154,30 @@ Bandas de riesgo:
 - PSI (Population Stability Index): Para detectar deriva del modelo en producción.
 
 ---
+## Dashboard Power BI
+
+El dashboard está estructurado en 4 páginas:
+
+** 1 — Resumen Ejecutivo:**
+KPIs globales (total créditos, tasa de mora, monto desembolsado, score promedio),
+mora por canal de originación y mora por producto crediticio.
+Decisión que permite: monitorear el portafolio a nivel gerencial de un vistazo.
+
+** 2 — Tendencia de Mora:**
+Evolución mensual de la tasa de mora a lo largo del tiempo.
+Decisión que permite: identificar si la mora está mejorando o deteriorándose
+y detectar meses críticos.
+
+** 3 — Segmentación y Riesgo:**
+Exposición por banda de riesgo, mora por banda y mora por estrato socioeconómico.
+Decisión que permite: priorizar segmentos para ajuste de política de originación.
+
+** 4 — Comportamiento de Pago:**
+Días mora promedio por cuota, distribución de estados de pago y detalle
+de clientes con filtros interactivos por canal, riesgo y producto.
+Decisión que permite: priorizar gestión de cobranza y alertas tempranas.
+
+Archivo: dashboard/tumipay_dashboard.pbix
 
 ## Uso de IA generativa
 
